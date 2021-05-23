@@ -23,6 +23,7 @@ class AttackStance(IntEnum):
 
 
 class UnitAIAction(IntEnum):
+    """Detailed introduction: [https://airef.github.io/parameters/parameters-details.html#ActionId]"""
     ANY = 0
     ATTACK = 1
     BUILD = 3
@@ -853,36 +854,54 @@ class ObjectClass(IntEnum):
 
 class TerrainRestrictions(IntEnum):
     ALL = 0
+    """Used by terrain eyecandy and sundries."""
     LAND_AND_SHALLOWS = 1
+    """Used by part of animals."""
     BEACH = 2
     WATER_SMALL_TRAIL = 3
+    """Used by most ships and sea gate."""
     LAND = 4
+    """Used by most land buildings."""
     NOTHING = 5
     WATER_NO_TRAIL = 6
+    """Used by docks."""
     ALL_EXCEPT_WATER = 7
+    """Used by land troops."""
     LAND_EXCEPT_FARM = 8
+    """Used by land resources."""
     NOTHING_2 = 9
     LAND_AND_BEACH = 10
+    """Used by land walls and gates."""
     LAND_EXCEPT_FARM_2 = 11
+    """Used by trees and mountains."""
     ALL_EXCEPT_WATER_BRIDGE_CANNON = 12
     WATER_MEDIUM_TRAIL = 13
-    ALL_EXCEPT_WATER_BRIDGE = 14
+    """Used by big fishes and fishing ship."""
+    ALL_EXCEPT_WATER_BRIDGE_ARROW = 14
     WATER_LARGE_TRAIL = 15
+    """Only used by transport ship."""
     GRASS_AND_BEACH = 16
     WATER_AND_BRIDGE_EXCEPT_BEACH = 17
     ALL_EXCEPT_WATER_BRIDGE_SPEAR = 18
     ONLY_WATER_AND_ICE = 19
-    ALL_EXCEPT_WATER2 = 20
+    """Used by fishes."""
+    ALL_EXCEPT_WATER_Wheel = 20
+    """Used by units with wheel, such as Rams, Scorpion."""
     SHALLOW_WATER = 21
     ALL_DART = 22
-    ALL_ARROW = 23
-    ALL_CANNON = 24
-    ALL_SPEAR = 25
-    ALL_DART2 = 26
-    ALL_EXPLOSION = 27
-    UNKNOWN = 28
-    UNKNOWN_2 = 29
+    ALL_ARROW_Chemical = 23
+    """Only used by Arrows with chemical fire. The same below."""
+    ALL_CANNON_Chemical = 24
+    ALL_SPEAR_Chemical = 25
+    ALL_DART_Chemical = 26
+    ALL_LASER = 27
+    """Only used by Projectile Laser with id 1595"""
+    ALL_EXCEPT_WATER_Riding_Forces = 28
+    """Such as Cavalry Archer, Cavalry, Conquistador, Missionary, Flaming Camel."""
+    ALL_EXCEPT_WATER_Trebuchet_Packed = 29
+    """All types of Trebuchet(Packed)."""
     WATER_SMALLEST_TRAIL = 30
+    """Used by medium ships, such as Trade Cog, Fire Galley, Longboat."""
 
 
 class HeroStatusFlag(IntEnum):
@@ -914,10 +933,13 @@ class BlastLevel(IntEnum):
     TREES = 1
     NEARBY_UNITS = 2
     TARGET_ONLY = 3
+    FIXED_TRAMPLE_INFANTRY = 6
+    """Infantry with Level 6 can cause 5 points trample damage like Cataphract."""
 
 
 class DamageClass(IntEnum):
-    UNUSED1 = 0
+    WONDER = 0
+    """Since HD. Only wonders has this armour class. However there is no unit having this damage class."""
     INFANTRY = 1
     TURTLE_SHIPS = 2
     BASE_PIERCE = 3
@@ -933,11 +955,12 @@ class DamageClass(IntEnum):
     UNUSED6 = 12
     STONE_DEFENSE = 13
     PREDATOR_ANIMALS_FE = 14
-    """Only the unit bear with id 486 has this armour class"""
+    """Wolf, Bear, Jaguar, Tiger, etc. have this armour class"""
     ARCHERS = 15
     BATTLE_SHIPS_AND_SABOTEUR = 16
     """Camels also had this armour class before AK"""
     RAMS = 17
+    """Trebuchet and Siege_Tower also had this armour class"""
     TREES = 18
     UNIQUE_UNITS = 19
     SIEGE_WEAPONS = 20
@@ -954,7 +977,22 @@ class DamageClass(IntEnum):
     """Camels use this armour class since and after AK"""
     LEITIS = 31
     CONDOTTIERO = 32
-    UNUSED = 33
+    ORGAN_GUN_BULLET = 33
+    """Only Projectile Gunpowder (Secondary) with id 1119 has this damage class. No unit has this armour class."""
     FISHING_SHIP = 34
     MAMELUKES = 35
     HEROES_AND_KING = 36
+    """Class 37~49 are UNUSED in DE. Unknown whether can be saved in scenario."""
+    UNUSED37 = 37
+    UNUSED38 = 38
+    UNUSED39 = 39
+    UNUSED40 = 40
+    UNUSED41 = 41
+    UNUSED42 = 42
+    UNUSED43 = 43
+    UNUSED44 = 44
+    UNUSED45 = 45
+    UNUSED46 = 46
+    UNUSED47 = 47
+    UNUSED48 = 48
+    UNUSED49 = 49
