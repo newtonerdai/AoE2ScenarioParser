@@ -1,0 +1,1702 @@
+ID	InternalName(gaia)	InternalName(civilizations)	TypeId	ClassId	NameStringID	Name_EN	Name_ZH	Name_EN_reorganized	Name_ZH_reorganized	DeadId(gaia)	ProjectileId_main(gaia)	ProjectileId_vice(gaia)	IconId(gaia)	IconId(civilizations)	HotKeyId(gaia)	HotKeyId(civilizations)	HiddenInEditor(gaia)	HiddenInEditor(civilizations)	GaiaOnly	AbandonedByDevs
+0	OLD-ACADEMY	OLD-ACADEMY	70	11	5465	Moveable Map Revealer	可移动的地图启示者	Moveable Map Revealer	可移动的地图启示者	-1	-1	-1	-1	-1	16000	16000	0	0	0	0
+1	LEGION	LEGION	70	6	5670	Legionary	罗马军	Legionary	罗马军	2	-1	-1	139	139	16669	16669	0	0	0	0
+2	LEGION_D	LEGION_D	30	11	0			[Corp]--Legionary	尸体--罗马军	-1			-1	-1	16668	16668	1	1	0	0
+3	ARCHR_D	ARCHR_D	30	11	0			[Corp]--Archer	尸体--步弓手	-1			-1	-1	16007	16007	1	1	0	0
+4	ARCHR	ARCHR	70	0	5083	Archer	步弓手	Archer	步弓手	3	363	-1	17	17	16083	16083	0	0	0	0
+5	HCANR	HCANR	70	44	5086	Hand Cannoneer	火枪手	Hand Cannoneer	火枪手	98	380	-1	22	22	16086	16086	0	0	0	0
+6	HXBOW	HXBOW	70	0	5087	Elite Skirmisher	精锐掷矛手	Elite Skirmisher	精锐掷矛手	100	366	366	21	21	16087	16087	0	0	0	0
+7	XBOWM	XBOWM	70	0	5088	Skirmisher	掷矛手	Skirmisher	掷矛手	238	365	365	20	20	16088	16088	0	0	0	0
+8	LNGBW	LNGBW	70	0	5107	Longbowman	长弓兵	Longbowman	长弓兵	115	511	-1	41	41	16107	16107	0	0	0	0
+9	ARROW	ARROW	60	11	0			[Proj]	抛射物	-1	-1		-1	-1	16067	16067	1	1	0	0
+10	ARRG3	ARRG3	80	3	5128	Archery Range	靶场	Archery Range 3	靶场 3	1416	-1	-1	1	1	16128	16128	1	1	0	0
+11	MOSUN	MOSUN	70	36	5108	Mangudai	蒙古突骑	Mangudai	蒙古突骑	135	477	-1	42	42	16108	16108	0	0	0	0
+12	Barracks Age1	Barracks Age1	80	3	5135	Barracks	兵营	Barracks	兵营	1402	-1	-1	2	2	16135	16135	0	0	0	0
+13	FSHSP	FSHSP	70	21	5090	Fishing Ship	渔船	Fishing Ship	渔船	-1	-1	-1	24	24	16090	16090	0	0	0	0
+14	ARRG4	ARRG4	80	3	5128	Archery Range	靶场	Archery Range 4	靶场 4	1416	-1	-1	1	1	16128	16128	1	1	0	0
+15	JUNKX	JUNKX	70	2	5092	Junk	小帆船	Junk	小帆船	-1	-1	-1	211	211	16092	16092	0	0	0	0
+16	BCANN_D	BCANN_D	30	11	0			[Corp]--Bombard Cannon	尸体--手推炮	-1			-1	-1	16009	16009	1	1	0	0
+17	COGXX	COGXX	70	2	5089	Trade Cog	贸易船	Trade Cog	贸易船	-1	-1	-1	23	23	16089	16089	0	0	0	0
+18	BLAC3	BLAC3	80	3	5131	Blacksmith	铁匠铺	Blacksmith 3	铁匠铺 3	1420	-1	-1	6	6	16131	16131	1	1	0	0
+19	BLAC4	BLAC4	80	3	5131	Blacksmith	铁匠铺	Blacksmith 4	铁匠铺 4	1420	-1	-1	6	6	16131	16131	1	1	0	0
+20	Barracks Age4	Barracks Age4	80	3	5135	Barracks	兵营	Barracks 4	兵营 4	1414	-1	-1	3	3	16135	16135	1	1	0	0
+21	GALLY	GALLY	70	22	5091	War Galley	战舰	War Galley	战舰	-1	372	-1	25	25	16091	16091	0	0	0	0
+22	BRSRK_D	BRSRK_D	30	11	0			[Corp]--Berserk (Hiden unit)	尸体--狂战士 (隐藏兵种)	-1			-1	-1	16010	16010	1	1	0	0
+23	BTRAM_D	BTRAM_D	30	11	0			[Corp]--Battering Ram	尸体--轻型冲车	-1			-1	-1	16011	16011	1	1	0	0
+24	CARCH	CARCH	70	0	5084	Crossbowman	弩手	Crossbowman	弩手	26	364	-1	18	18	16084	16084	0	0	0	0
+25	TKNIT	TKNIT	70	6	5112	Teutonic Knight	条顿武士	Teutonic Knight	条顿武士	181	-1	-1	45	45	16112	16112	0	0	0	0
+26	CARCH_D	CARCH_D	30	11	0			[Corp]--Crossbowman	尸体--弩手	-1			-1	-1	16012	16012	0	0	0	0
+27	CATAP_D	CATAP_D	30	11	0			[Corp]--Cataphract	尸体--甲胄骑兵	-1			-1	-1	16013	16013	1	1	0	0
+28	CHUKN_D	CHUKN_D	30	11	0			[Corp]--Chu Ko Nu	尸体--诸葛弩	-1			-1	-1	16014	16014	1	1	0	0
+29	COGXX_D	COGXX_D	30	11	0			[Corp]--COGXX_D (No Graphic)	尸体--COGXX_D (无图像)	-1			-1	-1	16015	16015	1	1	0	0
+30	CRCH2	CRCH2	80	3	5138	Monastery	修道院	Monastery 2	修道院 2	1421	-1	-1	10	10	16138	16138	1	1	0	0
+31	CRCH3	CRCH3	80	3	5138	Monastery	修道院	Monastery 3	修道院 3	1421	-1	-1	11	11	16138	16138	1	1	0	0
+32	CRCH4	CRCH4	80	3	5138	Monastery	修道院	Monastery 4	修道院 4	1421	-1	-1	12	12	16138	16138	1	1	0	0
+33	CSTL4	CSTL4	80	3	5187	Fortress	堡垒	Fortress	堡垒	1486	746	746	8	8	16142	16142	0	0	0	0
+34	CVRCH_D	CVRCH_D	30	11	0			[Corp]--Cavalry Archer	尸体--骑射手	-1			-1	-1	16016	16016	1	1	0	0
+35	BTRAM	BTRAM	70	13	5094	Battering Ram	轻型冲车	Battering Ram (Castle age Hiden)	轻型冲车 (城堡时代 隐藏)	23	-1	-1	74	74	16094	16094	1	1	0	0
+36	BCANN	BCANN	70	13	5093	Bombard Cannon	手推炮	Bombard Cannon	手推炮	16	368	-1	30	30	16093	16093	0	0	0	0
+37	LANCE	LANCE	70	12	5069	Light Cavalry	轻骑兵	Light Cavalry (Hiden unit Camel)	轻骑兵 (隐藏兵种 骆驼)	113	-1	-1	0	0	16069	16069	1	1	0	0
+38	KNGHT	KNGHT	70	12	5068	Knight	骑士	Knight	骑士	111	-1	-1	1	1	16068	16068	0	0	0	0
+39	CVRCH	CVRCH	70	36	5085	Cavalry Archer	骑射手	Cavalry Archer	骑射手	34	477	-1	19	19	16085	16085	0	0	0	0
+40	CATAP	CATAP	70	12	5101	Cataphract	甲胄骑兵	Cataphract	甲胄骑兵	27	-1	-1	35	35	16101	16101	0	0	0	0
+41	GBRSK	GBRSK	70	6	5104	Huskarl	近卫军	Huskarl	近卫军	62	-1	-1	50	50	16104	16104	0	0	0	0
+42	TREBU	TREBU	80	54	5097	Trebuchet	巨型投石机	Trebuchet (Unfolded)	巨型投石机 (展开)	194	371	-1	28	28	16097	16097	0	0	0	0
+43	DEERX_D	DEERX_D	30	11	0			[Corp]--Deer	尸体--鹿	-1			3		16017	16017	1	1	1	0
+44	DERVI_D	DERVI_D	30	11	0			[Corp]--Mameluke	尸体--马穆鲁克	-1			-1	-1	16018	16018	1	1	0	0
+45	DOCK	DOCK	80	3	5144	Dock	船坞	Dock	船坞	-1	-1	512	13	13	16144	16144	0	0	0	0
+46	JANNI	JANNI	70	44	5105	Janissary	苏丹亲兵	Janissary	苏丹亲兵	107	380	-1	39	39	16105	16105	0	0	0	0
+47	DOCK3	DOCK3	80	3	5144	Dock	船坞	Dock 3	船坞 3	-1	-1	512	15	15	16144	16144	1	1	0	0
+48	BOARX	BOARX	70	10	5406	Wild Boar	野猪	Wild Boar	野猪	356	-1	-1	98		16406	16406	0	0	1	0
+49	SIWS	SIWS	80	3	5169	Siege Workshop	攻城武器厂	Siege Workshop 2	攻城武器厂 2	1425	-1	-1	22	22	16169	16169	0	0	0	0
+50	FARM	FARM	80	49	5149	Farm	农田	Farm	农田	357	-1	-1	35	35	16149	16149	0	0	0	0
+51	DOCK4	DOCK4	80	3	5144	Dock	船坞	Dock 4	船坞 4	-1	-1	512	15	15	16144	16144	1	1	0	0
+52	RJANI	RJANI	70	44	5115	Royal Janissary	皇家苏丹亲兵	Royal Janissary	皇家苏丹亲兵	1576	380	-1	296	296	16455	16455	0	0	0	0
+53	FISHX	FISHX	30	5	5072	Fish (Perch)	河鲈	Fish (Perch)	河鲈	-1			276		16072	16072	0	0	1	0
+54	Projectile VOL	Projectile VOL	60	11	0			[Proj] (TC Aux.)	抛射物 (TC 副)	-1	-1		-1	-1	16067	16067	1	1	0	0
+55	FSHSP_D	FSHSP_D	30	11	0			[Corp]--FSHSP_D (No Graphic)	尸体--FSHSP_D (无图像)	-1			-1	-1	16020	16020	1	1	0	0
+56	VMFIS	VMFIS	70	4	5499	Fisherman	渔夫	Fisherman (male)	渔夫 (男)	58	-1	-1	332	332	16499	16499	1	1	0	0
+57	VFFIS	VFFIS	70	4	5499	Fisherman	渔夫	Fisherman (female)	渔夫 (女)	60	-1	-1	331	331	16499	16499	1	1	0	0
+58	VMFIS_D	VMFIS_D	30	11	0			[Corp]--Fisherman (male)	尸体--渔夫 (男)	-1			-1	-1	16000	16000	1	1	0	0
+59	FORAG	FORAG	10	7	5401	Forage Bush	果树丛	Forage Bush	果树丛	-1			6		16401	16401	0	0	1	0
+60	VFFIS_D	VFFIS_D	30	11	0			[Corp]--Fisherman (female)	尸体--渔夫 (女)	-1			-1	-1	16000	16000	1	1	0	0
+61	DOLP3	DOLP3	30	5	5332	Dolphin	海豚群	Dolphin	海豚群	-1			141	141	16330	16330	0	1	1	0
+62	GBRSK_D	GBRSK_D	30	11	0			[Corp]--Huskarl	尸体--近卫军	-1			-1	-1	16022	16022	1	1	0	0
+63	GTAA3	GTAA3	80	39	21029	Fortified Gate (up.)	增强城门 (向上)	Fortified Gate (／)	增强城门 (／)	1504	-1	-1	36	36	16185	16185	1	1	0	0
+64	GTAA2	GTAA2	80	39	21025	Gate (up.)	城门 (向上)	City Gate (／)	城门 (／)	1500	-1	-1	36	36	16185	16185	0	0	0	0
+65	DEERX	DEERX	70	9	5071	Deer	鹿	Deer	鹿	43	-1	-1	3		16071	16071	0	0	1	0
+66	GOLDM	GOLDM	10	32	5400	Gold Mine	金矿	Gold Mine	金矿	-1			14		16400	16400	0	0	1	0
+67	GTAB3	GTAB3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (／) (ON)	增强城门 (／) (开)	1504	-1	-1	36	36	16185	16185	1	1	0	0
+68	MILL	MILL	80	3	5157	Mill	磨坊	Mill	磨坊	1404	-1	-1	19	19	16157	16157	0	0	0	0
+69	FISHS	FISHS	30	33	5501	Shore Fish	海滨鱼群	Shore Fish	海滨鱼群	-1			280		16501	16501	0	0	1	0
+70	HOUS	HOUS	80	3	5344	House	房屋	House	房屋	1403	-1	-1	34	34	16344	16344	0	0	0	0
+71	RTWC2	RTWC2	80	3	5164	Town Center	城镇中心	Town Center 2	城镇中心 2	1431	-1	54	28	28	16164	16164	1	1	0	0
+72	WALL	WALL	80	27	5202	Palisade Wall	木栅栏	Palisade Wall	木栅栏	1407	-1	-1	30	30	16202	16202	0	0	0	0
+73	CHUKN	CHUKN	70	0	5102	Chu Ko Nu	诸葛弩	Chu Ko Nu	诸葛弩	28	510	510	36	36	16102	16102	0	0	0	0
+74	SPRMN	SPRMN	70	6	5079	Militia	民兵	Militia	民兵	152	-1	-1	8	8	16079	16079	0	0	0	0
+75	SWDMN	SWDMN	70	6	5080	Man-at-Arms	剑士	Man-at-Arms	剑士	154	-1	-1	10	10	16080	16080	0	0	0	0
+76	HVSWD	HVSWD	70	6	5077	Heavy Swordsman	重装剑士	Heavy Swordsman	重装剑士	99	-1	-1	184	184	16077	16077	0	0	0	0
+77	THSWD	THSWD	70	6	5081	Long Swordsman	长剑士	Long Swordsman	长剑士	180	-1	-1	13	13	16081	16081	0	0	0	0
+78	GTAB2	GTAB2	80	39	5185	Gate	城门	Gate (／) (ON)	城门 (／) (开)	1500	-1	-1	36	36	16185	16185	1	1	0	0
+79	WCTW	WCTW	80	52	5178	Watch Tower	瞭望箭塔	Watch Tower	瞭望箭塔	1436	504	505	25	25	16178	16178	0	0	0	0
+80	GTAC3	GTAC3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (／) (Gate Post)	增强城门 (／) (旗柱)	1519	-1	-1	36	36	16185	16185	1	1	0	0
+81	GTAC2	GTAC2	80	39	5185	Gate	城门	Gate (／) (Gate Post)	城门 (／) (旗柱)	1518	-1	-1	36	36	16185	16185	1	1	0	0
+82	CSTL	CSTL	80	3	5142	Castle	城堡	Castle	城堡	1430	746	746	7	7	16142	16142	0	0	0	0
+83	VMBAS	VMBAS	70	4	5121	Villager (Male)	村民 (男性)	Villager (male)	村民 (男)	224	-1	-1	15	15	16121	16121	0	0	0	0
+84	MRKT	MRKT	80	3	5161	Market	市场	Market	市场	1422	-1	-1	16	16	16161	16161	0	0	0	0
+85	GTBA3	GTBA3	80	39	21030	Fortified Gate (down.)	增强城门 (向下)	Fortified Gate (＼)	增强城门 (＼)	1505	-1	-1	36	36	16185	16185	1	1	0	0
+86	STBL3	STBL3	80	3	5171	Stable	马厩	Stable 3	马厩 3	1418	-1	-1	24	24	16171	16171	1	1	0	0
+87	ARRG	ARRG	80	3	5128	Archery Range	靶场	Archery Range	靶场	1415	-1	-1	0	0	16128	16128	0	0	0	0
+88	GTBA2	GTBA2	80	39	21026	Gate (down.)	城门 (向下)	Gate (＼)	城门 (＼)	1501	-1	-1	36	36	16185	16185	0	0	0	0
+89	DWOLF	DWOLF	70	10	5553	Dire Wolf	恶狼	Dire Wolf	恶狼	237	-1	-1	7		16553	16553	0	0	1	0
+90	GTBB3	GTBB3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (＼) (ON)	增强城门 (＼) (开)	1505	-1	-1	36	36	16185	16185	1	1	0	0
+91	GTBB2	GTBB2	80	39	5185	Gate	城门	Gate (＼) (ON)	城门 (＼) (开)	1501	-1	-1	36	36	16185	16185	1	1	0	0
+92	GTBC3	GTBC3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (＼) (Gate Post)	增强城门 (＼) (旗柱)	1519	-1	-1	36	36	16185	16185	1	1	0	0
+93	PKEMN	PKEMN	70	6	5078	Spearman	长矛兵	Spearman	长矛兵	140	-1	-1	31	31	16078	16078	0	0	0	0
+94	BRSRK	BRSRK	70	6	5076	Berserk	狂战士	Berserk (Hiden unit)	狂战士 (隐藏兵种)	22	-1	-1	9	9	16076	16076	1	1	0	0
+95	GTBC2	GTBC2	80	39	5185	Gate	城门	Gate (＼) (Gate Post)	城门 (＼) (旗柱)	1518	-1	-1	36	36	16185	16185	1	1	0	0
+96	HAWKX	HAWKX	70	11	5073	Hawk	鹰	Hawk	鹰	-1	-1	-1	283		16073	16073	0	0	1	0
+97	ARROW1	ARROW1	60	11	0			[Proj] (Arrow1)	抛射物 (箭矢1)	-1	-1		-1	-1	16067	16067	1	1	0	0
+98	HCANR_D	HCANR_D	30	11	0			[Corp]--Hand Cannoneer	尸体--火枪手	-1			-1	-1	16024	16024	1	1	0	0
+99	HVSWD_D	HVSWD_D	30	11	0			[Corp]--Heavy Swordsman	尸体--重装剑士	-1			-1	-1	16025	16025	1	1	0	0
+100	HXBOW_D	HXBOW_D	30	11	0			[Corp]--Elite Skirmisher	尸体--精锐掷矛手	-1			-1	-1	16026	16026	1	1	0	0
+101	STBL	STBL	80	3	5171	Stable	马厩	Stable	马厩	1417	-1	-1	23	23	16171	16171	0	0	0	0
+102	STONM	STONM	10	8	5252	Stone Mine	石矿	Stone Mine	石矿	-1			9		16252	16252	0	0	1	0
+103	BLAC	BLAC	80	3	5131	Blacksmith	铁匠铺	Blacksmith	铁匠铺	1419	-1	-1	4	4	16131	16131	0	0	0	0
+104	CRCH	CRCH	80	3	5138	Monastery	修道院	Monastery	修道院	1421	-1	-1	10	10	16138	16138	0	0	0	0
+105	BLAC2	BLAC2	80	3	5131	Blacksmith	铁匠铺	Blacksmith 2	铁匠铺 2	1419	-1	-1	5	5	16131	16131	1	1	0	0
+106	HLEIF	HLEIF	70	22	5472	Leif Erikson	莱夫·埃里克松	Leif Erikson	莱夫·埃里克松	-1	512	512	118	118	16457	16457	0	0	0	0
+107	JANNI_D	JANNI_D	30	11	0			[Corp]--Janissary	尸体--苏丹亲兵	-1			-1	-1	16028	16028	1	1	0	0
+108	JUNKX_D	JUNKX_D	30	11	0			[Corp]--JUNKX_D (No Graphic)	尸体--JUNKX_D (无图像)	-1			-1	-1	16029	16029	1	1	0	0
+109	RTWC	RTWC	80	3	5164	Town Center	城镇中心	Town Center	城镇中心	1408	-1	54	28	28	16164	16164	0	0	0	0
+110	TDWS	TDWS	80	3	5174	Trade Workshop	贸易工厂	Trade Workshop	贸易工厂	1429	-1	-1	17	17	16174	16174	0	0	0	0
+111	KNGHT_D	KNGHT_D	30	11	0			[Corp]--Knight	尸体--骑士	-1			-1	-1	16030	16030	0	0	0	0
+112	FLARE	FLARE	10	30	5316	Flare	闪烁	Flare 1 (Sight shooted 2 Tile 7s)	闪烁 1 (被射视野 2格7s)	-1			-1	-1	16316	16316	1	1	0	0
+113	LANCE_D	LANCE_D	30	11	0			[Corp]--Light Cavalry (Hiden unit)	尸体--轻骑兵 (隐藏兵种)	-1			-1	-1	16031	16031	1	1	0	0
+114	HSTOER	HSTOER	70	53	5473	Stoertebeker	斯托尔特贝克	Stoertebeker	斯托尔特贝克	-1	-1	-1	88	88	16703	16703	1	1	0	0
+115	LNGBW_D	LNGBW_D	30	11	0			[Corp]--Longbowman	尸体--长弓兵	-1			-1	-1	16033	16033	1	1	0	0
+116	MRKT3	MRKT3	80	3	5161	Market	市场	Market 3	市场 3	1423	-1	-1	17	17	16161	16161	1	1	0	0
+117	WALL2	WALL2	80	27	5203	Stone Wall	石墙	Stone Wall	石墙	1508	-1	-1	31	31	16203	16203	0	0	0	0
+118	VMBLD	VMBLD	70	4	5122	Builder	建筑者	Builder (male)	建筑者 (男)	225	-1	-1	330	330	16122	16122	1	1	0	0
+119	WALL4	WALL4	80	27	5205	Fortified Palisade Wall	硬木栅栏	Fortified Palisade Wall	硬木栅栏	143	-1	-1	30	30	16202	16202	0	0	0	0
+120	VMFOR	VMFOR	70	4	5402	Forager	浆果采集者	Forager (male)	浆果采集者 (男)	353	-1	-1	332	332	16402	16402	1	1	0	0
+121	MANGO_D	MANGO_D	30	11	0			[Corp]--Mangonel	尸体--轻型投石车	-1			-1	-1	16034	16034	1	1	0	0
+122	VMHUN	VMHUN	70	4	5124	Hunter	猎人	Hunter (male)	猎人 (男)	227	509	-1	332	332	16124	16124	1	1	0	0
+123	VMLUM	VMLUM	70	4	5125	Lumberjack	伐木工	Lumberjack (male)	伐木工 (男)	228	-1	-1	339	339	16125	16125	1	1	0	0
+124	VMMIN	VMMIN	70	4	5126	Stone Miner	石矿工	Stone Miner (male)	石矿工 (男)	229	-1	-1	336	336	16126	16126	1	1	0	0
+125	MONKX	MONKX	70	18	5099	Monk	僧侣	Monk	僧侣	134	-1	-1	33	33	16099	16099	0	0	0	0
+126	WOLFX	WOLFX	70	10	5075	Wolf	狼	Wolf	狼	237	-1	-1	7		16075	16075	0	0	1	0
+127	OLD_EXPLORER	OLD_EXPLORER	70	11	0			OLD_EXPLORER	OLD_EXPLORER	-1	-1	-1	-1	-1	16000	16000	1	1	0	0
+128	TCART	TCART	70	19	5100	Trade Cart (Empty)	贸易车 (空)	Trade Cart (Empty)	贸易车 (空)	178	-1	-1	34	34	16100	16100	0	0	0	0
+129	MILL2	MILL2	80	3	5157	Mill	磨坊	Mill 2	磨坊 2	1411	-1	-1	20	20	16157	16157	1	1	0	0
+130	MILL3	MILL3	80	3	5157	Mill	磨坊	Mill 3	磨坊 3	1412	-1	-1	21	21	16157	16157	1	1	0	0
+131	MILL4	MILL4	80	3	5157	Mill	磨坊	Mill 4	磨坊 4	1412	-1	-1	21	21	16157	16157	1	1	0	0
+132	Barracks Age3	Barracks Age3	80	3	5135	Barracks	兵营	Barracks 3	兵营 3	1414	-1	-1	3	3	16135	16135	1	1	0	0
+133	DOCK2	DOCK2	80	3	5144	Dock	船坞	Dock 2	船坞 2	-1	-1	512	14	14	16144	16144	1	1	0	0
+134	MONKX_D	MONKX_D	30	11	0			[Corp]--Monk	尸体--僧侣	-1			-1	-1	16035	16035	1	1	0	0
+135	MOSUN_D	MOSUN_D	30	11	0			[Corp]--Mangudai	尸体--蒙古突骑	-1			-1	-1	16036	16036	1	1	0	0
+136	MPCAV_D	MPCAV_D	30	11	0			[Corp]--War Elephant	尸体--战象	-1			-1	-1	16037	16037	1	1	0	0
+137	MRKT4	MRKT4	80	3	5161	Market	市场	Market 4	市场 4	1424	-1	-1	18	18	16161	16161	1	1	0	0
+138	Spy	Spy	70	6	0			Spy	间谍	154	-1	-1	183	183	16080	16080	1	1	0	0
+139	PALDN_D	PALDN_D	30	11	0			[Corp]--Cavalier	尸体--重装骑士	-1			-1	-1	16039	16039	1	1	0	0
+140	PKEMN_D	PKEMN_D	30	11	0			[Corp]--Spearman	尸体--长矛兵	-1			-1	-1	16040	16040	1	1	0	0
+141	RTWC3	RTWC3	80	3	5164	Town Center	城镇中心	Town Center 3	城镇中心 3	1432	-1	54	28	28	16164	16164	1	1	0	0
+142	RTWC4	RTWC4	80	3	5164	Town Center	城镇中心	Town Center 4	城镇中心 4	1433	-1	54	28	28	16164	16164	1	1	0	0
+143	RUBL1	RUBL1	10	14	5001	Rubble 1 x 1	碎石 1 x 1	Rubble 1 x 1	碎石 1 x 1	-1			-1	-1	16001	16001	1	1	0	0
+144	RUBL2	RUBL2	10	14	5002	Rubble 2 x 2	碎石 2 x 2	Rubble 2 x 2	碎石 2 x 2	-1			-1	-1	16002	16002	1	1	0	0
+145	RUBL3	RUBL3	10	14	5003	Rubble 3 x 3	碎石 3 x 3	Rubble 3 x 3	碎石 3 x 3	-1			-1	-1	16003	16003	1	1	0	0
+146	RUBL4	RUBL4	10	14	5004	Rubble 4 x 4	碎石 4 x 4	Rubble 4 x 4	碎石 4 x 4	-1			-1	-1	16004	16004	1	1	0	0
+147	RUBL6	RUBL6	10	14	5005	Rubble 6 x 6	碎石 6 x 6	Rubble 6 x 6	碎石 6 x 6	-1			-1	-1	16005	16005	1	1	0	0
+148	RUBL8	RUBL8	10	14	5006	Rubble 8 x 8	碎石 8 x 8	Rubble 8 x 8	碎石 8 x 8	-1			-1	-1	16006	16006	1	1	0	0
+149	SCBAL_D	SCBAL_D	30	11	0			[Corp]--Scorpion	尸体--弩炮	-1			-1	-1	16041	16041	1	1	0	0
+150	SIWS4	SIWS4	80	3	5169	Siege Workshop	攻城武器厂	Siege Workshop 3	攻城武器厂 3	1426	-1	-1	22	22	16169	16169	1	1	0	0
+151	SMURI_D	SMURI_D	30	11	0			[Corp]--Samurai	尸体--日本武士	-1			-1	-1	16042	16042	1	1	0	0
+152	SPRMN_D	SPRMN_D	30	11	0			[Corp]--Militia	尸体--民兵	-1			-1	-1	16043	16043	1	1	0	0
+153	STBL4	STBL4	80	3	5171	Stable	马厩	Stable 4	马厩 4	1418	-1	-1	24	24	16171	16171	1	1	0	0
+154	SWDMN_D	SWDMN_D	30	11	0			[Corp]--Man-at-Arms	尸体--剑士	-1			-1	-1	16044	16044	1	1	0	0
+155	WALL3	WALL3	80	27	5204	Fortified Wall	垛墙	Fortified Wall	垛墙	1509	-1	-1	31	31	16204	16204	0	0	0	0
+156	VMREP	VMREP	70	4	5127	Repairer	修理工	Repairer (male)	修理工 (男)	225	-1	-1	330	330	16127	16127	1	1	0	0
+157	TAXEM_D	TAXEM_D	30	11	0			[Corp]--Throwing Axeman	尸体--掷斧兵	-1			-1	-1	16045	16045	1	1	0	0
+158	OUTLW	OUTLW	70	10	5074			OUTLW (Archer model Animal)	OUTLW (步弓模型 动物)	3	363	-1	17		16074	16074	1	1	1	0
+159	ARTCT	ARTCT	70	1	5082	Relic Cart	圣物推车	Relic Cart (Legacy)	圣物推车 (旧版)	-1	-1	-1	14	14	16082	16082	1	1	0	0
+160	HRLION	HRLION	70	12	5633	Richard the Lionheart	狮心王理查	Richard the Lionheart	狮心王理查	570	-1	-1	92	92	16633	16633	0	0	0	0
+161	HBLACK	HBLACK	70	12	5622	The Black Prince	黑亲王	The Black Prince	黑亲王	139	-1	-1	343	343	16622	16622	0	0	0	0
+162	FLAGX	FLAGX	20	30	0			FLAGX	FLAGX	-1			-1	-1	16250	16250	1	1	0	0
+163	HFRIAR	HFRIAR	70	18	5626	Friar Tuck	塔克修士	Friar Tuck	塔克修士	134	-1	-1	311	311	16626	16626	0	0	0	0
+164	HSHERN	HSHERN	70	6	5635	Sheriff of Nottingham	诺丁安的郡长	Sheriff of Nottingham	诺丁安的郡长	180	-1	-1	182	182	16635	16635	0	0	0	0
+165	HCHARL	HCHARL	70	6	5623	Charlemagne	查理曼	Charlemagne	查理曼	157	515	-1	160	160	16623	16623	0	0	0	0
+166	HROLAN	HROLAN	70	12	5634	Roland	罗兰	Roland	罗兰	111	-1	-1	320	320	16634	16634	0	0	0	0
+167	HBELIS	HBELIS	70	12	5621	Belisarius	贝利沙鲁斯	Belisarius	贝利沙鲁斯	277	-1	-1	187	187	16621	16621	0	0	0	0
+168	HTHEOD	HTHEOD	70	6	5638	Theodoric the Goth	哥特人狄奥多利克	Theodoric the Goth	哥特人狄奥多利克	62	-1	-1	163	163	16638	16638	0	0	0	0
+169	HAETH	HAETH	70	6	5619	Aethelfrith	艾特尔弗里思	Aethelfrith	艾特尔弗里思	233	-1	-1	161	161	16619	16619	0	0	0	0
+170	HSIEG	HSIEG	70	6	5636	Siegfried	齐格菲	Siegfried	齐格菲	568	-1	-1	301	301	16636	16636	0	0	0	0
+171	HERIK	HERIK	70	6	5625	Erik the Red	红衣艾里克	Erik the Red	红衣艾里克	693	-1	-1	118	118	16625	16625	0	0	0	0
+172	HTAME	HTAME	70	36	5637	Tamerlane	帖木儿	Tamerlane	帖木儿	135	477	-1	261	261	16637	16637	0	0	0	0
+173	HKARTH	HKARTH	70	6	5628	King Arthur	亚瑟王	King Arthur	亚瑟王	568	-1	-1	301	301	16628	16628	0	0	0	0
+174	HLANCE	HLANCE	70	12	5630	Lancelot	兰斯洛特	Lancelot	兰斯洛特	570	-1	-1	305	305	16630	16630	0	0	0	0
+175	HGAWA	HGAWA	70	12	5627	Gawain	高文爵士	Gawain	高文爵士	139	-1	-1	343	343	16627	16627	0	0	0	0
+176	HMORD	HMORD	70	12	5632	Mordred	莫特列德	Mordred	莫特列德	570	-1	-1	305	305	16632	16632	0	0	0	0
+177	HARCH	HARCH	70	18	5620	Archbishop	大主教	Archbishop	大主教	134	-1	-1	311	311	16620	16620	0	0	0	0
+178	TCART_D	TCART_D	30	11	0			[Corp]--Trade Cart (Empty)	尸体--贸易车 (空)	-1			-1	-1	16046	16046	1	1	0	0
+179	TDWS4	TDWS4	80	3	5174	Trade Workshop	贸易工厂	Trade Workshop 4	贸易工厂 4	1429	-1	-1	17	17	16174	16174	1	1	0	0
+180	THSWD_D	THSWD_D	30	11	0			[Corp]--Long Swordsman	尸体--长剑士	-1			-1	-1	16047	16047	0	0	0	0
+181	TKNIT_D	TKNIT_D	30	11	0			[Corp]--Teutonic Knight	尸体--条顿武士	-1			-1	-1	16048	16048	1	1	0	0
+182	WNDR	WNDR	80	3	0			Wonder (Head unit)	奇观 (从属单位)	148	-1	-1	37	37	16182	16182	1	1	0	0
+183	TMISB	TMISB	80	3	0			TMISB (182's Annex unit)	TMISB (182的附加单位)	-1	-1	-1	-1	34	16344	16344	1	1	0	0
+184	CONDOPLACEHOLDER	CONDOPLACEHOLDER	70	6	5114	Condottiero	意大利佣兵	Condottiero (Ally)	意大利佣兵 (盟友)	883	-1	-1	134	134	16679	16679	1	1	0	0
+185	SLINGR	SLINGR	70	0	5690	Slinger	投石手	Slinger	投石手	186	187	-1	143	143	16743	16743	0	0	0	0
+186	SLING_D	SLING_D	30	11	0			[Corp]--Slinger	尸体--投石手	-1			-1	-1	16026	16026	1	1	0	0
+187	Projectile Slinger	Projectile Slinger	60	11	0			[Proj] (Slinger)	抛射物 (投石手)	-1	-1		-1	-1	16315	16315	1	1	0	0
+188	MPCAV	MPCAV	70	13	5118	Flamethrower	喷火车	Flamethrower	喷火车	189	676	676	144	144	16109	16109	0	0	0	0
+189	DRAGO_D	DRAGO_D	30	11	0			[Corp]--Flamethrower	尸体--喷火车	-1			-1	-1	16037	16037	1	1	0	0
+190	WCTW3	WCTW3	80	52	5158	Fire Tower	喷火塔	Fire Tower	喷火塔	1438	676	676	26	26	16158	16158	0	0	0	0
+191	HOUS3m	HOUS3m	80	3	5344	House	房屋	House (Nomads tech) 3	房屋 (游牧科技) 3	1435	-1	-1	34	34	16344	16344	1	1	0	0
+192	HOUS4m	HOUS4m	80	3	5344	House	房屋	House (Nomads tech) 4	房屋 (游牧科技) 4	1435	-1	-1	34	34	16344	16344	1	1	0	0
+193	HVLAD	HVLAD	70	12	5616	Vlad Dracula	弗拉德·德古拉	Vlad Dracula	弗拉德·德古拉	1617	-1	-1	147	147	16101	16101	0	0	0	0
+194	TREBU_D	TREBU_D	30	11	0			[Corp]--Trebuchet (Unfolded)	尸体--巨型投石机 (展开)	-1			-1	-1	16049	16049	1	1	0	0
+195	HKITA	HKITA	70	6	5629	Kitabatake	北畠氏	Kitabatake	北畠氏	151	-1	-1	307	307	16629	16629	0	0	0	0
+196	HMINA	HMINA	70	6	5631	Minamoto	源氏	Minamoto	源氏	151	-1	-1	126	126	16631	16631	0	0	0	0
+197	HWILL	HWILL	70	12	5639	Alexander Nevski	亚历山大·涅夫斯基	Alexander Nevski	亚历山大·涅夫斯基	139	-1	-1	75	75	16639	16639	0	0	0	0
+198	HELCID	HELCID	70	6	5624	El Cid	熙德	El Cid (Dismounted)	熙德 (下马)	568	-1	-1	173	173	16624	16624	0	0	0	0
+199	FTRAP	FTRAP	80	49	5495	Fish Trap	养鱼场	Fish Trap	养鱼场	278	-1	-1	41	41	16495	16495	0	0	0	0
+200	HROBN	HROBN	70	0	5640	Robin Hood	罗宾汉	Robin Hood	罗宾汉	115	511	-1	326	326	16640	16640	0	0	0	0
+201	FLR_R	FLR_R	10	30	5651	Tree	树木	FLR_R	FLR_R	-1			-1	-1	16651	16651	1	1	0	0
+202	WOLF2	WOLF2	70	10	5652	Rabid Wolf	狂暴之狼	Rabid Wolf	狂暴之狼	237	-1	-1	7		16652	16652	0	0	1	0
+203	HVASCO	HVASCO	70	22	5474	Vasco da Gama	瓦斯科·达·伽马	Vasco da Gama	瓦斯科·达·伽马	-1	380	1119	167	167	16106	16106	0	0	0	0
+204	TCARTF	TCARTF	70	19	5485	Trade Cart (Full)	贸易车 (满)	Trade Cart (Full)	贸易车 (满)	205	-1	-1	34	34	16100	16100	0	0	0	0
+205	TCARTF_D	TCARTF_D	30	11	0			[Corp]--Trade Cart (Full)	尸体--贸易车 (满)	-1			-1	-1	16655	16655	1	1	0	0
+206	VMDL	VMDL	70	4	5653	VMDL	VDML	VMDL	VDML	-1	-1	-1	337	337	16656	16656	1	1	0	0
+207	SHCLRY	SHCLRY	70	12	5419	Imperial Camel Rider	帝王骆驼兵	Imperial Camel Rider	帝王骆驼兵	300	-1	-1	185	185	16417	16417	0	0	0	0
+208	TWAL	TWAL	80	27	0			TWAL (Invisible wall)	TWAL (隐形墙)	143	-1	-1	0	0	16201	16201	1	1	0	0
+209	UNIV	UNIV	80	3	5176	University	大学	University	大学	1427	-1	-1	32	32	16176	16176	0	0	0	0
+210	UNIV4	UNIV4	80	3	5176	University	大学	University 4	大学 4	1428	-1	-1	33	33	16176	16176	1	1	0	0
+211	VFBAS_D	VFBAS_D	30	11	0			[Corp]--Villager (female)	尸体--村民 (女)	-1			-1	-1	16057	16057	1	1	0	0
+212	VFBLD	VFBLD	70	4	5122	Builder	建筑者	Builder (female)	建筑者 (女)	213	-1	-1	329	329	16122	16122	1	1	0	0
+213	VFBLD_D	VFBLD_D	30	11	0			[Corp]--Builder (female)	尸体--建筑者 (女)	-1			-1	-1	16058	16058	1	1	0	0
+214	VFFAR	VFFAR	70	4	5123	Farmer	农夫	Farmer (female)	农夫 (女)	215	-1	-1	331	331	16123	16123	1	1	0	0
+215	VFFAR_D	VFFAR_D	30	11	0			[Corp]--Farmer (female)	尸体--农夫 (女)	-1			-1	-1	16059	16059	1	1	0	0
+216	VFHUN	VFHUN	70	4	5124	Hunter	猎人	Hunter (female)	猎人 (女)	217	509	-1	331	331	16124	16124	1	1	0	0
+217	VFHUN_D	VFHUN_D	30	11	0			[Corp]--Hunter (female)	尸体--猎人 (女)	-1			-1	-1	16060	16060	1	1	0	0
+218	VFLUM	VFLUM	70	4	5125	Lumberjack	伐木工	Lumberjack (female)	伐木工 (女)	219	-1	-1	338	338	16125	16125	1	1	0	0
+219	VFLUM_D	VFLUM_D	30	11	0			[Corp]--Lumberjack (female)	尸体--伐木工 (女)	-1			-1	-1	16061	16061	1	1	0	0
+220	VFMIN	VFMIN	70	4	5126	Stone Miner	石矿工	Stone Miner (female)	石矿工 (女)	221	-1	-1	335	335	16126	16126	1	1	0	0
+221	VFMIN_D	VFMIN_D	30	11	0			[Corp]--Stone Miner (female)	尸体--石矿工 (女)	-1			-1	-1	16062	16062	1	1	0	0
+222	VFREP	VFREP	70	4	5127	Repairer	修理工	Repairer (female)	修理工 (女)	213	-1	-1	329	329	16127	16127	1	1	0	0
+223	HALARIC	HALARIC	70	12	5019	Alaric the Goth	哥特国王阿拉里克	Alaric the Goth	哥特国王阿拉里克	1620	-1	-1	163	163	16638	16638	0	0	0	0
+224	VMBAS_D	VMBAS_D	30	11	0			[Corp]--Villager (male)	尸体--村民 (男)	-1			-1	-1	16057	16057	1	1	0	0
+225	VMBLD_D	VMBLD_D	30	11	0			[Corp]--Builder (male)	尸体--建筑者 (男)	-1			-1	-1	16058	16058	1	1	0	0
+226	VMFAR_D	VMFAR_D	30	11	0			[Corp]--Farmer (male)	尸体--农夫 (男)	-1			-1	-1	16059	16059	1	1	0	0
+227	VMHUN_D	VMHUN_D	30	11	0			[Corp]--Hunter (male)	尸体--猎人 (男)	-1			-1	-1	16060	16060	1	1	0	0
+228	VMLUM_D	VMLUM_D	30	11	0			[Corp]--Lumberjack (male)	尸体--伐木工 (男)	-1			-1	-1	16061	16061	1	1	0	0
+229	VMMIN_D	VMMIN_D	30	11	0			[Corp]--Stone Miner (male)	尸体--石矿工 (男)	-1			-1	-1	16062	16062	1	1	0	0
+230	HBELA	HBELA	70	59	5475	King Bela IV	贝拉四世国王	King Bela IV	贝拉四世国王	497	-1	-1	323	323	16738	16738	0	0	0	0
+231	Aqueduct	Aqueduct	80	27	5758	Aqueduct	水渠	Aqueduct	水渠	1522	-1	-1	52	52	16201	16201	0	0	0	0
+232	WBRSK	WBRSK	70	6	5113	Woad Raider	靛蓝突袭者	Woad Raider	靛蓝突袭者	233	-1	-1	47	47	16113	16113	0	0	0	0
+233	WBRSK_D	WBRSK_D	30	11	0			[Corp]--Woad Raider	尸体--靛蓝突袭者	-1			-1	-1	16064	16064	1	1	0	0
+234	WCTW2	WCTW2	80	52	5154	Guard Tower	警戒箭塔	Guard Tower	警戒箭塔	1437	504	505	25	25	16154	16154	0	0	0	0
+235	WCTW3	WCTW3	80	52	5155	Keep	大型箭塔	Keep	大型箭塔	1438	504	505	26	26	16155	16155	0	0	0	0
+236	WCTW4	WCTW4	80	52	5156	Bombard Tower	炮塔	Bombard Tower	炮塔	1439	506	-1	42	42	16156	16156	0	0	0	0
+237	WOLFX_D	WOLFX_D	30	11	0			[Corp]--Wolf	尸体--狼	-1			7	7	16065	16065	1	1	0	0
+238	XBOWM_D	XBOWM_D	30	11	0			[Corp]--Skirmisher	尸体--掷矛手	-1			-1	-1	16066	16066	1	1	0	0
+239	MPCAV	MPCAV	70	12	5109	War Elephant	战象	War Elephant	战象	136	-1	-1	43	43	16109	16109	0	0	0	0
+240	TERRC	TERRC	10	14	0			TERRC	TERRC	-1			-1		16255	16255	1	1	1	0
+241	TERRG	TERRG	10	14	5259	Cracks	裂缝	Cracks	裂缝	-1			-1		16259	16259	0	0	1	0
+242	CATST	CATST	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16315	16315	1	1	0	0
+243	DOPL	DOPL	25	37	0			Ghost (Negative ID)	幽灵 (负ID)	-1			-1	-1	16248	16248	1	1	0	0
+244	CATSF	CATSF	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16314	16314	1	1	0	0
+245	BOLTX	BOLTX	60	11	0			[Proj] (Bolt)	抛射物 (弩箭)	-1	-1		-1	-1	16313	16313	1	1	0	0
+246	BOLTF	BOLTF	60	11	0			[Proj] (Bolt)	抛射物 (弩箭)	-1	-1		-1	-1	16312	16312	1	1	0	0
+247	Trail Smoke	Trail Smoke	20	11	0			Wake smoke	尾迹烟雾	-1			-1	-1	16317	16317	1	1	0	0
+248	PSTON	PSTON	10	41	5320	Pile of Stone	石矿堆	A pile of Stone	一堆石料	-1			9		16320	16320	1	1	1	0
+249	POREX	POREX	70	41	5322			A pile of Resource (Ore)	一堆资源 (矿石)	-1	-1	-1	-1		16322	16322	1	1	1	0
+250	LNGBT	LNGBT	70	22	5106	Longboat	龙头战舰	Longboat	龙头战舰	-1	512	512	40	40	16106	16106	0	0	0	0
+251	AMPHI	AMPHI	80	3	5575	Amphitheatre	罗马圆形竞技场	Amphitheatre	罗马圆形竞技场	1514	-1	-1	58	58	16572	16572	0	0	0	0
+252	PGOLD	PGOLD	70	41	5321	Pile of Gold	金矿堆	A pile of Gold	一堆黄金	-1	-1	-1	14		16321	16321	1	1	1	0
+253	PWOOD	PWOOD	70	41	5323	Pile of Wood	木材堆	A pile of Wood	一堆木材	-1	-1	-1	32		16323	16323	1	1	1	0
+254	PILE1	PILE1	70	40	5286			Rubble 1 x 1 (Legacy Never fade)	碎石 1 x 1 (旧版 不消失)	-1	-1	-1	-1		16286	16286	1	1	1	0
+255	PILE2	PILE2	70	40	5286			Rubble 2 x 2 (Legacy Never fade)	碎石 2 x 2 (旧版 不消失)	-1	-1	-1	-1		16286	16286	1	1	1	0
+256	PILE3	PILE3	70	40	5286			Rubble 3 x 3 (Legacy Never fade)	碎石 3 x 3 (旧版 不消失)	-1	-1	-1	-1		16286	16286	1	1	1	0
+257	PILE4	PILE4	70	40	5286			Rubble 4 x 4 (Legacy Never fade)	碎石 4 x 4 (旧版 不消失)	-1	-1	-1	-1		16286	16286	1	1	1	0
+258	PILE6	PILE6	70	40	5286			Rubble 6 x 6 (Legacy Never fade)	碎石 6 x 6 (旧版 不消失)	-1	-1	-1	-1		16286	16286	1	1	1	0
+259	VMFAR	VMFAR	70	4	5123	Farmer	农夫	Farmer (male)	农夫 (男)	226	-1	-1	332	332	16123	16123	1	1	0	0
+260	OLD-FISH3	OLD-FISH3	10	11	0			OLD-FISH3	OLD-FISH3	-1			-1		16000	16000	1	1	1	0
+261	PILE8	PILE8	70	40	5286			Rubble 8 x 8 (Legacy Never fade)	碎石 8 x 8 (旧版 不消失)	-1	-1	-1	-1		16286	16286	1	1	1	0
+262	PFOOD	PFOOD	70	41	5324	Pile of Food	食物堆	A pile of Food	一堆食物	-1	-1	-1	6		16324	16324	1	1	1	0
+263	COLOSS	COLOSS	80	3	5317	Colosseum	罗马斗兽场	Colosseum	罗马斗兽场	1520	-1	-1	58	58	16505	16505	0	0	0	0
+264	CLF01	CLF01	10	34	0			Cliff 1 (3 x 3)	悬崖1 (大方)	-1			-1		16249	16249	1	1	1	0
+265	CLF02	CLF02	10	34	0			Cliff 2 (＼)	悬崖2 (＼)	-1			-1		16249	16249	1	1	1	0
+266	CLF03	CLF03	10	34	0			Cliff 3 (／)	悬崖3 (／)	-1			-1		16249	16249	1	1	1	0
+267	CLF04	CLF04	10	34	0			Cliff 4 (＼＼)	悬崖4 (＼＼)	-1			-1		16249	16249	1	1	1	0
+268	CLF05	CLF05	10	34	0			Cliff 5 (＼＼)	悬崖5 (＼＼)	-1			-1		16249	16249	1	1	1	0
+269	CLF06	CLF06	10	34	0			Cliff 6 (／／)	悬崖6 (／／)	-1			-1		16249	16249	1	1	1	0
+270	CLF07	CLF07	10	34	0			Cliff 7 (／／)	悬崖7 (／／)	-1			-1		16249	16249	1	1	1	0
+271	CLF08	CLF08	10	34	0			Cliff 8 (1.5 x 1.5)	悬崖8 (小方)	-1			-1		16249	16249	1	1	1	0
+272	CLF09	CLF09	10	34	0			Cliff 9 (1.5 x 1.5)	悬崖9 (小方)	-1			-1		16249	16249	1	1	1	0
+273						Test String	测试字符串												0	1
+274	FLARE2	FLARE2	10	11	5316	Flare	闪烁	Flare 2 (Map signal 0 Tile 20s)	闪烁 2 (地图信号 0格20s)	-1			-1	-1	16316	16316	0	0	0	0
+275	CENTU	CENTU	70	12	5450	Centurion	百夫长	Centurion	百夫长	277	-1	-1	138	138	16451	16451	0	0	0	0
+276	WNDR	WNDR	80	3	5182	Wonder	世界奇观	Wonder	世界奇观	1445	-1	-1	37	37	16182	16182	0	0	0	0
+277	CENTU_D	CENTU_D	30	11	0			[Corp]--Centurion	尸体--百夫长	-1			-1	-1	16013	16013	1	1	0	0
+278	FTRAP_D	FTRAP_D	80	11	5492	Dead Fish Trap	废弃养鱼场	Dead Fish Trap	废弃养鱼场	-1	-1	-1	0	0	16492	16492	1	1	0	0
+279	SCBAL	SCBAL	70	55	5096	Scorpion	弩炮	Scorpion	弩炮	149	367	367	80	80	16096	16096	0	0	0	0
+280	MANGO	MANGO	70	13	5095	Mangonel	轻型投石车	Mangonel	轻型投石车	121	656	369	27	27	16095	16095	0	0	0	0
+281	TAXEM	TAXEM	70	6	5111	Throwing Axeman	掷斧兵	Throwing Axeman	掷斧兵	157	515	-1	46	46	16111	16111	0	0	0	0
+282	DERVI	DERVI	70	12	5103	Mameluke	马穆鲁克	Mameluke	马穆鲁克	44	736	-1	37	37	16103	16103	0	0	0	0
+283	PALDN	PALDN	70	12	5070	Cavalier	重装骑士	Cavalier	重装骑士	139	-1	-1	49	49	16070	16070	0	0	0	0
+284	TREETD	TREETD	10	15	5348	Tree TD	树木 TD	Tree TD	树木 TD	415			32		16348	16348	0	0	1	0
+285	RELIC	RELIC	70	42	5350	Relic	圣物	Relic	圣物	-1	-1	-1	26		16350	16350	0	0	1	0
+286	RMONK	RMONK	70	43	5380	Monk with Relic	带着圣物的僧侣	Monk with Relic	带着圣物的僧侣	134	-1	-1	33	33	16380	16380	0	0	0	0
+287	RLIC1	RLIC1	70	42	5352	British Relic	不列颠圣物	British Relic	不列颠圣物	-1	-1	-1	26		16352	16352	0	0	1	0
+288	RLIC2	RLIC2	70	42	5353	Byzantine Relic	拜占庭圣物	Byzantine Relic	拜占庭圣物	-1	-1	-1	26		16353	16353	0	0	1	0
+289	RLIC3	RLIC3	70	42	5354	Chinese Relic	中国圣物	Chinese Relic	中国圣物	-1	-1	-1	26		16354	16354	0	0	1	0
+290	RLIC4	RLIC4	70	42	5355	Frankish Relic	法兰克圣物	Frankish Relic	法兰克圣物	-1	-1	-1	26		16355	16355	0	0	1	0
+291	SMURI	SMURI	70	6	5110	Samurai	日本武士	Samurai	日本武士	151	-1	-1	44	44	16110	16110	0	0	0	0
+292	RLIC5	RLIC5	70	42	5356	Gothic Relic	哥特圣物	Gothic Relic	哥特圣物	-1	-1	-1	26		16356	16356	0	0	1	0
+293	VFBAS	VFBAS	70	4	5607	Villager (Female)	村民 (女性)	Villager (female)	村民 (女)	211	-1	-1	16	16	16121	16121	0	0	0	0
+294	RLIC6	RLIC6	70	42	5357	Japanese Relic	日本圣物	Japanese Relic	日本圣物	-1	-1	-1	26		16357	16357	0	0	1	0
+295	RLIC7	RLIC7	70	42	5358	Persian Relic	波斯圣物	Persian Relic	波斯圣物	-1	-1	-1	26		16358	16358	0	0	1	0
+296	RLIC8	RLIC8	70	42	5359	Saracen Relic	萨拉森圣物	Saracen Relic	萨拉森圣物	-1	-1	-1	26		16359	16359	0	0	1	0
+297	RLIC9	RLIC9	70	42	5360	Teutonic Relic	条顿圣物	Teutonic Relic	条顿圣物	-1	-1	-1	26		16360	16360	0	0	1	0
+298	RLIC0	RLIC0	70	42	5351	Turkish Relic	土耳其圣物	Turkish Relic	土耳其圣物	-1	-1	-1	26		16351	16351	0	0	1	0
+299	INFIL	INFIL	70	6	5098	Bandit	强盗	Bandit	强盗	152	-1	-1	8	8	16098	16098	0	0	0	0
+300	ICLRY_D	ICLRY_D	30	11	0			[Corp]--Imperial Camel Rider	尸体--帝王骆驼兵	-1			-1	-1	16031	16031	1	1	0	0
+301	GRSSP	GRSSP	10	14	21046	Grass Patch, Green	草坪，绿	Grass Patch, Green (Large)	草坪，绿 (大)	-1			-1		16385	16385	0	0	1	0
+302	BUSH	BUSH	10	15	5766	Bush A	灌木丛 A	Bush A	灌木丛 A	415			32		16398	16398	0	0	1	0
+303	SGULL	SGULL	70	11	5767	Seagulls	海鸥	Seagulls	海鸥	-1	-1	-1	-1		16716	16716	0	0	1	0
+304	BONFI	BONFI	20	30	5768	Bonfire	篝火	Bonfire	篝火	-1			-1	-1	16768	16768	0	0	0	0
+305	LLAMAG	LLAMAG	70	58	5503	Llama	羊驼	Llama	羊驼	780	-1	-1	156	156	16498	16498	0	0	0	0
+306	SHADW	SHADW	10	14	5769	Black Tile	黑格	Black Tile	黑格	-1			-1		16389	16389	0	0	1	0
+307	HCUAUT	HCUAUT	70	6	5530	Cuauhtemoc	瓜特穆斯	Cuauhtemoc	瓜特穆斯	1117	-1	-1	146	146	16673	16673	0	0	0	0
+308	INDESTRUCT	INDESTRUCT	80	3	0			Outpost (Hiden unit)	哨站 (隐藏单位)	-1	-1	-1	38	38	16504	16504	1	1	0	0
+309	RMNK0	RMNK0	70	43	5361	Monk with Turkish Relic	带着土耳其圣物的僧侣	Monk with Turkish Relic	带着土耳其圣物的僧侣	134	-1	-1	33	33	16361	16361	1	1	0	0
+310	MNTN1	MNTN1	10	14	5342	Mountain 1	山脉 1	Mountain 1	山脉 1	-1			-1		16342	16342	0	0	1	0
+311	MNTN2	MNTN2	10	14	5343	Mountain 2	山脉 2	Mountain 2	山脉 2	-1			-1		16343	16343	0	0	1	0
+312	ARROW2	ARROW2	60	11	0			[Proj] (Arrow2)	抛射物 (箭矢2)	-1	-1		-1	-1	16067	16067	1	1	0	0
+313	TREBST	TREBST	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16315	16315	1	1	0	0
+314	MANGST	MANGST	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16315	16315	1	1	0	0
+315	ARROW3	ARROW3	60	11	0			[Proj] (Arrow3)	抛射物 (箭矢3)	-1	-1		-1	-1	16067	16067	1	1	0	0
+316	ARROW4	ARROW4	60	11	0			[Proj] (Arrow4)	抛射物 (箭矢4)	-1	-1		-1	-1	16067	16067	1	1	0	0
+317	ARROW5	ARROW5	60	11	0			[Proj] (Arrow5)	抛射物 (箭矢5)	-1	-1		-1	-1	16067	16067	1	1	0	0
+318	ARROW6	ARROW6	60	11	0			[Proj] (Arrow6)	抛射物 (箭矢6)	-1	-1		-1	-1	16067	16067	1	1	0	0
+319	ARROW7	ARROW7	60	11	0			[Proj] (Arrow7)	抛射物 (箭矢7)	-1	-1		-1	-1	16067	16067	1	1	0	0
+320	ARROW8	ARROW8	60	11	0			[Proj] (Arrow8)	抛射物 (箭矢8)	-1	-1		-1	-1	16067	16067	1	1	0	0
+321	ARROW9	ARROW9	60	11	0			[Proj] (Arrow9)	抛射物 (箭矢9)	-1	-1		-1	-1	16067	16067	1	1	0	0
+322	ARROW10	ARROW10	60	11	0			[Proj] (Arrow10)	抛射物 (箭矢10)	-1	-1		-1	-1	16067	16067	1	1	0	0
+323	CATST1	CATST1	60	11	0			[Proj] (Cannonball1)	抛射物 (炮弹1)	-1	-1		-1	-1	16315	16315	1	1	0	0
+324	CATST2	CATST2	60	11	0			[Proj] (Cannonball2)	抛射物 (炮弹2)	-1	-1		-1	-1	16315	16315	1	1	0	0
+325	CATST3	CATST3	60	11	0			[Proj] (Cannonball3)	抛射物 (炮弹3)	-1	-1		-1	-1	16315	16315	1	1	0	0
+326	CATST4	CATST4	60	11	0			[Proj] (Cannonball4)	抛射物 (炮弹4)	-1	-1		-1	-1	16315	16315	1	1	0	0
+327	CATST5	CATST5	60	11	0			[Proj] (Cannonball5)	抛射物 (炮弹5)	-1	-1		-1	-1	16315	16315	1	1	0	0
+328	Projectile VOL (Fire)	Projectile VOL (Fire)	60	11	0			[Proj] (TC Aux. Chemical)	抛射物 (TC 副 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+329	CVLRY	CVLRY	70	12	5416	Camel Rider	骆驼兵	Camel Rider	骆驼兵	113	-1	-1	78	78	16416	16416	0	0	0	0
+330	HCLRY	HCLRY	70	12	5417	Heavy Camel Rider	重装骆驼兵	Heavy Camel Rider	重装骆驼兵	495	-1	-1	79	79	16417	16417	0	0	0	0
+331	PTREB	PTREB	80	51	5381	Trebuchet (Packed)	巨型投石机 (组装)	Trebuchet (Movable)	巨型投石机 (可移动)	735	-1	-1	29	29	16381	16381	0	0	0	0
+332	FLARE3	FLARE3	10	11	5316	Flare	闪烁	Flare 3 (6 Tile of sight 1s)	闪烁 3 (6格视野 1s)	-1			-1	-1	16316	16316	1	1	0	0
+333	DEERX_MEAT	DEERX_MEAT	30	11	5071	Deer	鹿	Deer (Hiden unit)	鹿 (隐藏单位)	-1			3		16071	16071	1	1	1	0
+334	TERRM	TERRM	10	14	5382	Flowers 1	花 1	Flowers 1	花 1	-1			-1		16382	16382	0	0	1	0
+335	TERRN	TERRN	10	14	5383	Flowers 2	花 2	Flowers 2	花 2	-1			-1		16383	16383	0	0	1	0
+336	TERRO	TERRO	10	14	5384	Flowers 3	花 3	Flowers 3	花 3	-1			-1		16384	16384	0	0	1	0
+337	TERRP	TERRP	10	14	5385	Flowers 4	花 4	Flowers 4	花 4	-1			-1		16385	16385	0	0	1	0
+338	TERRQ	TERRQ	10	14	5386	Path 4	小路 4	Path 4 (／)	小路 4 (／)	-1			-1		16386	16386	0	0	1	0
+339	TERRR	TERRR	10	14	5387	Path 1	小路 1	Path 1 (－)	小路 1 (－)	-1			-1		16387	16387	0	0	1	0
+340	TERRS	TERRS	10	14	5388	Path 2	小路 2	Path 2 (｜)	小路 2 (｜)	-1			-1		16388	16388	0	0	1	0
+341	TERRT	TERRT	10	14	5389	Path 3	小路 3	Path 3 (Ｘ)	小路 3 (Ｘ)	-1			-1		16389	16389	0	0	1	0
+342	TERRU	TERRU	10	14	5390	Cuman Chief	库曼首领	TERRU	TERRU	-1			-1		16390	16390	1	1	1	0
+343	TERRV	TERRV	10	14	0			TERRV	TERRV	-1			-1		16391	16391	1	1	1	0
+344	TERRW	TERRW	10	14	0			TERRW	TERRW	-1			-1		16392	16392	1	1	1	0
+345	TERRX	TERRX	80	14	5393	Ruins	废墟	[Rubb]--Ruins	废墟	-1	-1	-1	-1		16393	16393	0	0	1	0
+346	TERRY	TERRY	10	14	0			TERRY	TERRY	-1			-1		16394	16394	1	1	1	0
+347	TERRZ	TERRZ	10	14	5000	Test String	测试字符串	TERRZ (Test String)	TERRZ (测试字符串)	-1			-1		16395	16395	1	1	1	0
+348	FBAM	FBAM	10	15	5396	Tree (Bamboo Forest)	树木 (竹林)	Tree (Bamboo Forest)	树木 (竹林)	737			32		16396	16396	0	0	1	0
+349	FOAK	FOAK	10	15	5397	Tree (Oak)	树木 (橡树)	Tree (Oak)	树木 (橡树)	415			32		16397	16397	0	0	1	0
+350	FPIN	FPIN	10	15	5399	Tree (Pine Forest)	树木 (松林)	Tree (Pine Forest)	树木 (松林)	415			32		16399	16399	0	0	1	0
+351	FPAL	FPAL	10	15	5398	Tree (Palm Forest)	树木 (棕榈林)	Tree (Palm Forest)	树木 (棕榈林)	415			32		16398	16398	0	0	1	0
+352	OREMN	OREMN	10	48	0			Iron Ore (No Graphic)	铁矿 (无图像)	-1			-1		16251	16251	1	1	1	0
+353	VMFOR_D	VMFOR_D	30	11	0			[Corp]--Forager (male)	尸体--浆果采集者 (男)	-1			-1	-1	16403	16403	1	1	0	0
+354	VFFOR	VFFOR	70	4	5402	Forager	浆果采集者	Forager (female)	浆果采集者 (女)	355	-1	-1	331	331	16402	16402	1	1	0	0
+355	VFFOR_D	VFFOR_D	30	11	0			[Corp]--Forager (female)	尸体--浆果采集者 (女)	-1			-1	-1	16403	16403	1	1	0	0
+356	BOARX_D	BOARX_D	30	11	0			[Corp]--Wild Boar	尸体--野猪	-1			98		16017	16017	1	1	1	0
+357	FARM_D	FARM_D	80	11	5407	Dead Farm	废弃农田	Dead Farm	废弃农田	-1	-1	-1	35	35	16407	16407	1	1	0	0
+358	ISPKM	ISPKM	70	6	5408	Pikeman	长枪兵	Pikeman	长枪兵	501	-1	-1	11	11	16408	16408	0	0	0	0
+359	HLBDM	HLBDM	70	6	5409	Halberdier	长戟兵	Halberdier	长戟兵	502	-1	-1	104	104	16409	16409	0	0	0	0
+360	ARW_FLM	ARW_FLM	60	11	0			[Proj]	抛射物	-1	-1		-1	-1	16067	16067	1	1	0	0
+361	THSWD	THSWD	70	6	5117	Norse Warrior	北欧剑士	Norse Warrior	北欧剑士	362	-1	-1	140	140	16081	16081	0	0	0	0
+362	THSWD_D	THSWD_D	30	11	0			[Corp]--Norse Warrior	尸体--北欧剑士	-1			-1	-1	16047	16047	1	1	0	0
+363	Projectile ARC	Projectile ARC	60	11	0			[Proj] (Archer)	抛射物 (步弓)	-1	-1		-1	-1	16067	16067	1	1	0	0
+364	Projectile Crossbowman	Projectile Crossbowman	60	11	0			[Proj] (Crossbowman)	抛射物 (弩手)	-1	-1		-1	-1	16067	16067	1	1	0	0
+365	Projectile CRS	Projectile CRS	60	11	0			[Proj] (Skirmisher)	抛射物 (掷矛)	-1	-1		-1	-1	16067	16067	1	1	0	0
+366	Projectile HCS	Projectile HCS	60	11	0			[Proj] (Javelin)	抛射物 (标枪)	-1	-1		-1	-1	16067	16067	1	1	0	0
+367	Projectile Scorpion	Projectile Scorpion	60	11	0			[Proj] (Scorpion)	抛射物 (弩炮)	-1	-1		-1	-1	16313	16313	1	1	0	0
+368	Projectile Bombard Cannon	Projectile Bombard Cannon	60	11	0			[Proj] (Bombard Cannon)	抛射物 (手推炮)	-1	-1		-1	-1	16315	16315	1	1	0	0
+369	Projectile Mangonel (Secondary)	Projectile Mangonel (Secondary)	60	11	0			[Proj] (Mangonel Aux.)	抛射物 (投石车 副)	-1	-1		-1	-1	16315	16315	1	1	0	0
+370	CWAL	CWAL	80	27	5754	City Wall	城墙	City Wall	城墙	143	-1	-1	31	31	16201	16201	0	0	0	0
+371	Projectile Trebuchet	Projectile Trebuchet	60	11	0			[Proj] (Trebuchet)	抛射物 (巨投)	-1	-1		-1	-1	16315	16315	1	1	0	0
+372	Projectile GAL	Projectile GAL	60	11	0			[Proj] (War Galley)	抛射物 (战舰)	-1	-1		-1	-1	16067	16067	1	1	0	0
+373	Projectile War Galley	Projectile War Galley	60	11	0			[Proj] (War Wagon)	抛射物 (战车)	-1	-1		-1	-1	16067	16067	1	1	0	0
+374	Projectile Cannon Galleon	Projectile Cannon Galleon	60	11	0			[Proj] (Cannon Galleon)	抛射物 (炮舰)	-1	-1		-1	-1	16315	16315	1	1	0	0
+375	Projectile COM (Fire)	Projectile COM (Fire)	60	11	0			[Proj] (Crossbowman Chemical)	抛射物 (弩手 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+376	Projectile CRS (Fire)	Projectile CRS (Fire)	60	11	0			[Proj] (Skirmisher Chemical)	抛射物 (掷矛 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+377	Projectile HCS (Fire)	Projectile HCS (Fire)	60	11	0			[Proj] (Javelin Chemical)	抛射物 (标枪 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+378	Projectile Scorpion (Fire)	Projectile Scorpion (Fire)	60	11	0			[Proj] (Scorpion Chemical)	抛射物 (弩炮 化学)	-1	-1		-1	-1	16312	16312	1	1	0	0
+379						Test String	测试字符串												0	1
+380	Projectile Gunpowder (Primary)	Projectile Gunpowder (Primary)	60	11	0			[Proj] (Gun bullet)	抛射物 (火枪)	-1	-1		-1	-1	16315	16315	1	1	0	0
+381	BOLTXF	BOLTXF	60	11	0			[Proj]	抛射物	-1	-1		-1	-1	16312	16312	1	1	0	0
+382						Test String	测试字符串												0	1
+383						Test String	测试字符串												0	1
+384						Test String	测试字符串												0	1
+385	BOLTF1	BOLTF1	60	11	0			[Proj]	抛射物	-1	-1		-1	-1	16312	16312	1	1	0	0
+386						Test String	测试字符串												0	1
+387						Test String	测试字符串												0	1
+388						Test String	测试字符串												0	1
+389	TERRA	TERRA	10	14	5253	Sea Rocks 1	礁石 1	Sea Rocks 1	礁石 1	-1			-1		16253	16253	0	0	1	0
+390	TERRB	TERRB	10	14	0			TERRB	TERRB	-1			-1		16254	16254	1	1	1	0
+391	TERRD	TERRD	10	14	0			TERRD	TERRD	-1			-1		16256	16256	1	1	1	0
+392	TERRE	TERRE	10	14	0			TERRE	TERRE	-1			-1		16257	16257	1	1	1	0
+393	TERRF	TERRF	10	14	0			TERRF	TERRF	-1			-1		16258	16258	1	1	1	0
+394	TERRH	TERRH	10	14	0			TERRH	TERRH	-1			-1		16260	16260	1	1	1	0
+395	TERRI	TERRI	10	14	0			TERRI	TERRI	-1			-1		16261	16261	1	1	1	0
+396	TERRJ	TERRJ	10	14	5262	Sea Rocks 2	礁石 2	Sea Rocks 2	礁石 2	-1			-1		16262	16262	0	0	1	0
+397	TERRK	TERRK	10	14	0			TERRK	TERRK	-1			-1		16263	16263	1	1	1	0
+398	TERRL	TERRL	10	14	0			TERRL	TERRL	-1			-1		16264	16264	1	1	1	0
+399	TREEA	TREEA	10	15	5265	Tree A	树木 A	Tree A	树木 A	415			32		16265	16265	0	0	1	0
+400	TREEB	TREEB	10	15	5266	Tree B	树木 B	Tree B	树木 B	415			32		16266	16266	0	0	1	0
+401	TREEC	TREEC	10	15	5267	Tree C	树木 C	Tree C	树木 C	415			32		16267	16267	0	0	1	0
+402	TREED	TREED	10	15	5268	Tree D	树木 D	Tree D	树木 D	415			32		16268	16268	0	0	1	0
+403	TREEE	TREEE	10	15	5269	Tree E	树木 E	Tree E	树木 E	415			32		16269	16269	0	0	1	0
+404	TREEF	TREEF	10	15	5270	Tree F	树木 F	Tree F	树木 F	415			32		16270	16270	0	0	1	0
+405	TREEG	TREEG	10	15	5271	Tree G	树木 G	Tree G	树木 G	415			32		16271	16271	0	0	1	0
+406	TREEH	TREEH	10	15	5272	Tree H	树木 H	Tree H	树木 H	415			32		16272	16272	0	0	1	0
+407	TREEI	TREEI	10	15	5273	Tree I	树木 I	Tree I	树木 I	415			32		16273	16273	0	0	1	0
+408	TREEJ	TREEJ	10	15	5274	Tree J	树木 J	Tree J	树木 J	415			32		16274	16274	0	0	1	0
+409	TREEK	TREEK	10	15	5275	Tree K	树 K	Tree K	树木 K	415			32		16275	16275	0	0	1	0
+410	TREEL	TREEL	10	15	5276	Tree L	树木 L	Tree L	树木 L	415			32		16276	16276	0	0	1	0
+411	FORTR	FORTR	10	15	5277	Tree (Oak Forest)	树木 (橡林)	Tree (Oak Forest)	树木 (橡林)	415			32		16277	16277	0	0	1	0
+412	MONKX_S_D	MONKX_S_D	30	11	0			[Corp]--Monk (Madrasah)	尸体--僧侣 (清真学堂)	-1			-1	-1	16035	16035	1	1	0	0
+413	FSNO	FSNO	10	15	5694	Tree (Snow Pine)	树木 (雪松)	Tree (Snow Pine)	树木 (雪松)	415			32		16694	16694	0	0	1	0
+414	FJUN	FJUN	10	15	5693	Tree (Jungle)	树木 (丛林)	Tree (Jungle)	树木 (丛林)	415			32		16693	16693	0	0	1	0
+415	STUMP	STUMP	10	14	5281	Stump	树桩	Stump	树桩	-1			-1		16281	16281	1	1	1	0
+416	DEBRI	DEBRI	10	14	0			DEBRI	DEBRI	-1			-1		16282	16282	1	1	1	0
+417	DUSTC	DUSTC	30	11	0			DUSTC (Trade Car trail)	DUSTC (贸易车尾迹)	-1			-1		16283	16283	1	1	1	0
+418	HHLION	HHLION	70	12	5476	Henry the Lion	猛狮亨利	Henry the Lion	猛狮亨利	111	-1	-1	328	328	16531	16531	0	0	0	0
+419	BDEBR	BDEBR	10	14	0			BDEBR	BDEBR	-1			-1		16285	16285	1	1	1	0
+420	CANGA	CANGA	70	22	5287	Cannon Galleon	炮舰	Cannon Galleon	炮舰	-1	374	-1	55	55	16287	16287	0	0	0	0
+421	CANGA_D	CANGA_D	30	11	0			[Corp]--CANGA_D (No Graphic)	尸体--CANGA_D (无图像)	-1			-1	-1	16288	16288	1	1	0	0
+422	CBATR	CBATR	70	13	5289	Capped Ram	中型冲车	Capped Ram	中型冲车	423	-1	-1	63	63	16289	16289	0	0	0	0
+423	CBATR_D	CBATR_D	30	11	0			[Corp]--Capped Ram	尸体--中型冲车	-1			-1	-1	16290	16290	1	1	0	0
+424	HCMAR	HCMAR	70	6	5291	Charles Martel	查理马特	Charles Martel	查理马特	157	515	-1	129	129	16291	16291	0	0	0	0
+425	HFORE	HFORE	70	23	5292	Francisco de Orellana	弗朗西斯科·德·奥雷利亚纳	Francisco de Orellana	弗朗西斯科·德·奥雷利亚纳	772	380	-1	153	153	16689	16689	0	0	0	0
+426	HHAHA	HHAHA	70	6	5293	Harald Hardrada	哈拉尔·哈德拉达	Harald Hardrada	哈拉尔·哈德拉达	693	515	-1	118	118	16293	16293	0	0	0	0
+427	HGPIZ	HGPIZ	70	23	5294	Gonzalo Pizarro	贡萨洛·皮萨罗	Gonzalo Pizarro	贡萨洛·皮萨罗	772	380	-1	167	167	16689	16689	0	0	0	0
+428	HHRTG	HHRTG	70	6	5295	Hrolf the Ganger	首领罗夫	Hrolf the Ganger	首领罗夫	695	-1	-1	302	302	16295	16295	0	0	0	0
+429	HBARBA	HBARBA	70	6	5296	Frederick Barbarossa	腓特烈·巴巴罗萨	Frederick Barbarossa	腓特烈·巴巴罗萨	181	-1	-1	154	154	16462	16462	0	0	0	0
+430	HJODA	HJODA	70	6	5297	Joan the Maid	村女贞德	Joan the Maid	村女贞德	431	-1	-1	52	52	16297	16297	0	0	0	0
+431	HJODA_D	HJODA_D	30	11	0			[Corp]--Joan the Maid	尸体--村女贞德	-1			52	52	16298	16298	1	1	0	0
+432	HWIWA	HWIWA	70	6	5299	William Wallace	威廉·华莱士	William Wallace	威廉·华莱士	433	-1	-1	363	363	16299	16299	0	0	0	0
+433	HWIWA_D	HWIWA_D	30	11	0			[Corp]--William Wallace	尸体--威廉·华莱士	-1			-1	-1	16300	16300	1	1	0	0
+434	KINGX	KINGX	70	59	5301	King	国王	King	国王	435	-1	-1	48	48	16301	16301	0	0	0	0
+435	KINGX_D	KINGX_D	30	11	0			[Corp]--King	尸体--国王	-1			-1	-1	16302	16302	1	1	0	0
+436	OMTBO	OMTBO	70	22	0			OMTBO (Ghost Boat)	OMTBO (幽灵船)	-1	-1	-1	62	62	16303	16303	1	1	0	0
+437	HPRITH	HPRITH	70	36	5298	Prithviraj	布里陀毗罗阇	Prithviraj	布里陀毗罗阇	1627	478	-1	176	176	16412	16412	0	0	0	0
+438	STRBO	STRBO	70	22	0			STRBO (Saboteur Trade Cog)	STRBO (破坏者贸易船)	-1	-1	-1	58	58	16305	16305	1	1	0	0
+439	HSFORZA	HSFORZA	70	6	5300	Francesco Sforza	弗朗切斯科·斯福尔扎	Francesco Sforza	弗朗切斯科·斯福尔扎	1615	-1	-1	162	162	16679	16679	0	0	0	0
+440	PETARD	PETARD	70	35	5660	Petard	爆破兵	Petard	爆破兵	-1	-1	-1	113	113	16660	16660	0	0	0	0
+441	HUSSAR	HUSSAR	70	12	5661	Hussar	翼骑兵	Hussar	翼骑兵	480	-1	-1	103	103	16661	16661	0	0	0	0
+442	WARGA	WARGA	70	22	5309	Galleon	大型战舰	Galleon	大型战舰	-1	373	-1	60	60	16309	16309	0	0	0	0
+443	WARGA_D	WARGA_D	30	11	0			[Corp]--WARGA_D (No Graphic)	尸体--WARGA_D (无图像)	-1			-1	-1	16310	16310	1	1	0	0
+444	PTWC	PTWC	80	51	5433	Town Center (Packed)	城镇中心 (组装)	Town Center (Movable)	城镇中心 (可移动)	1274	-1	-1	264	264	16311	16311	0	0	0	0
+445	CATH	CATH	80	3	5318	Poenari Castle	伯恩纳里城堡	Poenari Castle	伯恩纳里城堡	1488	746	746	7	7	16318	16318	0	0	0	0
+446	PORT	PORT	80	3	5319	Port	港口	Port	港口	-1	-1	-1	15	15	16319	16319	1	1	0	0
+447	SHALW	SHALW	10	14	5325			SHALW	SHALW	-1			-1		16325	16325	1	1	1	0
+448	SCOUT	SCOUT	70	47	5326	Scout Cavalry	斥候骑兵	Scout Cavalry	斥候骑兵	449	-1	-1	64	64	16326	16326	0	0	0	0
+449	SCOUT_D	SCOUT_D	30	11	0			[Corp]--Scout Cavalry	尸体--斥候骑兵	-1			-1	-1	16327	16327	1	1	0	0
+450	DOLP1	DOLP1	30	5	5330	Great Fish (Marlin)	枪鱼群	Great Fish (Marlin) (←)	枪鱼群 (←)	-1			281		16330	16330	0	0	1	0
+451	DOLP2	DOLP2	30	5	5331	Great Fish (Marlin)	枪鱼群	Great Fish (Marlin) (→)	枪鱼群 (→)	-1			281		16331	16331	1	1	1	0
+452	DOLP3	DOLP3	30	5	5332	Dolphin	海豚群	Great Fish (Marlin) (Under water)	枪鱼群 (水下)	-1			4		16332	16332	1	1	1	0
+453	HATAULF	HATAULF	70	6	5020	Ataulf	阿陶尔夫	Ataulf	阿陶尔夫	1624	-1	-1	163	163	16638	16638	0	0	0	0
+454	DOLP5	DOLP5	30	5	0			Fish (Dorado) (Under water)	剑鱼群 (水下)	-1			4		16334	16334	1	1	1	0
+455	FISH1	FISH1	30	5	5335	Fish (Dorado)	剑鱼群	Fish (Dorado)	剑鱼群	-1			275		16335	16335	0	0	1	0
+456	FISH2	FISH2	30	5	5336	Fish (Salmon)	大马哈鱼群	Fish (Salmon)	大马哈鱼群	-1			277		16336	16336	0	0	1	0
+457	FISH3	FISH3	30	5	5337	Fish (Tuna)	金枪鱼群	Fish (Tuna)	金枪鱼群	-1			279		16337	16337	0	0	1	0
+458	FISH4	FISH4	30	5	5338	Fish (Snapper)	食人鱼群	Fish (Snapper)	食人鱼群	-1			278		16338	16338	0	0	1	0
+459	FISH5	FISH5	30	5	0			Fish (Salmon) (Under water)	大马哈鱼群 (水下)	-1			4		16339	16339	1	1	1	0
+460	WHAL1	WHAL1	30	5	0			Fish (Tuna) (Under water)	金枪鱼群 (水下)	-1			4		16340	16340	1	1	1	0
+461	WHAL2	WHAL2	30	5	0			Fish (Snapper) (Under water)	食人鱼群 (水下)	-1			4		16341	16341	1	1	1	0
+462	MNG_FLM	MNG_FLM	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16315	16315	1	1	0	0
+463	HOUS2	HOUS2	80	3	5344	House	房屋	House 2	房屋 2	1434	-1	-1	34	34	16344	16344	1	1	0	0
+464	HOUS3	HOUS3	80	3	5344	House	房屋	House 3	房屋 3	1435	-1	-1	34	34	16344	16344	1	1	0	0
+465	HOUS4	HOUS4	80	3	5344	House	房屋	House 4	房屋 4	1435	-1	-1	34	34	16344	16344	1	1	0	0
+466	Projectile ARC (Fire)	Projectile ARC (Fire)	60	11	0			[Proj] (Archer Chemical)	抛射物 (步弓 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+467						Test String	测试字符串												0	1
+468	Projectile Mangonel (Secondary Fire)	Projectile Mangonel (Secondary Fire)	60	11	0			[Proj] (Mangonel Aux. Chemical)	抛射物 (投石车 副 化学)	-1	-1		-1	-1	16315	16315	1	1	0	0
+469	Projectile Trebuchet (Fire)	Projectile Trebuchet (Fire)	60	11	0			[Proj] (Trebuchet Chemical)	抛射物 (巨投 化学)	-1	-1		-1	-1	16315	16315	1	1	0	0
+470	Projectile Galley (Fire)	Projectile Galley (Fire)	60	11	0			[Proj] (War Galley Chemical)	抛射物 (战舰 化学)	-1	-1		-1	-1	16312	16312	1	1	0	0
+471	Projectile War Galley (Fire)	Projectile War Galley (Fire)	60	11	0			[Proj] (War Wagon Chemical)	抛射物 (战车 化学)	-1	-1		-1	-1	16312	16312	1	1	0	0
+472	LOOT	LOOT	10	14	5711	Loot	战利品	Loot	战利品	-1			-1	-1	16717	16717	0	1	1	0
+473	HTHSW	HTHSW	70	6	5411	Two-Handed Swordsman	双手剑士	Two-Handed Swordsman	双手剑士	500	-1	-1	12	12	16411	16411	0	0	0	0
+474	HCVAR	HCVAR	70	36	5412	Heavy Cavalry Archer	重装骑射手	Heavy Cavalry Archer	重装骑射手	631	478	-1	71	71	16412	16412	0	0	0	0
+475	Projectile HAR (Fire)	Projectile HAR (Fire)	60	11	0			[Proj] (Cavalry Archer Chemical)	抛射物 (骑射 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+476	Projectile HHA (Fire)	Projectile HHA (Fire)	60	11	0			[Proj] (Heavy Cavalry Archer Chemical)	抛射物 (重装骑射 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+477	Projectile HAR	Projectile HAR	60	11	0			[Proj] (Cavalry Archer)	抛射物 (骑射)	-1	-1		-1	-1	16067	16067	1	1	0	0
+478	Projectile HHA	Projectile HHA	60	11	0			[Proj] (Heavy Cavalry Archer)	抛射物 (重装骑射)	-1	-1		-1	-1	16067	16067	1	1	0	0
+479	PMANG	PMANG	80	51	0			Mangonel (Movable)	轻型投石车 (可移动)	143	-1	-1	27	27	16410	16410	1	1	0	0
+480	HUSSAR_D	HUSSAR_D	30	11	0			[Corp]--Hussar	尸体--翼骑兵	-1			-1	-1	16662	16662	1	1	0	0
+481	RTWC3A	RTWC3A	80	3	5164	Town Center	城镇中心	Town Center (Main building) 3	城镇中心 (主楼) 3	-1	-1	-1	28	28	16164	16164	1	1	0	0
+482	RTWC3B	RTWC3B	80	3	5164	Town Center	城镇中心	Town Center (Pillars) 3	城镇中心 (柱) 3	-1	-1	-1	28	28	16164	16164	1	1	0	0
+483	RTWC3C	RTWC3C	80	3	5164	Town Center	城镇中心	Town Center (Side sheds) 3	城镇中心 (侧棚) 3	-1	-1	-1	28	28	16164	16164	1	1	0	0
+484	RTWC3X	RTWC3X	80	3	5164	Town Center	城镇中心	Town Center (Villager builds) 3	城镇中心 (村民建造) 3	1432	-1	54	28	28	16164	16164	1	1	0	0
+485	T_ARO	T_ARO	60	11	0			[Proj]	抛射物	-1	-1		-1	-1	16067	16067	1	1	0	0
+486	BEAR	BEAR	70	10	5713	Bear	熊	Bear	熊	489	-1	-1	151	151	16712	16712	0	1	1	0
+487	GTAX2	GTAX2	80	39	5185	Gate	城门	Gate (／) (OFF)	城门 (／) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+488	GTAX3	GTAX3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (／) (OFF)	增强城门 (／) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+489	BEAR_D	BEAR_D	30	11	0			[Corp]--Bear	尸体--熊	-1			151	151	16713	16713	1	1	0	0
+490	GTBX2	GTBX2	80	39	5185	Gate	城门	Gate (＼) (OFF)	城门 (＼) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+491	GTBX3	GTBX3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (＼) (OFF)	增强城门 (＼) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+492	ACOAR	ACOAR	70	0	5418	Arbalester	劲弩手	Arbalester	劲弩手	496	507	-1	90	90	16418	16418	0	0	0	0
+493	AHXBW	AHXBW	70	0	5415	Heavy Crossbowman	重装弩手	Heavy Crossbowman	重装弩手	867	364	-1	133	133	16101	16101	0	0	0	0
+494	CVLRY_D	CVLRY_D	30	11	0			[Corp]--CVLRY_D (No Graphic)	尸体--CVLRY_D (无图像)	-1			-1	-1	16031	16031	1	1	0	0
+495	HCLRY_D	HCLRY_D	30	11	0			[Corp]--Heavy Camel Rider	尸体--重装骆驼兵	-1			-1	-1	16031	16031	1	1	0	0
+496	ACOAR_D	ACOAR_D	30	11	0			[Corp]--Arbalester	尸体--劲弩手	-1			-1	-1	16000	16000	1	1	0	0
+497	KINGW_D	KINGW_D	30	11	0			[Corp]--King (Hero)	尸体--国王 (英雄)	-1			-1	-1	16302	16302	1	1	0	0
+498	Barracks Age2	Barracks Age2	80	3	5135	Barracks	兵营	Barracks 2	兵营 2	1413	-1	-1	3	3	16135	16135	1	1	0	0
+499	TORCH	TORCH	20	14	5423	Torch A	火炬 A	Torch A	火炬 A	-1			-1	-1	16423	16423	0	0	0	0
+500	HTHSW_D	HTHSW_D	30	11	0			[Corp]--Two-Handed Swordsman	尸体--双手剑士	-1			-1	-1	16047	16047	1	1	0	0
+501	ISPKM_D	ISPKM_D	30	11	0			[Corp]--Pikeman	尸体--长枪兵	-1			-1	-1	16040	16040	0	0	0	0
+502	HLBDM_D	HLBDM_D	30	11	0			[Corp]--Halberdier	尸体--长戟兵	-1			-1	-1	16040	16040	1	1	0	0
+503	Projectile WTN	Projectile WTN	60	11	0			[Proj] (Arrow)	抛射物 (箭矢)	-1	-1		-1	-1	16067	16067	1	1	0	0
+504	Projectile Arrow (Guard Tower)	Projectile Arrow (Guard Tower)	60	11	0			[Proj] (Guard tower)	抛射物 (防御塔)	-1	-1		-1	-1	16067	16067	1	1	0	0
+505	Projectile KEP	Projectile KEP	60	11	0			[Proj] (Guard tower Aux.)	抛射物 (防御塔 副)	-1	-1		-1	-1	16067	16067	1	1	0	0
+506	Projectile BTW	Projectile BTW	60	11	0			[Proj] (Bombard Tower)	抛射物 (炮塔)	-1	-1		-1	-1	16315	16315	1	1	0	0
+507	Projectile ACA	Projectile ACA	60	11	0			[Proj] (Arbalester)	抛射物 (劲弩手)	-1	-1		-1	-1	16067	16067	1	1	0	0
+508	Projectile AHX	Projectile AHX	60	11	0			[Proj] (Spear)	抛射物 (矛)	-1	-1		-1	-1	16067	16067	1	1	0	0
+509	Projectile VIL	Projectile VIL	60	11	0			[Proj] (Hunter)	抛射物 (猎人)	-1	-1		-1	-1	16067	16067	1	1	0	0
+510	Projectile CKN	Projectile CKN	60	11	0			[Proj] (Chu Ko Nu)	抛射物 (诸葛弩)	-1	-1		-1	-1	16067	16067	1	1	0	0
+511	Projectile Longbowman	Projectile Longbowman	60	11	0			[Proj] (Longbowman)	抛射物 (长弓)	-1	-1		-1	-1	16067	16067	1	1	0	0
+512	Projectile LBT	Projectile LBT	60	11	0			[Proj] (Longboat)	抛射物 (龙头战舰)	-1	-1		-1	-1	16067	16067	1	1	0	0
+513	Projectile MSU	Projectile MSU	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16315	16315	1	1	0	0
+514	Projectile MPC	Projectile MPC	60	11	0			[Proj] (Arrow)	抛射物 (箭矢)	-1	-1		-1	-1	16067	16067	1	1	0	0
+515	Projectile TAX	Projectile TAX	60	11	0			[Proj] (Throwing Axe)	抛射物 (掷斧)	-1	-1		-1	-1	16067	16067	1	1	0	0
+516	Projectile WTN (Fire)	Projectile WTN (Fire)	60	11	0			[Proj] (Arrow Chemical)	抛射物 (箭矢 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+517	Projectile GTW (Fire)	Projectile GTW (Fire)	60	11	0			[Proj] (Guard tower Chemical)	抛射物 (防御塔 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+518	Projectile KEP (Fire)	Projectile KEP (Fire)	60	11	0			[Proj] (Guard tower Aux. Chemical)	抛射物 (防御塔 副 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+519	Projectile ACA (Fire)	Projectile ACA (Fire)	60	11	0			[Proj] (Bombard Tower Chemical)	抛射物 (炮塔 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+520	Projectile AHX (Fire)	Projectile AHX (Fire)	60	11	0			[Proj] (Arbalester Chemical)	抛射物 (劲弩手 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+521	Projectile VIL (Fire)	Projectile VIL (Fire)	60	11	0			[Proj] (Hunter Chemical)	抛射物 (猎人 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+522	Projectile CKN (Fire)	Projectile CKN (Fire)	60	11	0			[Proj] (Chu Ko Nu Chemical)	抛射物 (诸葛弩 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+523	Projectile LBM (Fire)	Projectile LBM (Fire)	60	11	0			[Proj] (Longbowman Chemical)	抛射物 (长弓 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+524	Projectile LBT (Fire)	Projectile LBT (Fire)	60	11	0			[Proj] (Longboat Chemical)	抛射物 (龙头战舰 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+525	Projectile MPC (Fire)	Projectile MPC (Fire)	60	11	0			[Proj] (Arrow Chemical)	抛射物 (箭矢 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+526	Projectile MSU (Fire)	Projectile MSU (Fire)	60	11	0			[Proj] (Cannonball Chemical)	抛射物 (炮弹 化学)	-1	-1		-1	-1	16315	16315	1	1	0	0
+527	RMSHP	RMSHP	70	22	5424	Demolition Ship	爆破船	Demolition Ship	爆破船	-1	-1	-1	84	84	16424	16424	0	0	0	0
+528	CRMSH	CRMSH	70	22	5425	Heavy Demolition Ship	重型爆破船	Heavy Demolition Ship	重型爆破船	-1	-1	-1	83	83	16425	16425	0	0	0	0
+529	FRGAL	FRGAL	70	22	5426	Fire Ship	喷火船	Fire Ship	喷火船	-1	676	676	86	86	16426	16426	0	0	0	0
+530	ULGBW	ULGBW	70	0	5456	Elite Longbowman	精锐长弓兵	Elite Longbowman	精锐长弓兵	115	511	-1	41	41	16456	16456	0	0	0	0
+531	UTAXE	UTAXE	70	6	5461	Elite Throwing Axeman	精锐掷斧兵	Elite Throwing Axeman	精锐掷斧兵	157	515	-1	46	46	16461	16461	0	0	0	0
+532	HFGAL	HFGAL	70	22	5429	Fast Fire Ship	快速喷火船	Fast Fire Ship	快速喷火船	-1	676	676	85	85	16429	16429	0	0	0	0
+533	ULNGB	ULNGB	70	22	5457	Elite Longboat	精锐龙头战舰	Elite Longboat	精锐龙头战舰	-1	512	512	40	40	16457	16457	0	0	0	0
+534	UWBRS	UWBRS	70	6	5463	Elite Woad Raider	精锐靛蓝突袭者	Elite Woad Raider	精锐靛蓝突袭者	233	-1	-1	47	47	16463	16463	0	0	0	0
+535	BDGAL	BDGAL	70	53	0			Boarding Boat	登舰船	-1	-1	-1	82	82	16432	16432	1	1	0	0
+536	ABGAL	ABGAL	70	53	0			Boarding Boat (Heavy)	登舰船 (重型)	-1	-1	-1	82	82	16703	16703	1	1	0	0
+537	Projectile FRG	Projectile FRG	60	11	0			[Proj] (Arrow)	抛射物 (箭矢)	-1	-1		-1	-1	16434	16434	1	1	0	0
+538	Projectile HFG	Projectile HFG	60	11	0			[Proj] (Arrow)	抛射物 (箭矢)	-1	-1		-1	-1	16435	16435	1	1	0	0
+539	SGALY	SGALY	70	22	5436	Galley	箭船	Galley	箭船	-1	540	-1	87	87	16436	16436	0	0	0	0
+540	Projectile SGY	Projectile SGY	60	11	0			[Proj] (Galley)	抛射物 (箭船)	-1	-1		-1	-1	16437	16437	1	1	0	0
+541	Projectile SGY (Fire)	Projectile SGY (Fire)	60	11	0			[Proj] (Galley Chemical)	抛射物 (箭船 化学)	-1	-1		-1	-1	16438	16438	1	1	0	0
+542	HWBAL	HWBAL	70	55	5439	Heavy Scorpion	重型弩炮	Heavy Scorpion	重型弩炮	543	627	627	89	89	16439	16439	0	0	0	0
+543	HWBAL_D	HWBAL_D	30	11	0			[Corp]--Heavy Scorpion	尸体--重型弩炮	-1			-1	-1	16440	16440	1	1	0	0
+544	FLDOG	FLDOG	70	38	0			FLDOG (Legacy Stormy Dog)	FLDOG (旧版风暴犬)	-1	-1	-1	5		16441	16441	1	1	1	0
+545	XPORT	XPORT	70	20	5443	Transport Ship	运输船	Transport Ship	运输船	-1	-1	-1	95	95	16443	16443	0	0	0	0
+546	LTCAV	LTCAV	70	12	5444	Light Cavalry	轻骑兵	Light Cavalry	轻骑兵	547	-1	-1	91	91	16444	16444	0	0	0	0
+547	LTCAV_D	LTCAV_D	30	11	0			[Corp]--Light Cavalry	尸体--轻骑兵	-1			-1	-1	16445	16445	0	0	0	0
+548	SGRAM	SGRAM	70	13	5446	Siege Ram	重型冲车	Siege Ram	重型冲车	549	-1	-1	73	73	16446	16446	0	0	0	0
+549	SGRAM_D	SGRAM_D	30	11	0			[Corp]--Siege Ram	尸体--重型冲车	-1			-1	-1	16447	16447	1	1	0	0
+550	ONAGR	ONAGR	70	13	5448	Onager	中型投石车	Onager	中型投石车	675	656	369	101	101	16448	16448	0	0	0	0
+551	Projectile Onager	Projectile Onager	60	11	0			[Proj] (Cannonball)	抛射物 (炮弹)	-1	-1		-1	-1	16449	16449	1	1	0	0
+552	Projectile Onager (Fire)	Projectile Onager (Fire)	60	11	0			[Proj] (Cannonball Chemical)	抛射物 (炮弹 化学)	-1	-1		-1	-1	16450	16450	1	1	0	0
+553	UCATA	UCATA	70	12	5451	Elite Cataphract	精锐甲胄骑兵	Elite Cataphract	精锐甲胄骑兵	27	-1	-1	35	35	16451	16451	0	0	0	0
+554	UTKNI	UTKNI	70	6	5462	Elite Teutonic Knight	精锐条顿武士	Elite Teutonic Knight	精锐条顿武士	181	-1	-1	45	45	16462	16462	0	0	0	0
+555	UGBRS	UGBRS	70	6	5454	Elite Huskarl	精锐近卫军	Elite Huskarl	精锐近卫军	62	-1	-1	50	50	16454	16454	0	0	0	0
+556	UDERV	UDERV	70	12	5453	Elite Mameluke	精锐马穆鲁克	Elite Mameluke	精锐马穆鲁克	44	736	-1	37	37	16453	16453	0	0	0	0
+557	UJANI	UJANI	70	44	5455	Elite Janissary	精锐苏丹亲兵	Elite Janissary	精锐苏丹亲兵	107	380	-1	39	39	16455	16455	0	0	0	0
+558	UMPCAV	UMPCAV	70	12	5459	Elite War Elephant	精锐战象	Elite War Elephant	精锐战象	136	-1	-1	43	43	16459	16459	0	0	0	0
+559	UCHUK	UCHUK	70	0	5452	Elite Chu Ko Nu	精锐诸葛弩	Elite Chu Ko Nu	精锐诸葛弩	28	510	510	36	36	16452	16452	0	0	0	0
+560	USMUR	USMUR	70	6	5460	Elite Samurai	精锐日本武士	Elite Samurai	精锐日本武士	151	-1	-1	44	44	16460	16460	0	0	0	0
+561	UMOSU	UMOSU	70	36	5458	Elite Mangudai	精锐蒙古突骑	Elite Mangudai	精锐蒙古突骑	135	477	-1	42	42	16458	16458	0	0	0	0
+562	SMIL	SMIL	80	3	5464	Lumber Camp	伐木场	Lumber Camp	伐木场	1409	-1	-1	40	40	16464	16464	0	0	0	0
+563	SMIL2	SMIL2	80	3	5464	Lumber Camp	伐木场	Lumber Camp 2	伐木场 2	1409	-1	-1	40	40	16464	16464	1	1	0	0
+564	SMIL3	SMIL3	80	3	5464	Lumber Camp	伐木场	Lumber Camp 3	伐木场 3	1409	-1	-1	40	40	16464	16464	1	1	0	0
+565	SMIL4	SMIL4	80	3	5464	Lumber Camp	伐木场	Lumber Camp 4	伐木场 4	1409	-1	-1	40	40	16464	16464	1	1	0	0
+566	WCTWR	WCTWR	80	52	0			Watch Tower (Hiden unit)	瞭望箭塔 (隐藏单位)	1436	504	-1	25	25	16178	16178	1	1	0	0
+567	HEROI	HEROI	70	6	5469	Champion	冠军剑士	Champion	冠军剑士	568	-1	-1	72	72	16469	16469	0	0	0	0
+568	HEROI_D	HEROI_D	30	11	0			[Corp]--Champion	尸体--冠军剑士	-1			-1	-1	16470	16470	1	1	0	0
+569	HEROC	HEROC	70	12	5471	Paladin	游侠	Paladin	游侠	570	-1	-1	2	2	16471	16471	0	0	0	0
+570	HEROC_D	HEROC_D	30	11	0			[Corp]--Paladin	尸体--游侠	-1			-1	-1	16472	16472	1	1	0	0
+571	RFARC	RFARC	70	56	0			Rob Archer	掠夺步弓手	572	363	-1	17	17	16474	16474	1	1	0	0
+572	RFARC_D	RFARC_D	30	11	0			[Corp]--Rob Archer	尸体--掠夺步弓手	-1			-1	-1	16475	16475	1	1	0	0
+573	RFSWD	RFSWD	70	56	0			Rob Man-at-Arms	掠夺剑士	574	-1	-1	10	10	16476	16476	1	1	0	0
+574	RFSWD_D	RFSWD_D	30	11	0			[Corp]--Rob Man-at-Arms	尸体--掠夺剑士	-1			-1	-1	16477	16477	1	1	0	0
+575	RCSWD	RCSWD	70	57	0			Rob Light Cavalry	掠夺轻骑兵	576	-1	-1	91	91	16478	16478	1	1	0	0
+576	RCSWD_D	RCSWD_D	30	11	0			[Corp]--Rob Light Cavalry	尸体--掠夺轻骑兵	-1			-1	-1	16479	16479	1	1	0	0
+577	RCARC	RCARC	70	57	0			Rob Cavalry Archer	掠夺骑射手	578	477	-1	19	19	16480	16480	1	1	0	0
+578	RCARC_D	RCARC_D	30	11	0			[Corp]--Rob Cavalry Archer	尸体--掠夺骑射手	-1			-1	-1	16481	16481	1	1	0	0
+579	VMGLD	VMGLD	70	4	5482	Gold Miner	金矿工	Gold Miner (male)	金矿工 (男)	229	-1	-1	334	334	16482	16482	1	1	0	0
+580	VMGLD_D	VMGLD_D	30	11	0			[Corp]--Gold Miner (male) (Unused)	尸体--金矿工(男) (未用)	-1			-1	-1	16483	16483	1	1	0	0
+581	VFGLD	VFGLD	70	4	5482	Gold Miner	金矿工	Gold Miner (female)	金矿工 (女)	221	-1	-1	333	333	16482	16482	1	1	0	0
+582	VFGLD_D	VFGLD_D	30	11	0			[Corp]--Gold Miner (female) (Unused)	尸体--金矿工(女) (未用)	-1			-1	-1	16483	16483	1	1	0	0
+583	GENIT	GENIT	70	36	5663	Genitour	标枪骑兵	Genitour (Militia)	标枪骑兵 (民兵)	152	366	-1	19	19	16663	16663	1	1	0	0
+584	MINE	MINE	80	3	5487	Mining Camp	采矿场	Mining Camp	采矿场	1410	-1	-1	39	39	16487	16487	0	0	0	0
+585	MINE2	MINE2	80	3	5487	Mining Camp	采矿场	Mining Camp 2	采矿场 2	1410	-1	-1	39	39	16487	16487	1	1	0	0
+586	MINE3	MINE3	80	3	5487	Mining Camp	采矿场	Mining Camp 3	采矿场 3	1410	-1	-1	39	39	16487	16487	1	1	0	0
+587	MINE4	MINE4	80	3	5487	Mining Camp	采矿场	Mining Camp 4	采矿场 4	1410	-1	-1	39	39	16487	16487	1	1	0	0
+588	SNAGR	SNAGR	70	13	5493	Siege Onager	重型投石车	Siege Onager	重型投石车	589	656	369	102	102	16493	16493	0	0	0	0
+589	SNAGR_D	SNAGR_D	30	11	0			[Corp]--Siege Onager	尸体--重型投石车	-1			-1	-1	16494	16494	1	1	0	0
+590	VFSHE	VFSHE	70	4	5496	Shepherd	牧羊人	Shepherd (female)	牧羊人 (女)	591	-1	-1	331	331	16496	16496	1	1	0	0
+591	VFSHE_D	VFSHE_D	30	11	0			[Corp]--Shepherd (female)	尸体--牧羊人 (女)	-1			-1	-1	16000	16000	1	1	0	0
+592	VMSHE	VMSHE	70	4	5496	Shepherd	牧羊人	Shepherd (male)	牧羊人 (男)	593	-1	-1	332	332	16496	16496	1	1	0	0
+593	VMSHE_D	VMSHE_D	30	11	0			[Corp]--Shepherd (male)	尸体--牧羊人 (男)	-1			-1	-1	16000	16000	1	1	0	0
+594	SHEEPG	SHEEP	70	58	5498	Sheep	绵羊	Sheep	绵羊	595	-1	-1	96	96	16498	16498	0	0	0	0
+595	SHEEP_D	SHEEP_D	30	11	0			[Corp]--Sheep	尸体--绵羊	-1			96	96	16000	16000	1	1	0	0
+596	GENITX	GENITX	70	36	5665	Elite Genitour	精锐标枪骑兵	Elite Genitour (Militia)	精锐标枪骑兵 (民兵)	152	366	-1	19	19	16665	16665	1	1	0	0
+597	RTWC4X	RTWC4X	80	3	5164	Town Center	城镇中心	Town Center (Villager builds) 4	城镇中心 (村民建造) 4	1433	-1	54	28	28	16164	16164	1	1	0	0
+598	WCTWX	WCTWX	80	3	5504	Outpost	哨站	Outpost	哨站	1405	-1	-1	38	38	16504	16504	0	0	0	0
+599	SPECR	SPECR	80	3	5505	Cathedral	大教堂	Cathedral	大教堂	1480	-1	-1	11	11	16505	16505	0	0	0	0
+600	FLAGA	FLAGA	20	30	5506	Flag A	旗帜 A	Flag A	旗帜 A	-1			-1	-1	16506	16506	0	0	0	0
+601	FLAGB	FLAGB	20	30	5507	Flag B	旗帜 B	Flag B	旗帜 B	-1			-1	-1	16507	16507	0	0	0	0
+602	FLAGC	FLAGC	20	30	5508	Flag C	旗帜 C	Flag C	旗帜 C	-1			-1	-1	16508	16508	0	0	0	0
+603	FLAGD	FLAGD	20	30	5509	Flag D	旗帜 D	Flag D	旗帜 D	-1			-1	-1	16509	16509	0	0	0	0
+604	FLAGE	FLAGE	20	30	5510	Flag E	旗帜 E	Flag E	旗帜 E	-1			-1	-1	16510	16510	0	0	0	0
+605	BGAA	BGAA	80	14	5511	Bridge A--Top	桥 A--顶部	Bridge A--Top	桥 A--顶部	144	-1	-1	-1	-1	16511	16511	0	0	0	0
+606	BGAB	BGAB	80	14	5512	Bridge A--Middle	桥 A--中部	Bridge A--Middle	桥 A--中部	144	-1	-1	-1	-1	16512	16512	0	0	0	0
+607	BGAC	BGAC	80	14	5513	Bridge A--Bottom	桥 A--底部	Bridge A--Bottom	桥 A--底部	144	-1	-1	-1	-1	16513	16513	0	0	0	0
+608	BGBA	BGBA	80	14	5514	Bridge B--Top	桥 B--顶部	Bridge B--Top	桥 B--顶部	144	-1	-1	-1	-1	16514	16514	0	0	0	0
+609	BGBB	BGBB	80	14	5515	Bridge B--Middle	桥 B--中部	Bridge B--Middle	桥 B--中部	144	-1	-1	-1	-1	16515	16515	0	0	0	0
+610	BGBC	BGBC	80	14	5516	Bridge B--Bottom	桥 B--底部	Bridge B--Bottom	桥 B--底部	144	-1	-1	-1	-1	16516	16516	0	0	0	0
+611	RTWC4A	RTWC4A	80	3	5164	Town Center	城镇中心	Town Center (Main building) 4	城镇中心 (主楼) 4	-1	-1	-1	28	28	16164	16164	1	1	0	0
+612	RTWC4B	RTWC4B	80	3	5164	Town Center	城镇中心	Town Center (Pillars) 4	城镇中心 (柱) 4	-1	-1	-1	28	28	16164	16164	1	1	0	0
+613	RTWC4C	RTWC4C	80	3	5164	Town Center	城镇中心	Town Center (Side sheds) 4	城镇中心 (侧棚) 4	-1	-1	-1	28	28	16164	16164	1	1	0	0
+614	RTWC2A	RTWC2A	80	3	5164	Town Center	城镇中心	Town Center (Main building) 2	城镇中心 (主楼) 2	-1	-1	-1	28	28	16164	16164	1	1	0	0
+615	RTWC2B	RTWC2B	80	3	5164	Town Center	城镇中心	Town Center (Pillars) 2	城镇中心 (柱) 2	-1	-1	-1	28	28	16164	16164	1	1	0	0
+616	RTWC2C	RTWC2C	80	3	5164	Town Center	城镇中心	Town Center (Side sheds) 2	城镇中心 (侧棚) 2	-1	-1	-1	28	28	16164	16164	1	1	0	0
+617	RTWC2X	RTWC2X	80	3	5164	Town Center	城镇中心	Town Center (Villager builds) 2	城镇中心 (村民建造) 2	1431	-1	54	28	28	16164	16164	1	1	0	0
+618	RTWC1A	RTWC1A	80	3	5164	Town Center	城镇中心	Town Center (Main building)	城镇中心 (主楼)	-1	-1	-1	28	28	16164	16164	1	1	0	0
+619	RTWC1B	RTWC1B	80	3	5164	Town Center	城镇中心	Town Center (Pillars)	城镇中心 (柱)	-1	-1	-1	28	28	16164	16164	1	1	0	0
+620	RTWC1C	RTWC1C	80	3	5164	Town Center	城镇中心	Town Center (Side sheds)	城镇中心 (侧棚)	-1	-1	-1	28	28	16164	16164	1	1	0	0
+621	RTWC1X	RTWC1X	80	3	5164	Town Center	城镇中心	Town Center (Villager builds)	城镇中心 (村民建造)	1408	-1	54	28	28	16164	16164	1	1	0	0
+622	GENITX_D	GENITX_D	30	11	0			[Corp]--GENITX_D (No Graphic)	尸体--GENITX_D (无图像)	-1			98		16666	16666	1	1	1	0
+623	ROCKX	ROCKX	10	14	5520	Rock 1	岩石 1	Rock 1	岩石 1	-1			-1		16520	16520	0	0	1	0
+624	PAV1	PAV1	80	3	5521	Pavilion A	大帐篷 A	Pavilion A	大帐篷 A	1476	-1	-1	43	43	16521	16521	0	0	0	0
+625	PAV3	PAV3	80	3	5523	Pavilion C	大帐篷 C	Pavilion C	大帐篷 C	1478	-1	-1	43	43	16523	16523	0	0	0	0
+626	PAV2	PAV2	80	3	5522	Pavilion B	大帐篷 B	Pavilion B	大帐篷 B	1477	-1	-1	43	43	16522	16522	0	0	0	0
+627	Projectile Heavy Scorpion	Projectile Heavy Scorpion	60	11	0			[Proj] (Heavy Scorpion)	抛射物 (重型弩炮)	-1	-1		-1	-1	16524	16524	1	1	0	0
+628	Projectile Heavy Scorpion (Fire)	Projectile Heavy Scorpion (Fire)	60	11	0			[Proj] (Heavy Scorpion Chemical)	抛射物 (重型弩炮 化学)	-1	-1		-1	-1	16525	16525	1	1	0	0
+629	HJOKT	HJOKT	70	12	5526	Joan of Arc	圣女贞德	Joan of Arc	圣女贞德	630	-1	-1	76	76	16526	16526	0	0	0	0
+630	HJOKT_D	HJOKT_D	30	11	0			[Corp]--Joan of Arc	尸体--圣女贞德	-1			51	51	16527	16527	1	1	0	0
+631	HCVAR_D	HCVAR_D	30	11	0			[Corp]--Heavy Cavalry Archer	尸体--重装骑射手	-1			-1	-1	16528	16528	1	1	0	0
+632	HEROF	HEROF	70	12	5529	Frankish Paladin	法兰克游侠	Frankish Paladin	法兰克游侠	633	-1	-1	62	62	16529	16529	0	0	0	0
+633	HEROF_D	HEROF_D	30	11	0			[Corp]--Frankish Paladin	尸体--法兰克游侠	-1			-1	-1	16530	16530	1	1	0	0
+634	HMETZ	HMETZ	70	12	5531	Sieur de Metz	德·梅斯爵士	Sieur de Metz	德·梅斯爵士	111	-1	-1	59	59	16531	16531	0	0	0	0
+635	BBURNED	BBURNED	80	14	0			Building Burned (Hiden unit)	烧毁的建筑 (隐藏单位)	-1	-1	-1	-1		16393	16393	1	1	1	0
+636	HBERT	HBERT	70	12	5533	Sieur Bertrand	伯特兰爵士	Sieur Bertrand	伯特兰爵士	111	-1	-1	61	61	16533	16533	0	0	0	0
+637	TMPHVN	TMPHVN	80	3	5528	Temple of Heaven	天坛	Temple of Heaven	天坛	1481	-1	-1	11	11	16505	16505	0	0	0	0
+638	HALEN	HALEN	70	12	5535	Duke D'Alençon	诺曼底公爵	Duke D'Alençon	诺曼底公爵	633	-1	-1	65	65	16535	16535	0	0	0	0
+639	PENGUI	PENGUI	70	6	5734	Penguin	企鹅	Penguin	企鹅	641	-1	-1	157	157	16469	16469	0	0	0	0
+640	HHIRE	HHIRE	70	6	5537	La Hire	拉海尔	La Hire	拉海尔	568	-1	-1	51	51	16537	16537	0	0	0	0
+641	PENGU_D	PENGU_D	30	11	0			[Corp]--Penguin	尸体--企鹅	-1			98	98	5000	5000	1	1	0	0
+642	HGRAV	HGRAV	70	0	5539	Lord de Graville	格拉维尔领主	Lord de Graville	格拉维尔领主	496	507	-1	66	66	16539	16539	0	0	0	0
+643	HGRAV_D	HGRAV_D	30	11	0			[Corp]--HGRAV_D (No Graphic)	尸体--HGRAV_D (无图像)	-1			-1	-1	16540	16540	1	1	0	0
+644	HLORR	HLORR	70	13	5541	Jean de Lorrain	让·德·洛兰	Jean de Lorrain	让·德·洛兰	16	368	-1	67	67	16541	16541	0	0	0	0
+645	HLORR_D	HLORR_D	30	11	0			[Corp]--HLORR_D (No Graphic)	尸体--HLORR_D (无图像)	-1			-1	-1	16542	16542	1	1	0	0
+646	HRICH	HRICH	70	12	5543	Constable Richemont	理察蒙长官	Constable Richemont	理察蒙长官	633	-1	-1	343	343	16543	16543	0	0	0	0
+647	HRICH_D	HRICH_D	30	11	0			[Corp]--HRICH_D (No Graphic)	尸体--HRICH_D (无图像)	-1			-1	-1	16000	16000	1	1	0	0
+648	HJOSS	HJOSS	70	12	5545	Guy Josselyne	盖佐斯尔立	Guy Josselyne	盖佐斯尔立	570	-1	-1	56	56	16545	16545	0	0	0	0
+649	HJOSS_D	HJOSS_D	30	11	0			[Corp]--HJOSS_D (No Graphic)	尸体--HJOSS_D (无图像)	-1			-1	-1	16000	16000	1	1	0	0
+650	HBURE	HBURE	70	13	5547	Jean Bureau	让·彼罗	Jean Bureau	让·彼罗	16	368	-1	68	68	16547	16547	0	0	0	0
+651	HBURE_D	HBURE_D	30	11	0			[Corp]--HBURE_D (No Graphic)	尸体--HBURE_D (无图像)	-1			-1	-1	16548	16548	1	1	0	0
+652	HFALS	HFALS	70	12	5549	Sir John Fastolf	约翰法斯托夫爵士	Sir John Fastolf	约翰法斯托夫爵士	633	-1	-1	69	69	16549	16549	0	0	0	0
+653	HFALS_D	HFALS_D	30	11	0			[Corp]--HFALS_D (No Graphic)	尸体--HFALS_D (无图像)	-1			-1	-1	16000	16000	1	1	0	0
+654	Trail Smoke (Fire)	Trail Smoke (Fire)	20	11	0			Wake smoke (Chemical)	尾迹烟雾 (化学)	-1			-1	-1	16551	16551	1	1	0	0
+655	MSQUE	MSQUE	80	3	5552	Mosque	清真寺	Mosque	清真寺	1496	-1	-1	12	12	16552	16552	0	0	0	0
+656	Projectile Mangonel (Primary)	Projectile Mangonel (Primary)	60	11	0			[Proj] (Mangonel Main)	抛射物 (投石车 主)	-1	-1		-1	-1	16554	16554	1	1	0	0
+657	Projectile GP1	Projectile GP1	60	11	0			[Proj] (Cannonball Shadow)	抛射物 (炮弹影子)	-1	-1		-1	-1	16555	16555	1	1	0	0
+658	Projectile Mangonel (Primary Fire)	Projectile Mangonel (Primary Fire)	60	11	0			[Proj] (Mangonel Main Chemical)	抛射物 (投石车 主 化学)	-1	-1		-1	-1	16556	16556	1	1	0	0
+659	GTCA2	GTCA2	80	39	21027	Gate (hori.)	城门 (水平)	Gate (－)	城门 (－)	1502	-1	-1	36	36	16185	16185	0	0	0	0
+660	GTCA3	GTCA3	80	39	21031	Fortified Gate (hori.)	增强城门 (水平)	Fortified Gate (－)	增强城门 (－)	1506	-1	-1	36	36	16185	16185	1	1	0	0
+661	GTCB2	GTCB2	80	39	5185	Gate	城门	Gate (－) (ON)	城门 (－) (开)	1502	-1	-1	36	36	16185	16185	1	1	0	0
+662	GTCB3	GTCB3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (－) (ON)	增强城门 (－) (开)	1506	-1	-1	36	36	16185	16185	1	1	0	0
+663	GTCC2	GTCC2	80	39	5185	Gate	城门	Gate (－) (Gate Post)	城门 (－) (旗柱)	1518	-1	-1	36	36	16185	16185	1	1	0	0
+664	GTCC3	GTCC3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (－) (Gate Post)	增强城门 (－) (旗柱)	1519	-1	-1	36	36	16185	16185	1	1	0	0
+665	GTCX2	GTCX2	80	39	5185	Gate	城门	Gate (－) (OFF)	城门 (－) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+666	GTCX3	GTCX3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (－) (OFF)	增强城门 (－) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+667	GTDA2	GTDA2	80	39	21028	Gate (vert.)	城门 (垂直)	Gate (｜)	城门 (｜)	1503	-1	-1	36	36	16185	16185	0	0	0	0
+668	GTDA3	GTDA3	80	39	21032	Fortified Gate (vert.)	增强城门 (垂直)	Fortified Gate (｜)	增强城门 (｜)	1507	-1	-1	36	36	16185	16185	1	1	0	0
+669	GTDB2	GTDB2	80	39	5185	Gate	城门	Gate (｜) (ON)	城门 (｜) (开)	1503	-1	-1	36	36	16185	16185	1	1	0	0
+670	GTDB3	GTDB3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (｜) (ON)	增强城门 (｜) (开)	1507	-1	-1	36	36	16185	16185	1	1	0	0
+671	GTDC2	GTDC2	80	39	5185	Gate	城门	Gate (｜) (Gate Post)	城门 (｜) (旗柱)	1518	-1	-1	36	36	16185	16185	1	1	0	0
+672	GTDC3	GTDC3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (｜) (Gate Post)	增强城门 (｜) (旗柱)	1519	-1	-1	36	36	16185	16185	1	1	0	0
+673	GTDX2	GTDX2	80	39	5185	Gate	城门	Gate (｜) (OFF)	城门 (｜) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+674	GTDX3	GTDX3	80	39	5649	Fortified Gate	增强城门	Fortified Gate (｜) (OFF)	增强城门 (｜) (闭)	1406	-1	-1	36	36	16185	16185	1	1	0	0
+675	ONAGR_D	ONAGR_D	30	11	0			[Corp]--Onager	尸体--中型投石车	-1			-1	-1	16557	16557	1	1	0	0
+676	Projectile Fire Ship	Projectile Fire Ship	60	11	0			[Proj] (Fireball)	抛射物 (火球)	-1	-1		-1	-1	16558	16558	1	1	0	0
+677	S_FIRE	S_FIRE	20	11	0			S_FIRE (Fireball Wake)	S_FIRE (火球尾迹)	-1			-1	-1	16559	16559	1	1	0	0
+678	HREY	HREY	70	12	5560	Reynald de Chatillon	沙蒂永的雷纳德	Reynald de Chatillon	沙蒂永的雷纳德	633	-1	-1	70	70	16560	16560	0	0	0	0
+679	HREY_D	HREY_D	30	11	0			[Corp]--HREY_D (No Graphic)	尸体--HREY_D (无图像)	-1			-1	-1	16000	16000	1	1	0	0
+680	HMOT	HMOT	70	12	5562	Master of the Templar	圣殿骑士团首领	Master of the Templar	圣殿骑士团首领	633	-1	-1	75	75	16562	16562	0	0	0	0
+681	HMOT_D	HMOT_D	30	11	0			[Corp]--HREY_D (No Graphic)	尸体--HREY_D (无图像)	-1			-1	-1	16000	16000	1	1	0	0
+682	HBNB	HBNB	80	54	5564	Bad Neighbor	坏邻居	Bad Neighbor (Unfolded)	坏邻居 (展开)	194	371	-1	94	94	16564	16564	0	0	0	0
+683	HGOS	HGOS	80	54	5565	God's Own Sling	神之弓	God's Own Sling (Unfolded)	神之弓 (展开)	194	371	-1	94	94	16565	16565	0	0	0	0
+684	HTAT	HTAT	80	52	5566	The Accursed Tower	诅咒之塔	The Accursed Tower	诅咒之塔	1494	505	505	45	45	16566	16566	0	0	0	0
+685	HTOF	HTOF	80	52	5567	The Tower of Flies	腐败之塔	The Tower of Flies	腐败之塔	1495	505	505	45	45	16567	16567	0	0	0	0
+686	HAOE	HAOE	70	0	5568	Archer of the Eyes	神眼步弓手	Archer of the Eyes	神眼步弓手	687	507	-1	77	77	16568	16568	0	0	0	0
+687	HAOE_D	HAOE_D	30	11	0			[Corp]--Archer of the Eyes	尸体--神眼步弓手	-1			-1	-1	16569	16569	1	1	0	0
+688	HPTC	HPTC	70	42	5570	Piece of the True Cross	圣十字架真品的碎片	Piece of the True Cross	圣十字架真品的碎片	-1	-1	-1	-1		16570	16570	0	0	1	0
+689	HPYR	HPYR	80	3	5571	Pyramid	金字塔	Pyramid	金字塔	1515	-1	-1	57	57	16571	16571	0	0	0	0
+690	HDOR	HDOR	80	3	5572	Dome of the Rock	圆顶清真寺	Dome of the Rock	圆顶清真寺	1482	-1	-1	37	37	16572	16572	0	0	0	0
+691	CNGAU	CNGAU	70	22	5573	Elite Cannon Galleon	精锐炮舰	Elite Cannon Galleon	精锐炮舰	-1	374	-1	298	298	16573	16573	0	0	0	0
+692	VBRSK	VBRSK	70	6	5574	Berserk	狂战士	Berserk	狂战士	693	-1	-1	38	38	16574	16574	0	0	0	0
+693	VBRSK_D	VBRSK_D	30	11	0			[Corp]--Berserk	尸体--狂战士	-1			-1	-1	16575	16575	1	1	0	0
+694	UVBRK	UVBRK	70	6	5576	Elite Berserk	精锐狂战士	Elite Berserk	精锐狂战士	695	-1	-1	38	38	16576	16576	0	0	0	0
+695	UVBRK_D	UVBRK_D	30	11	0			[Corp]--Elite Berserk	尸体--精锐狂战士	-1			-1	-1	16577	16577	1	1	0	0
+696	HGPR	HGPR	80	3	5578	Great Pyramid	大金字塔	Great Pyramid	大金字塔	1516	-1	-1	57	57	16578	16578	0	0	0	0
+697	FLARE4	FLARE4	10	11	0			Flare 4 (2 Tile of sight 10s)	闪烁 4 (2格视野 10s)	-1			-1	-1	16579	16579	1	1	0	0
+698	HSUBO	HSUBO	70	36	5580	Subotai	速不台	Subotai	速不台	1618	478	-1	53	53	16580	16580	0	0	0	0
+699	HSUBO_D	HSUBO_D	30	11	0			[Corp]--HSUBO_D (No Graphic)	尸体--HSUBO_D (无图像)	-1			-1	-1	16000	16000	1	1	0	0
+700	HWOLF	HWOLF	70	6	5582	Hunting Wolf	猎狼	Hunting Wolf	猎狼	237	-1	-1	340	340	16582	16582	0	0	0	0
+701	HWOLF_D	HWOLF_D	30	11	0			[Corp]--HWOLF_D (No Graphic)	尸体--HWOLF_D (无图像)	-1			-1		16000	16000	1	1	1	0
+702	HKUSH	HKUSH	70	12	5584	Kushluk	屈出律	Kushluk	屈出律	1638	-1	-1	81	81	16584	16584	0	0	0	0
+703	HTOPA	HTOPA	70	6	5018	Topa Yupanqui	托巴·尤潘基	Topa Yupanqui	托巴·尤潘基	750	-1	-1	327	327	16669	16669	0	0	0	0
+704	HSHAH	HSHAH	70	59	5586	Shah	沙阿王	Shah	沙阿王	1337	-1	-1	82	82	16586	16586	0	0	0	0
+705	Cow Black and White	Cow Black and White	70	58	21048	Cow A	奶牛 A	Cow A	奶牛 A	843	-1	-1	150	150	16498	16498	0	0	0	0
+706	HDSQD	HDSQD	70	35	5588	Saboteur	破坏者	Saboteur	破坏者	-1	-1	-1	58	58	16588	16588	0	0	0	0
+707	HORNL	HORNL	70	10	5589	Ornlu the Wolf	灰狼欧鲁	Ornlu the Wolf	灰狼欧鲁	708	-1	-1	145	145	16589	16589	0	0	0	0
+708	HORNL_D	HORNL_D	30	11	0			[Corp]--Ornlu the Wolf	尸体--灰狼欧鲁	-1			-1	-1	16590	16590	1	1	0	0
+709	FCAC	FCAC	30	14	5591	Cactus	仙人掌	Cactus	仙人掌	-1			32		16591	16591	0	0	1	0
+710	SKELETON	SKELETON	10	14	5592	Skeleton	骨骸	Skeleton	骨骸	-1			-1		16592	16592	0	0	1	0
+711	RUGS	RUGS	10	11	5593	Rugs	毛毯	Rugs	毛毯	-1			-1		16593	16593	0	0	1	0
+712	YERTA	YERTA	80	3	5594	Yurt A	蒙古包 A	Yurt A	蒙古包 A	1447	-1	-1	81	81	16594	16594	0	0	0	0
+713	YERTB	YERTB	80	3	5595	Yurt B	蒙古包 B	Yurt B	蒙古包 B	1448	-1	-1	82	82	16595	16595	0	0	0	0
+714	YERTC	YERTC	80	3	5596	Yurt C	蒙古包 C	Yurt C	蒙古包 C	1449	-1	-1	82	82	16596	16596	0	0	0	0
+715	YERTD	YERTD	80	3	5597	Yurt D	蒙古包 D	Yurt D	蒙古包 D	1450	-1	-1	82	82	16597	16597	0	0	0	0
+716	YERTE	YERTE	80	3	5598	Yurt E	蒙古包 E	Yurt E	蒙古包 E	1451	-1	-1	80	80	16598	16598	0	0	0	0
+717	YERTF	YERTF	80	3	5599	Yurt F	蒙古包 F	Yurt F	蒙古包 F	1452	-1	-1	80	80	16599	16599	0	0	0	0
+718	YERTG	YERTG	80	3	5600	Yurt G	蒙古包 G	Yurt G	蒙古包 G	1453	-1	-1	80	80	16600	16600	0	0	0	0
+719	YERTH	YERTH	80	3	5601	Yurt H	蒙古包 H	Yurt H	蒙古包 H	1454	-1	-1	79	79	16601	16601	0	0	0	0
+720	FLAGM	FLAGM	20	30	5602	Nine Bands	九旄大纛	Nine Bands	九旄大纛	-1			-1	-1	16602	16602	0	0	0	0
+721	SPWK1	SPWK1	20	30	5603	Shipwreck A	船只遗骸 A	Shipwreck A	船只遗骸 A	-1			-1	-1	16603	16603	0	0	0	0
+722	SPWK2	SPWK2	20	30	5604	Shipwreck B	船只遗骸 B	Shipwreck B	船只遗骸 B	-1			-1	-1	16604	16604	0	0	0	0
+723	CRATR	CRATR	10	14	5605	Crater	弹坑	Crater	弹坑	-1			-1		16605	16605	0	0	1	0
+724	GENIT_D	GENIT_D	30	11	0			[Corp]--GENIT_D (No Graphic)	尸体--GENIT_D (无图像)	-1			-1	-1	16664	16664	1	1	0	0
+725	JAGUAR	JAGUAR	70	6	5667	Jaguar Warrior	豹勇士	Jaguar Warrior	豹勇士	750	-1	-1	110	110	16667	16667	0	0	0	0
+726	JAGUARX	JAGUARX	70	6	5669	Elite Jaguar Warrior	精锐豹勇士	Elite Jaguar Warrior	精锐豹勇士	750	-1	-1	110	110	16669	16669	0	0	0	0
+727						Test String	测试字符串												0	1
+728	Ice	Ice	10	14	10651	Ice, Navigable	冰原，可通航	Ice	冰	-1			-1		16610	16610	0	0	1	0
+729	HGOSP	HGOSP	80	51	5611	God's Own Sling (Packed)	神之弓 (组装)	God's Own Sling (Movable)	神之弓 (可移动)	735	-1	-1	313	313	16611	16611	0	0	0	0
+730	HBNBP	HBNBP	80	51	5612	Bad Neighbor (Packed)	坏邻居 (组装)	Bad Neighbor (Movable)	坏邻居 (可移动)	735	-1	-1	313	313	16612	16612	0	0	0	0
+731	HKHAN	HKHAN	70	36	5613	Genghis Khan	成吉思汗	Genghis Khan	成吉思汗	135	477	-1	54	54	16613	16613	0	0	0	0
+732	KINGSEA_D	KINGSEA_D	30	11	0			[Corp]--Genghis Khan	尸体--成吉思汗	-1			-1	-1	16302	16302	1	1	0	0
+733	HPIKL	HPIKL	70	59	5615	Emperor in a Barrel	装在桶里的皇帝	Emperor in a Barrel	装在桶里的皇帝	205	-1	-1	57	57	16615	16615	0	0	0	0
+734	HPIKL_D	HPIKL_D	30	11	0			[Corp]--HPIKL_D (No Graphic)	尸体--HPIKL_D (无图像)	-1			-1	-1	16616	16616	1	1	0	0
+735	PTREB_D	PTREB_D	30	11	0			[Corp]--Trebuchet (Movable)	尸体--巨型投石机 (可移动)	-1			-1	-1	16000	16000	1	1	0	0
+736	Projectile MLK	Projectile MLK	60	11	5617			[Proj] (Mameluke)	抛射物 (马穆鲁克)	-1	-1		-1	-1	16617	16617	1	1	0	0
+737	STUMB	STUMB	10	14	5618	Bamboo Stump	竹桩	Bamboo Stump	竹桩	-1			-1		16618	16618	1	1	1	0
+738	BGAD	BGAD	80	14	5641	Bridge A--Cracked	桥 A--破裂	Bridge A--Cracked	桥 A--破裂	144	-1	-1	-1	-1	16641	16641	0	0	0	0
+739	BGAE	BGAE	80	14	5642	Bridge A--Broken Top	桥 A--破损的顶部	Bridge A--Broken Top	桥 A--破损的顶部	144	-1	-1	-1	-1	16642	16642	0	0	0	0
+740	BGAF	BGAF	80	14	5643	Bridge A--Broken Bottom	桥 A--破损的底部	Bridge A--Broken Bottom	桥 A--破损的底部	144	-1	-1	-1	-1	16643	16643	0	0	0	0
+741	BGBD	BGBD	80	14	5644	Bridge B--Cracked	桥 B--破裂	Bridge B--Cracked	桥 B--破裂	144	-1	-1	-1	-1	16644	16644	0	0	0	0
+742	BGBE	BGBE	80	14	5645	Bridge B--Broken Top	桥 B--破损的顶部	Bridge B--Broken Top	桥 B--破损的顶部	144	-1	-1	-1	-1	16645	16645	0	0	0	0
+743	BGBF	BGBF	80	14	5646	Bridge B--Broken Bottom	桥 B--破损的底部	Bridge B--Broken Bottom	桥 B--破损的底部	144	-1	-1	-1	-1	16646	16646	0	0	0	0
+744	MNTN3	MNTN3	10	14	5647	Mountain 3	山脉 3	Mountain 3	山脉 3	-1			-1		16647	16647	0	0	1	0
+745	MNTN4	MNTN4	10	14	5648	Mountain 4	山脉 4	Mountain 4	山脉 4	-1			-1		16648	16648	0	0	1	0
+746	Projectile CST	Projectile CST	60	11	0			[Proj] (Castle)	抛射物 (城堡)	-1	-1		-1	-1	16649	16649	1	1	0	0
+747	Projectile CST (Fire)	Projectile CST (Fire)	60	11	0			[Proj] (Castle Chemical)	抛射物 (城堡 化学)	-1	-1		-1	-1	16650	16650	1	1	0	0
+748	COBRA	COBRA	70	13	5658	Cobra Car	眼镜蛇跑车	Cobra Car	眼镜蛇跑车	-1	380	-1	142	142	16658	16658	0	0	0	0
+749	HCUSI	HCUSI	70	6	5017	Cusi Yupanqui	库西·尤潘基	Cusi Yupanqui	库西·尤潘基	1626	-1	-1	306	306	16671	16671	0	0	0	0
+750	JAGUAR_D	JAGUAR_D	30	11	0			[Corp]--Jaguar Warrior	尸体--豹勇士	-1			-1	-1	16668	16668	1	1	0	0
+751	EAGLE	EAGLE	70	6	5672	Eagle Scout	鹰斥候	Eagle Scout	鹰斥候	754	-1	-1	109	109	16671	16671	0	0	0	0
+752	EAGLEX	EAGLEX	70	6	5673	Elite Eagle Warrior	精锐鹰勇士	Elite Eagle Warrior	精锐鹰勇士	1117	-1	-1	149	149	16673	16673	0	0	0	0
+753	EAGLEH	EAGLEH	70	6	5671	Eagle Warrior	鹰勇士	Eagle Warrior	鹰勇士	1116	-1	-1	148	148	16671	16671	0	0	0	0
+754	EAGLE_D	EAGLE_D	30	11	0			[Corp]--Eagle Scout	尸体--鹰斥候	-1			-1	-1	16672	16672	1	1	0	0
+755	TARKAN	TARKAN	70	12	5675	Tarkan	答刺罕骑兵	Tarkan (Tarkan)	答刺罕骑兵 (答剌罕骑兵)	756	-1	-1	105	105	16675	16675	0	0	0	0
+756	TARKAN_D	TARKAN_D	30	11	0			[Corp]--Tarkan	尸体--答刺罕骑兵	-1			-1	-1	16676	16676	1	1	0	0
+757	UTARK	UTARK	70	12	5677	Elite Tarkan	精锐答刺罕骑兵	Elite Tarkan	精锐答刺罕骑兵	756	-1	-1	105	105	16677	16677	0	0	0	0
+758	BBURNED	BBURNED	10	14	5532	Burned building	烧毁的建筑	Burned building	烧毁的建筑	-1			-1		16393	16393	0	0	1	0
+759	BHUSK	BHUSK	70	6	5679	Huskarl	近卫军	Huskarl (Barracks)	近卫军 (兵营)	62	-1	-1	50	50	16748	16748	1	1	0	0
+760	BHUSK_D	BHUSK_D	30	11	0			[Corp]--BHUSK_D (No Graphic)	尸体--BHUSK_D (无图像)	-1			-1	-1	16680	16680	1	1	0	0
+761	BHUSKX	BHUSKX	70	6	5681	Elite Huskarl	精锐近卫军	Elite Huskarl (Barracks)	精锐近卫军 (兵营)	62	-1	-1	50	50	16748	16748	1	1	0	0
+762	BHUSKX_D	BHUSKX_D	30	11	0			[Corp]--BHUSKX_D (No Graphic)	尸体--BHUSKX_D (无图像)	-1			-1	-1	16682	16682	1	1	0	0
+763	PLUME	PLUME	70	0	5683	Plumed Archer	羽箭手	Plumed Archer	羽箭手	764	511	-1	108	108	16683	16683	0	0	0	0
+764	PLUME_D	PLUME_D	30	11	0			[Corp]--Plumed Archer	尸体--羽箭手	-1			-1	-1	16684	16684	1	1	0	0
+765	UPLUM	UPLUM	70	0	5685	Elite Plumed Archer	精锐羽箭手	Elite Plumed Archer	精锐羽箭手	764	511	-1	108	108	16685	16685	0	0	0	0
+766	UPLUM_D	UPLUM_D	30	11	0			[Corp]--UPLUM_D (No Graphic)	尸体--UPLUM_D (无图像)	-1			-1	-1	16686	16686	1	1	0	0
+767	Projectile CGX	Projectile CGX	60	11	0			[Proj] (Turtle Ship)	抛射物 (龟甲船)	-1	-1		-1	-1	16315	16315	1	1	0	0
+768	Blue Tree	Blue Tree	10	15	0			Blue Tree (Invisible)	Blue Tree (隐形)	415			32		16277	16277	1	1	1	0
+769						Test String	测试字符串												0	1
+770						Test String	测试字符串												0	1
+771	CONQI	CONQI	70	23	5687	Conquistador	西班牙征服者	Conquistador	西班牙征服者	772	380	-1	106	106	16687	16687	0	0	0	0
+772	CONQI_D	CONQI_D	30	11	0			[Corp]--Conquistador	尸体--西班牙征服者	-1			-1	-1	16688	16688	1	1	0	0
+773	UCONQ	UCONQ	70	23	5689	Elite Conquistador	精锐西班牙征服者	Elite Conquistador	精锐西班牙征服者	772	380	-1	106	106	16689	16689	0	0	0	0
+774	UCONQ_D	UCONQ_D	30	11	0			[Corp]--UCONQ_D (No Graphic)	尸体--UCONQ_D (无图像)	-1			-1	-1	16690	16690	1	1	0	0
+775	MONKY	MONKY	70	18	5691	Missionary	传教士	Missionary	传教士	776	-1	-1	107	107	16691	16691	0	0	0	0
+776	MONKY_D	MONKY_D	30	11	0			[Corp]--Missionary	尸体--传教士	-1			-1	-1	16692	16692	1	1	0	0
+777	HATTILA	HATTILA	70	12	5695	Attila the Hun	匈奴王阿提拉	Attila the Hun	匈奴王阿提拉	1619	-1	-1	119	119	16695	16695	0	0	0	0
+778	Canoe	Canoe	70	22	5119	Canoe	独木舟	Canoe	独木舟	-1	512	512	164	164	16106	16106	0	0	0	0
+779	HBLEDA	HBLEDA	70	12	5697	Bleda the Hun	匈奴王布莱达	Bleda the Hun	匈奴王布莱达	1371	-1	-1	120	120	16697	16697	0	0	0	0
+780	LLAMA_D	LLAMA_D	30	11	0			[Corp]--Llama	尸体--羊驼	-1			96	96	16000	16000	1	1	0	0
+781	HPOPE	HPOPE	70	18	5699	Pope Leo I	罗马教皇里奥一世	Pope Leo I	罗马教皇里奥一世	134	-1	-1	130	130	16699	16699	0	0	0	0
+782	HPOPE_D	HPOPE_D	30	11	0			[Corp]--HPOPE_D (No Graphic)	尸体--HPOPE_D (无图像)	-1			-1	-1	16700	16700	1	1	0	0
+783	HWITCH	HWITCH	70	6	5701	Scythian Wild Woman	斯基泰的野女人	Scythian Wild Woman	斯基泰的野女人	431	-1	-1	121	121	16701	16701	0	0	0	0
+784	HWITCH_D	HWITCH_D	30	11	0			[Corp]--HWITCH_D (No Graphic)	尸体--HWITCH_D (无图像)	-1			52	52	16702	16702	1	1	0	0
+785	STWR	STWR	80	52	5704	Sea Tower	海塔	Sea Tower	海塔	-1	504	505	25	25	16704	16704	0	0	0	0
+786	Projectile STW	Projectile STW	60	11	0			[Proj] (Arrow Shadow)	抛射物 (箭矢影子)	-1	-1		-1	-1	16705	16705	1	1	0	0
+787	Projectile STW (Fire)	Projectile STW (Fire)	60	11	0			[Proj] (Arrow Shadow Chemical)	抛射物 (箭矢影子 化学)	-1	-1		-1	-1	16706	16706	1	1	0	0
+788	SWAL	SWAL	80	27	5707	Sea Wall	海墙	Sea Wall	海墙	-1	-1	-1	30	30	16707	16707	0	0	0	0
+789	PGTAA	PGTAA	80	39	21021	Palisade Gate (up.)	木城门 (向上)	Palisade Gate (／)	木城门 (／)	1440	-1	-1	44	44	16186	16186	0	0	0	0
+790	PGTAB	PGTAB	80	39	5186	Palisade Gate	木城门	Palisade Gate (／) (ON)	木城门 (／) (开)	1440	-1	-1	44	44	16186	16186	1	1	0	0
+791	PGTAC	PGTAC	80	39	5186	Palisade Gate	木城门	Palisade Gate (／) (Gate Post)	木城门 (／) (旗柱)	1521	-1	-1	44	44	16186	16186	1	1	0	0
+792	PGTAX	PGTAX	80	39	5186	Palisade Gate	木城门	Palisade Gate (／) (OFF)	木城门 (／) (闭)	1406	-1	-1	44	44	16186	16186	1	1	0	0
+793	PGTBA	PGTBA	80	39	21022	Palisade Gate (down.)	木城门 (向下)	Palisade Gate (＼)	木城门 (＼)	1441	-1	-1	44	44	16186	16186	0	0	0	0
+794	PGTBB	PGTBB	80	39	5186	Palisade Gate	木城门	Palisade Gate (＼) (ON)	木城门 (＼) (开)	1441	-1	-1	44	44	16186	16186	1	1	0	0
+795	PGTBC	PGTBC	80	39	5186	Palisade Gate	木城门	Palisade Gate (＼) (Gate Post)	木城门 (＼) (旗柱)	1521	-1	-1	44	44	16186	16186	1	1	0	0
+796	PGTBX	PGTBX	80	39	5186	Palisade Gate	木城门	Palisade Gate (＼) (OFF)	木城门 (＼) (闭)	1406	-1	-1	44	44	16186	16186	1	1	0	0
+797	PGTCA	PGTCA	80	39	21023	Palisade Gate (hori.)	木城门 (水平)	Palisade Gate (－)	木城门 (－)	1442	-1	-1	44	44	16186	16186	0	0	0	0
+798	PGTCB	PGTCB	80	39	5186	Palisade Gate	木城门	Palisade Gate (－) (ON)	木城门 (－) (开)	1442	-1	-1	44	44	16186	16186	1	1	0	0
+799	PGTCC	PGTCC	80	39	5186	Palisade Gate	木城门	Palisade Gate (－) (Gate Post)	木城门 (－) (旗柱)	1521	-1	-1	44	44	16186	16186	1	1	0	0
+800	PGTCX	PGTCX	80	39	5186	Palisade Gate	木城门	Palisade Gate (－) (OFF)	木城门 (－) (闭)	1406	-1	-1	44	44	16186	16186	1	1	0	0
+801	PGTDA	PGTDA	80	39	21024	Palisade Gate (vert.)	木城门 (垂直)	Palisade Gate (｜)	木城门 (｜)	1443	-1	-1	44	44	16186	16186	0	0	0	0
+802	PGTDB	PGTDB	80	39	5186	Palisade Gate	木城门	Palisade Gate (｜) (ON)	木城门 (｜) (开)	1443	-1	-1	44	44	16186	16186	1	1	0	0
+803	PGTDC	PGTDC	80	39	5186	Palisade Gate	木城门	Palisade Gate (｜) (Gate Post)	木城门 (｜) (旗柱)	1521	-1	-1	44	44	16186	16186	1	1	0	0
+804	PGTDX	PGTDX	80	39	5186	Palisade Gate	木城门	Palisade Gate (｜) (OFF)	木城门 (｜) (闭)	1406	-1	-1	44	44	16186	16186	1	1	0	0
+805	SDOC	SDOC	80	3	5144	Dock	船坞	Dock (Stack Unit)	船坞 (堆叠单位)	-1	-1	-1	13	13	16144	16144	1	1	0	0
+806	SDOC2	SDOC2	80	3	5144	Dock	船坞	Dock (Stack Unit) 2	船坞 (堆叠单位) 2	-1	-1	-1	14	14	16144	16144	1	1	0	0
+807	SDOC3	SDOC3	80	3	5144	Dock	船坞	Dock (Stack Unit) 3	船坞 (堆叠单位) 3	-1	-1	-1	15	15	16144	16144	1	1	0	0
+808	SDOC4	SDOC4	80	3	5144	Dock	船坞	Dock (Stack Unit) 4	船坞 (堆叠单位) 4	-1	-1	-1	15	15	16144	16144	1	1	0	0
+809	STUMP2	STUMP2	10	14	5281	Stump	树桩	Stump (Never fade)	树桩 (不消失)	-1			-1		16281	16281	0	0	1	0
+810	HEROBOAR	HEROBOAR	70	10	5710	Iron Boar	铁甲野猪	Iron Boar	铁甲野猪	356	-1	-1	98		16710	16710	0	0	1	0
+811	HEROBOAR_D	HEROBOAR_D	30	11	0			[Corp]--Iron Boar (Unused)	尸体--铁甲野猪 (未用)	-1			98		16711	16711	1	1	1	0
+812	GJAGR	GJAGR	70	10	5712	Jaguar	美洲豹	Jaguar	美洲豹	813	-1	-1	111		16712	16712	0	0	1	0
+813	GJAGR_D	GJAGR_D	30	11	0			[Corp]--Jaguar	尸体--美洲豹	-1			7		16713	16713	1	1	1	0
+814	HORSE	HORSE	70	61	21052	Horse A	马 A	Horse A	马 A	815	-1	-1	112	112	16714	16714	0	0	0	0
+815	HORSE_D	HORSE_D	30	11	0			[Corp]--Horse A	尸体--马 A	-1			3	3	16715	16715	1	1	0	0
+816	MACAW	MACAW	70	11	5716	Macaw	金刚鹦鹉	Macaw	金刚鹦鹉	-1	-1	-1	284		16716	16716	0	0	1	0
+817	Statue A	Statue A	10	14	0			Statue A	雕像 A	-1			-1		16717	16717	1	1	1	0
+818	PLANTS	PLANTS	10	14	5718	Plant	植物	Plant	植物	-1			-1		16718	16718	0	0	1	0
+819	SIGN	SIGN	10	14	5719	Sign	标记	Sign	标记	-1			189		16719	16719	0	0	1	0
+820	GRAVES	GRAVES	10	14	5720	Grave	坟墓	Grave	坟墓	-1			-1		16720	16720	0	0	1	0
+821	HEADS	HEADS	10	14	5721	Head	头	Head	头	-1			-1		16721	16721	0	0	1	0
+822	BOARJ	BOARJ	70	10	5722	Javelina	西貒野猪	Javelina	西貒野猪	356	-1	-1	98		16722	16722	0	0	1	0
+823	BOARJ_D	BOARJ_D	30	11	0			[Corp]--Javelina (Unused)	尸体--西貒野猪 (未用)	-1			98		16723	16723	1	1	1	0
+824	HELCIDC	HELCIDC	70	12	5724	El Cid Campeador	熙德·坎培多尔	El Cid Campeador	熙德·坎培多尔	633	-1	-1	173	173	16724	16724	0	0	0	0
+825	Amazon Warrior	Amazon Warrior	70	6	5303	Amazon Warrior	亚马逊勇士	Amazon Warrior	亚马逊勇士	1324	-1	-1	166	166	16667	16667	0	0	0	0
+826	KOH-FLAG	KOH-FLAG	80	1	5726	Monument	纪念碑	Monument	纪念碑	-1	-1	-1	37	37	16726	16726	0	0	0	0
+827	WAGON	WAGON	70	36	5727	War Wagon	高丽战车	War Wagon	高丽战车	828	373	-1	117	117	16727	16727	0	0	0	0
+828	WAGON_D	WAGON_D	30	11	0			[Corp]--War Wagon	尸体--高丽战车	-1			-1	-1	16728	16728	1	1	0	0
+829	UWAGO	UWAGO	70	36	5729	Elite War Wagon	精锐高丽战车	Elite War Wagon	精锐高丽战车	828	373	-1	117	117	16729	16729	0	0	0	0
+830	UWAGO_D	UWAGO_D	30	11	0			[Corp]--UWAGO_D (No Graphic)	尸体--UWAGO_D (无图像)	-1			-1	-1	16730	16730	1	1	0	0
+831	TURTL	TURTL	70	22	5731	Turtle Ship	龟甲船	Turtle Ship	龟甲船	-1	767	-1	116	116	16106	16106	0	0	0	0
+832	UTURT	UTURT	70	22	5732	Elite Turtle Ship	精锐龟甲船	Elite Turtle Ship	精锐龟甲船	-1	767	-1	116	116	16106	16106	0	0	0	0
+833	TURKYG	TURKY	70	58	5733	Turkey	火鸡	Turkey	火鸡	834	-1	-1	115	115	16733	16733	0	0	0	0
+834	TURKY_D	TURKY_D	30	11	0			[Corp]--Turkey	尸体--火鸡	-1			96	96	16734	16734	1	1	0	0
+835	HORSW	HORSW	70	9	5735	Wild Horse	野马	Wild Horse	野马	815	-1	-1	112		16735	16735	0	0	1	0
+836	HORSW_D	HORSW_D	30	11	0			[Corp]--HORSW_D (No Graphic)	尸体--HORSW_D (无图像)	-1			3		16736	16736	1	1	1	0
+837	REVEAL	REVEAL	20	30	5737	Map Revealer	地图启示者	Map Revealer	地图启示者	-1			-1	-1	16737	16737	0	0	0	0
+838	HSANC	HSANC	70	59	5738	King Sancho	桑丘国王	King Sancho	桑丘国王	497	-1	-1	124	124	16738	16738	0	0	0	0
+839	ROCKSX	ROCKSX	10	8	5524	Rock (Stone)	岩石 (石料)	Rock (Stone)	岩石 (石料)	-1			9		16520	16520	1	1	1	0
+840	HALFON	HALFON	70	59	5740	King Alfonso	阿方索国王	King Alfonso	阿方索国王	497	-1	-1	123	123	16740	16740	0	0	0	0
+841	ROCKGX	ROCKGX	10	32	5525	Rock (Gold)	岩石 (黄金)	Rock (Gold)	岩石 (黄金)	-1			14		16520	16520	1	1	1	0
+842	HIMAM	HIMAM	70	18	5742	Imam	阿訇	Imam	阿訇	1326	-1	-1	324	324	16742	16742	0	0	0	0
+843	COWX_D	COWX_D	30	11	0			[Corp]--Cow A	尸体--奶牛 A	-1			150		16017	16017	1	1	1	0
+844	HYI	HYI	70	22	5744	Admiral Yi Sun-shin	李舜臣将军	Admiral Yi Sun-shin	李舜臣将军	-1	767	-1	127	127	16744	16744	0	0	0	0
+845	HNOB	HNOB	70	6	5745	Nobunaga	织田信长	Nobunaga	织田信长	151	-1	-1	126	126	16745	16745	0	0	0	0
+846	TDONK	TDONK	70	19	5306	Donkey	毛驴	Donkey	毛驴	848	-1	-1	158	158	16100	16100	0	0	0	0
+847	HENRY	HENRY	70	12	5747	Henry V	亨利五世	Henry V	亨利五世	570	-1	-1	125	125	16747	16747	0	0	0	0
+848	TDONK_D	TDONK_D	30	11	0			[Corp]--Donkey	尸体--毛驴	-1			-1	-1	16046	16046	1	1	0	0
+849	HWIL	HWIL	70	12	5749	William the Conqueror	征服者威廉	William the Conqueror	征服者威廉	633	-1	-1	128	128	16749	16749	0	0	0	0
+850	Amazon Archer	Amazon Archer	70	0	5304	Amazon Archer	亚马逊步弓手	Amazon Archer	亚马逊步弓手	1325	511	-1	165	165	16683	16683	0	0	0	0
+851	ESFLAG	ESFLAG	20	30	5751	ES Flag	全效工作室的旗帜	ES Flag	全效工作室的旗帜	-1			-1	-1	16751	16751	0	0	0	0
+852	HSCOUT	HSCOUT	70	12	5752	Scythian Scout	斯基泰斥候	Scythian Scout	斯基泰斥候	547	-1	-1	321	321	16752	16752	0	0	0	0
+853	HSCOUT_D	HSCOUT_D	30	11	0			[Corp]--HSCOUT_D (No Graphic)	尸体--HSCOUT_D (无图像)	-1			-1	-1	16753	16753	1	1	0	0
+854	TORCH2	TORCH2	70	1	5753	Torch A (Convertable)	火炬 A (可招降)	Torch A (Convertable)	火炬 A (可招降)	-1	-1	-1	-1	-1	16753	16753	0	0	0	0
+855	SHEAD	SHEAD	10	14	5756	Old Stone Head	远古石头像	Old Stone Head	远古石头像	-1			-1		16756	16756	0	0	1	0
+856	RUINS	RUINS	10	14	5757	Roman Ruins	罗马遗迹	Roman Ruins	罗马遗迹	-1			-1		16757	16757	0	0	1	0
+857	HSTAC	HSTAC	10	14	5761	Hay Stack	干草堆	Hay Stack	干草堆	-1			-1		16761	16761	0	0	1	0
+858	BCART	BCART	10	14	5759	Broken Cart	损坏的手推车	Broken Cart	损坏的手推车	-1			-1		16759	16759	0	0	1	0
+859	FLWRB	FLWRB	10	14	5760	Flower Bed	花床	Flower Bed	花床	-1			-1		16385	16385	0	0	1	0
+860	mkyby	mkyby	70	10	5763	Furious the Monkey Boy	狂暴猴孩	Furious the Monkey Boy	狂暴猴孩	861	-1	-1	132	132	16763	16763	0	0	0	0
+861	mkyby_D	mkyby_D	30	11	0			[Corp]--Furious the Monkey Boy	尸体--狂暴猴孩	-1			132	132	16000	16000	1	1	0	0
+862	storm	storm	70	11	5764	Stormy Dog	风暴犬	Stormy Dog	风暴犬	-1	-1	-1	159		16764	16764	0	0	1	0
+863	RUBL1V	RUBL1V	10	14	5001	Rubble 1 x 1	碎石 1 x 1	Rubble 1 x 1 (Never fade)	碎石 1 x 1 (不消失)	-1			-1	-1	16001	16001	0	0	0	0
+864	RUB2V	RUB2V	10	14	5002	Rubble 2 x 2	碎石 2 x 2	Rubble 2 x 2 (Never fade)	碎石 2 x 2 (不消失)	-1			-1	-1	16002	16002	0	0	0	0
+865	RUBL3V	RUBL3V	10	14	5003	Rubble 3 x 3	碎石 3 x 3	Rubble 3 x 3 (Never fade)	碎石 3 x 3 (不消失)	-1			-1	-1	16003	16003	0	0	0	0
+866	GENOE	GENOE	70	0	5723	Genoese Crossbowman	热那亚弩手	Genoese Crossbowman	热那亚弩手	867	364	-1	133	133	16101	16101	0	0	0	0
+867	GENOE_D	GENOE_D	30	11	0			[Corp]--Genoese Crossbowman	尸体--热那亚弩手	-1			-1	-1	16765	16765	1	1	0	0
+868	GENOE_E	GENOE_E	70	0	5725	Elite Genoese Crossbowman	精锐热那亚弩手	Elite Genoese Crossbowman	精锐热那亚弩手	867	364	-1	133	133	16101	16101	0	0	0	0
+869	UMAGYX	UMAGYX	70	12	5728	Magyar Huszar	马扎尔骠骑	Magyar Huszar	马扎尔骠骑	870	-1	-1	99	99	16101	16101	0	0	0	0
+870	MAGYA_D	MAGYA_D	30	11	0			[Corp]--Magyar Huszar	尸体--马扎尔骠骑	-1			-1	-1	16662	16662	1	1	0	0
+871	UMAGYX	UMAGYX	70	12	5730	Elite Magyar Huszar	精锐马扎尔骠骑	Elite Magyar Huszar	精锐马扎尔骠骑	870	-1	-1	99	99	16101	16101	0	0	0	0
+872	QCAT	QCAT	80	3	5762	Quimper Cathedral	坎佩尔大教堂	Quimper Cathedral	坎佩尔大教堂	1489	-1	-1	37	37	16572	16572	0	0	0	0
+873	ELEAR	ELEAR	70	36	5682	Elephant Archer	骑象射手	Elephant Archer	骑象射手	874	364	-1	93	93	16101	16101	0	0	0	0
+874	ELEAR_D	ELEAR_D	30	11	0			[Corp]--Elephant Archer	尸体--骑象射手	-1			-1	-1	16728	16728	1	1	0	0
+875	UELEA	UELEA	70	36	5684	Elite Elephant Archer	精锐骑象射手	Elite Elephant Archer	精锐骑象射手	874	364	-1	93	93	16101	16101	0	0	0	0
+876	BOYAR	BOYAR	70	12	5447	Boyar	贵族铁骑	Boyar	贵族铁骑	877	-1	-1	114	114	16101	16101	0	0	0	0
+877	BOYAR_D	BOYAR_D	30	11	0			[Corp]--Boyar	尸体--贵族铁骑	-1			-1	-1	16447	16447	1	1	0	0
+878	EBOYA	EBOYA	70	12	5449	Elite Boyar	精锐贵族铁骑	Elite Boyar	精锐贵族铁骑	877	-1	-1	114	114	16101	16101	0	0	0	0
+879	KAMAY	KAMAY	70	6	5686	Kamayuk	印加枪兵长	Kamayuk	印加枪兵长	880	-1	-1	97	97	16110	16110	0	0	0	0
+880	KAMAY_D	KAMAY_D	30	11	0			[Corp]--Kamayuk	尸体--印加枪兵长	-1			-1	-1	16728	16728	1	1	0	0
+881	EKAMA	EKAMA	70	6	5688	Elite Kamayuk	精锐印加枪兵长	Elite Kamayuk	精锐印加枪兵长	880	-1	-1	97	97	16460	16460	0	0	0	0
+882	CONDO	CONDO	70	6	5114	Condottiero	意大利佣兵	Condottiero	意大利佣兵	883	-1	-1	134	134	16679	16679	0	0	0	0
+883	CONDO_D	CONDO_D	30	11	0			[Corp]--Condottiero	尸体--意大利佣兵	-1			-1	-1	16042	16042	1	1	0	0
+884	HORSW	HORSW	70	9	5736	Wild Camel	野骆驼	Wild Camel	野骆驼	898	-1	-1	135	135	16735	16735	0	1	1	0
+885	SGTWR	SGTWR	70	13	5445	Siege Tower	攻城塔	Siege Tower (Arrows Can't climb)	攻城塔 (射箭 无法登墙)	891	512	512	212	212	16092	16092	1	1	0	0
+886	TARKAN	TARKAN	70	12	5675	Tarkan	答刺罕骑兵	Tarkan (Stable)	答刺罕骑兵 (马厩)	756	-1	-1	105	105	16741	16741	1	1	0	0
+887	UTARK	UTARK	70	12	5677	Elite Tarkan	精锐答刺罕骑兵	Elite Tarkan (Stable)	精锐答刺罕骑兵 (马厩)	756	-1	-1	105	105	16741	16741	1	1	0	0
+888	Llama building	Llama building	80	27	0			TC Extra Llama Bonus (Disused)	TC额外羊驼奖励 (已弃用)	305	-1	-1	40	40	16464	16464	1	1	0	0
+889	Disabled TC spawn	Disabled TC spawn	80	27	0			TC Extra Bonus Disabler	TC额外奖励关闭器	-1	-1	-1	40	40	16464	16464	1	1	0	0
+890	Empty TC annex	Empty TC annex	80	27	0			TC Extra Bonus Blank Annex	TC额外奖励空白附加物	-1	-1	-1	40	40	16464	16464	1	1	0	0
+891	SGTWR_D	SGTWR_D	30	11	0			[Corp]--Siege Tower (Arrows Can't climb)	尸体--攻城塔 (射箭 无法登墙)	-1			-1	-1	16728	16728	1	1	0	0
+892	FLPKM	FLPKM	70	6	5410	Heavy Pikeman	重装长枪兵	Heavy Pikeman (Campaign)	重装长枪兵 (战役)	893	-1	-1	136	136	16410	16410	0	0	0	0
+893	FLPKM_D	FLPKM_D	30	11	0			[Corp]--Heavy Pikeman (Campaign)	尸体--重装长枪兵 (战役)	-1			-1	-1	16040	16040	1	1	0	0
+894	THSWD	THSWD	70	6	5116	Eastern Swordsman	东方剑士	Eastern Swordsman	东方剑士	895	-1	-1	186	186	16081	16081	0	0	0	0
+895	THSWD_D	THSWD_D	30	11	0			[Corp]--Eastern Swordsman	尸体--东方剑士	-1			-1	-1	16047	16047	1	1	0	0
+896	WFALL	WFALL	20	14	5755	Waterfall (Overlay)	瀑布 (覆盖物)	Waterfall (Overlay)	瀑布 (覆盖物)	-1			-1	-1	16756	16756	0	1	1	0
+897	CAMEL	CAMEL	70	61	5700	Camel	骆驼	Camel	骆驼	898	-1	-1	135	135	16714	16714	0	0	0	0
+898	CAMEL_D	CAMEL_D	30	11	0			[Corp]--Camel	尸体--骆驼	-1			-1	-1	16715	16715	1	1	0	0
+899	ARCHCON	ARCHCON	80	3	5569	Arch of Constantine	君士坦丁凯旋门	Arch of Constantine	君士坦丁凯旋门	1485	-1	-1	37	37	16572	16572	0	0	0	0
+900	RAIN	RAIN	20	14	5518	Rain	雨	Rain (Deprecated)	雨 (弃用)	-1			-1		16501	16501	1	1	1	1
+901	FLAGF	FLAGF	20	30	5517	Flag F	旗帜 F	Flag F (Deprecated)	旗帜 F (弃用)	-1			-1	-1	16517	16517	1	1	0	1
+902	SMOKE	SMOKE	20	14	5519	Smoke	烟	Smoke (Blacksmith) (Deprecated)	烟 (铁匠铺) (弃用)	-1			-1	-1	16517	16517	1	1	0	1
+903						Test String	测试字符串												0	1
+904	BGAA	BGAA	80	14	5488	Wooden Bridge A--Top	木桥 A--上	Wooden Bridge A--Top (Deprecated)	木桥 A--顶部 (弃用)	144	-1	-1	-1	-1	16511	16511	1	1	0	1
+905	BGAB	BGAB	80	14	5489	Wooden Bridge A--Middle	木桥 A--中	Wooden Bridge A--Middle (Deprecated)	木桥 A--中部 (弃用)	144	-1	-1	-1	-1	16512	16512	1	1	0	1
+906	BGAC	BGAC	80	14	5490	Wooden Bridge A--Bottom	木桥 A--下	Wooden Bridge A--Bottom (Deprecated)	木桥 A--底部 (弃用)	144	-1	-1	-1	-1	16513	16513	1	1	0	1
+907	BGBA	BGBA	80	14	5491	Wooden Bridge B--Top	木桥 B--上	Wooden Bridge B--Top (Deprecated)	木桥 B--顶部 (弃用)	144	-1	-1	-1	-1	16514	16514	1	1	0	1
+908	BGBB	BGBB	80	14	5494	Wooden Bridge B--Middle	木桥 B--中	Wooden Bridge B--Middle (Deprecated)	木桥 B--中部 (弃用)	144	-1	-1	-1	-1	16515	16515	1	1	0	1
+909	BGBC	BGBC	80	14	5497	Wooden Bridge B--Bottom	木桥 B--下	Wooden Bridge B--Bottom (Deprecated)	木桥 B--底部 (弃用)	144	-1	-1	-1	-1	16516	16516	1	1	0	1
+910	IMPALED	IMPALED	10	14	5500	Impaled Corpse	悬钉的尸体	Impaled Corpse--(Deprecated)	悬钉的尸体--(弃用)	-1			-1	-1	16721	16000	1	1	0	1
+911	BGAA	BGAA	80	14	0			Wooden Bridge A--Top (Repeat) (Deprecated)	木桥 A--顶部 (重复) (弃用)	144	-1	-1	-1	-1	16511	16511	1	1	0	1
+912	BGAB	BGAB	80	14	0			Wooden Bridge A--Middle (Repeat) (Deprecated)	木桥 A--中部 (重复) (弃用)	144	-1	-1	-1	-1	16512	16512	1	1	0	1
+913	BGAC	BGAC	80	14	0			Wooden Bridge A--Bottom (Repeat) (Deprecated)	木桥 A--底部 (重复) (弃用)	144	-1	-1	-1	-1	16513	16513	1	1	0	1
+914	QUARRY	QUARRY	10	14	5709	Quarry	采石场	Quarry (Deprecated)	采石场 (弃用)	-1			-1	-1	16717	16717	1	1	0	1
+915	LUMBER	LUMBER	10	14	5706	Lumber	木料	Lumber Yard (Deprecated)	木材场 (弃用)	-1			-1	-1	16717	16717	1	1	0	1
+916	GOODS	GOODS	10	14	5705	Goods	货物	Goods (Deprecated)	货物 (弃用)	-1			-1	-1	16717	16717	1	1	0	1
+917	VULTURE	VULTURE	70	11	5715	Vulture	秃鹫	Vulture (Deprecated)	秃鹫 (弃用)	-1	-1	-1	286		16716	16716	1	1	1	1
+918	ROCKX2	ROCKX2	10	14	5527	Rock 2	岩石2	Rock 2 (Deprecated)	岩石 2 (弃用)	-1			-1		16520	16520	1	1	1	1
+919	AAGUAR_D	AAGUAR_D	30	11	0			[Corp]--Amazon Warrior (Deprecated)	尸体--亚马逊勇士 (弃用)	-1			-1	-1	16668	16668	1	1	0	1
+920	AARCH_D	AARCH_D	30	11	0			[Corp]--Amazon Archer (Deprecated)	尸体--亚马逊步弓手 (弃用)	-1			-1	-1	16668	16668	1	1	0	1
+921	MONKM_D	MONKM_D	30	11	0			[Corp]--Monk (Arab) (Deprecated)	尸体--僧侣 (阿拉伯) (弃用)	-1			-1	-1	16035	16035	1	1	0	1
+922	RMONKM	RMONKM	70	43	5380	Monk with Relic	带着圣物的僧侣	Monk with Relic (Deprecated)	带着圣物的僧侣 (弃用)	134	-1	-1	33	33	16380	16380	1	1	0	1
+923	QUEEN	QUEEN	70	59	5302	Queen	皇后	Queen (Deprecated)	皇后 (弃用)	924	-1	-1	168	168	16302	16302	1	1	0	1
+924	QUEEN_D	QUEEN_D	30	11	0			[Corp]--Queen (Deprecated)	尸体--皇后 (弃用)	-1			-1	-1	16302	16302	1	1	0	1
+925	HQUEEN	HQUEEN	70	59	5307	Sanyogita	姗悦姬妲	Sanyogita (Deprecated)	姗悦姬妲 (弃用)	924	-1	-1	170	170	16307	16307	1	1	0	1
+926	HPRIT	HPRIT	70	0	5308	Prithvi	布里陀毗	Prithvi (Deprecated)	布里陀毗 (弃用)	26	364	-1	304	304	16308	16308	1	1	0	1
+927	HCHAND	HCHAND	70	18	5310	Chand Bardai	昌德·菩达一	Chand Bardai (Deprecated)	昌德·菩达一 (弃用)	928	-1	-1	171	171	16742	16742	1	1	0	1
+928	MONKF_D	MONKF_D	30	11	0			[Corp]--Monk (Asia)	尸体--僧侣 (亚洲)	-1			-1	-1	16035	16035	1	1	0	1
+929	HSALAD	HSALAD	70	12	4561	Saladin	萨拉丁	Saladin (Deprecated)	萨拉丁 (弃用)	44	736	-1	175	175	16453	16453	1	1	0	1
+930	HKOSHRAU	HKOSHRAU	70	36	5311	Khosrau	霍斯劳	Khosrau (Deprecated)	霍斯劳 (弃用)	874	364	-1	172	172	16311	16311	1	1	0	1
+931	JARL	JARL	70	12	5702	Jarl	首领	Jarl (Deprecated)	贵族首领 (弃用)	1628	515	-1	188	188	16416	16416	1	1	0	1
+932	SAVARAN	SAVARAN	70	12	5703	Savar	萨瓦尔	Savar (Deprecated)	萨瓦尔 (弃用)	1401	-1	-1	181	181	16451	16451	1	1	0	1
+933	BARRELS	BARRELS	10	14	5305	Barrels	木桶	Barrels (Deprecated)	木桶 (弃用)	-1			-1		16757	16757	1	1	1	1
+934	ALFRED	ALFRED	70	12	5741	Alfred the Alpaca	羊驼阿弗瑞德	Alfred the Alpaca (Deprecated)	羊驼阿弗瑞德 (弃用)	935	-1	-1	177	177	16469	16469	1	1	0	1
+935	ALFRED_D	ALFRED_D	30	11	0			[Corp]--Alfred the Alpaca (Deprecated)	尸体--羊驼阿弗瑞德 (弃用)	-1			96	96	16000	16000	1	1	0	1
+936	WELEF	WELEF	70	10	5743	Elephant	野象	Elephant (Deprecated)	野象 (弃用)	937	-1	-1	179		16722	16722	1	1	1	1
+937	WELEF_D	WELEF_D	30	11	0			[Corp]--Elephant (Deprecated)	尸体--野象 (弃用)	-1			98		16017	16017	1	1	1	1
+938	DRAGS	DRAGS	70	22	5739	Dragon Ship	龙舟	Dragon Ship (Deprecated)	龙舟 (弃用)	-1	676	676	178	178	16739	16739	1	1	0	1
+939	FLAME1	FLAME1	20	14	5770	Flame 1	火焰 1	Flame 1 (Deprecated)	火焰 1 (弃用)	-1			-1	-1	16517	16517	1	1	0	1
+940	FLAME2	FLAME2	20	14	5771	Flame 2	火焰 2	Flame 2 (Deprecated)	火焰 2 (弃用)	-1			-1	-1	16517	16517	1	1	0	1
+941	FLAME3	FLAME3	20	14	5772	Flame 3	火焰 3	Flame 3 (Deprecated)	火焰 3 (弃用)	-1			-1	-1	16517	16517	1	1	0	1
+942	FLAME4	FLAME4	20	14	5773	Flame 4	火焰 4	Flame 4 (Deprecated)	火焰 4 (弃用)	-1			-1	-1	16517	16517	1	1	0	1
+943	HOSMAN	HOSMAN	70	36	5312	Osman	奥斯曼	Osman (Deprecated)	奥斯曼 (弃用)	1632	478	478	180	180	16412	16412	1	1	0	1
+944	ARTCT	ARTCT	70	1	5082	Relic Cart	圣物推车	Relic Cart (Deprecated)	圣物推车 (弃用)	285	-1	-1	295	295	16082	16082	1	1	0	1
+945	SHAHX_D	SHAHX_D	30	11	0			[Corp]--Shah (Deprecated)	尸体--沙阿王 (弃用)	-1			-1	-1	16302	16302	1	1	0	1
+946			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+947			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+948			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+949			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+950			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+951			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+952			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+953			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+954			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+955			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+956			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+957			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+958			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+959			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+960			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+961			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+962			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+963			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+964			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+965			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+966			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+967			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+968			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+969			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+970			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+971			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+972			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+973			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+974			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+975			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+976			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+977			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+978			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+979			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+980			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+981			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+982			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+983			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+984			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+985			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+986			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+987			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+988			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+989			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+990			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+991			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+992			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+993			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+994			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+995			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+996			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+997			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+998			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+999			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+1000			10	-1	0					-1			-1	-1	16000	16000	1	1	0	1
+1001	ORGAN	ORGAN	70	13	5129	Organ Gun	风琴炮	Organ Gun	风琴炮	1002	380	1119	190	190	16101	16101	0	0	0	0
+1002	ORGAN_D	ORGAN_D	30	11	0			[Corp]--Organ Gun	尸体--风琴炮	-1			-1	-1	16028	16028	1	1	0	0
+1003	EORGAN	EORGAN	70	13	5130	Elite Organ Gun	精锐风琴炮	Elite Organ Gun	精锐风琴炮	1002	380	1119	190	190	16101	16101	0	0	0	0
+1004	CARAV	CARAV	70	22	5132	Caravel	卡拉维尔战舰	Caravel	卡拉维尔战舰	-1	1057	-1	198	198	16106	16106	0	0	0	0
+1005	PORTU_D	PORTU_D	30	11	0			[Corp]--PORTU_D (No Graphic)	尸体--PORTU_D (无图像)	-1			-1	-1	16028	16028	1	1	0	0
+1006	CARAV	CARAV	70	22	5133	Elite Caravel	精锐卡拉维尔战舰	Elite Caravel	精锐卡拉维尔战舰	-1	1057	-1	198	198	16106	16106	0	0	0	0
+1007	CAMAR	CAMAR	70	36	5134	Camel Archer	骆驼射手	Camel Archer	骆驼射手	1008	477	-1	191	191	16101	16101	0	0	0	0
+1008	CAMAR_D	CAMAR_D	30	11	0			[Corp]--Camel Archer	尸体--骆驼射手	-1			-1	-1	16028	16028	1	1	0	0
+1009	ECAMAR	ECAMAR	70	36	5136	Elite Camel Archer	精锐骆驼射手	Elite Camel Archer	精锐骆驼射手	1008	477	-1	191	191	16101	16101	0	0	0	0
+1010	GENITO	GENITO	70	36	5137	Genitour	标枪骑兵	Genitour	标枪骑兵	1011	366	366	201	201	16417	16417	0	0	0	0
+1011	GENITO_D	GENITO_D	30	11	0			[Corp]--Genitour	尸体--标枪骑兵	-1			-1	-1	16028	16028	1	1	0	0
+1012	EGENITO	EGENITO	70	36	5139	Elite Genitour	精锐标枪骑兵	Elite Genitour	精锐标枪骑兵	1011	366	366	201	201	16417	16417	0	0	0	0
+1013	GBETO	GBETO	70	6	5140	Gbeto	飞刀女兵	Gbeto	飞刀女兵	1014	1055	-1	197	197	16101	16101	0	0	0	0
+1014	GBETO_D	GBETO_D	30	11	0			[Corp]--Gbeto	尸体--飞刀女兵	-1			-1	-1	16028	16028	1	1	0	0
+1015	EGBETO	EGBETO	70	6	5141	Elite Gbeto	精锐飞刀女兵	Elite Gbeto	精锐飞刀女兵	1014	1055	-1	197	197	16101	16101	0	0	0	0
+1016	SHOTEL	SHOTEL	70	6	5143	Shotel Warrior	弯刀勇士	Shotel Warrior	弯刀勇士	1017	-1	-1	195	195	16101	16101	0	0	0	0
+1017	SHOTEL_D	SHOTEL_D	30	11	0			[Corp]--Shotel Warrior	尸体--弯刀勇士	-1			-1	-1	16028	16028	1	1	0	0
+1018	ESHOTEL	ESHOTEL	70	6	5145	Elite Shotel Warrior	精锐弯刀勇士	Elite Shotel Warrior	精锐弯刀勇士	1017	-1	-1	195	195	16101	16101	0	0	0	0
+1019	ZEBRA	ZEBRA	70	9	5056	Zebra	斑马	Zebra	斑马	1020	-1	-1	192		16071	16071	0	0	1	0
+1020	ZEBRA_D	ZEBRA_D	30	11	0			[Corp]--Zebra	尸体--斑马	-1			3		16017	16017	1	1	1	0
+1021	FEITO	FEITO	80	3	5159	Feitoria	大商站	Feitoria	大商站	1446	-1	-1	53	53	16159	16159	0	0	0	0
+1022	MONKBT	MONKBT	70	53	0			Longboat (Boarding Boat)	龙头战舰 (登舰船)	-1	-1	-1	40	40	16106	16106	1	1	0	0
+1023	PRIEST	PRIEST	70	18	5120	Priest	祭司	Priest	祭司	1024	-1	-1	294	294	16120	16120	0	0	0	0
+1024	PRIEST_D	PRIEST_D	30	11	0			[Corp]--Priest	尸体--祭司	-1			-1	-1	16035	16035	1	1	0	0
+1025	RPRIEST	RPRIEST	70	43	5380	Monk with Relic	带着圣物的僧侣	Monk with Relic (Priest)	带着圣物的僧侣 (祭司)	1024	-1	-1	33	33	16380	16380	1	1	0	0
+1026	OSTRICH	OSTRICH	70	9	5057	Ostrich	鸵鸟	Ostrich	鸵鸟	1027	-1	-1	196		16071	16071	0	0	1	0
+1027	OSTRICH_D	OSTRICH_D	30	11	0			[Corp]--Ostrich	尸体--鸵鸟	-1			3		16017	16017	1	1	1	0
+1028	STORK	STORK	70	11	5058	Stork	鹳	Stork	鹳	-1	-1	-1	285		16058	16058	0	0	1	0
+1029	LION	LION	70	10	5059	Lion	狮子	Lion	狮子	1030	-1	-1	194		16059	16059	0	0	1	0
+1030	LION_D	LION_D	30	11	0			[Corp]--Lion	尸体--狮子	-1			7		16065	16065	1	1	1	0
+1031	CROCO	CROCO	70	10	5060	Crocodile	鳄鱼	Crocodile	鳄鱼	1032	-1	-1	193		16060	16060	0	0	1	0
+1032	CROCO_D	CROCO_D	30	11	0			[Corp]--Crocodile	尸体--鳄鱼	-1			7		16065	16065	1	1	1	0
+1033	GRSSP2	GRSSP2	10	14	21047	Grass Patch, Dry	草坪，干枯	Grass Patch, Dry (Large)	草坪，干枯 (大)	-1			-1		16385	16385	0	0	1	0
+1034	HMUSA	HMUSA	70	36	5776	Musa ibn Nusayr	穆萨·伊本·奴萨尔	Musa ibn Nusayr	穆萨·伊本·奴萨尔	1008	477	-1	204	204	16101	16101	0	0	0	0
+1035	HSUNDJATA	HSUNDJATA	70	12	5777	Sundjata	松迪亚塔	Sundjata	松迪亚塔	1395	-1	-1	206	206	16777	16777	0	0	0	0
+1036	HTARIQ	HTARIQ	70	36	5775	Tariq ibn Ziyad	塔里克·伊本·齐亚德	Tariq ibn Ziyad	塔里克·伊本·齐亚德	1616	366	-1	207	207	16415	16415	0	0	0	0
+1037	HRDCLARE	HRDCLARE	70	12	5778	Richard de Clare	理查·德·克莱尔伯爵	Richard de Clare	理查·德·克莱尔伯爵	547	-1	-1	210	210	16778	16778	0	0	0	0
+1038	HTRISTAN	HTRISTAN	70	12	5779	Tristan	崔士坦爵士	Tristan	崔士坦爵士	870	-1	-1	322	322	16779	16779	0	0	0	0
+1039	HPYODIT	HPYODIT	70	59	5781	Princess Yodit	游娣特公主	Princess Yodit	游娣特公主	1328	-1	-1	216	216	16781	16781	0	0	0	0
+1040	HHENRYII	HHENRYII	70	6	5780	Henry II	亨利二世	Henry II	亨利二世	500	-1	-1	325	325	16780	16780	0	0	0	0
+1041	MNTN5	MNTN5	10	14	5782	Mountain 5	山脉 5	Mountain 5	山脉 5	-1			-1		16772	16772	0	0	1	0
+1042	MNTN6	MNTN6	10	14	5783	Mountain 6	山脉 6	Mountain 6	山脉 6	-1			-1		16773	16773	0	0	1	0
+1043	MNTN7	MNTN7	10	14	5784	Mountain 7	山脉 7	Mountain 7	山脉 7	-1			-1		16774	16774	0	0	1	0
+1044	MNTN8	MNTN8	10	14	5785	Mountain 8	山脉 8	Mountain 8	山脉 8	-1			-1		16775	16775	0	0	1	0
+1045	MNTN9	MNTN9	10	14	5786	Snow Mountain 1	雪山 1	Snow Mountain 1	雪山 1	-1			-1		16776	16776	0	0	1	0
+1046	MNTN10	MNTN10	10	14	5787	Snow Mountain 2	雪山 2	Snow Mountain 2	雪山 2	-1			-1		16777	16777	0	0	1	0
+1047	MNTN11	MNTN11	10	14	5788	Snow Mountain 3	雪山 3	Snow Mountain 3	雪山 3	-1			-1		16778	16778	0	0	1	0
+1048	ROCKF1	ROCKF1	10	14	5789	Rock Formation 1	石堆 1	Rock Formation 1	石堆 1	-1			-1		16789	16789	0	0	1	0
+1049	ROCKF2	ROCKF2	10	14	5790	Rock Formation 2	石堆 2	Rock Formation 2	石堆 2	-1			-1		16790	16790	0	0	1	0
+1050	ROCKF3	ROCKF3	10	14	5791	Rock Formation 3	石堆 3	Rock Formation 3	石堆 3	-1			-1		16791	16791	0	0	1	0
+1051	FDRA	FDRA	10	15	5792	Tree (Dragon)	树木 (龙血树)	Tree (Dragon)	树木 (龙血树)	415			32		16792	16792	0	0	1	0
+1052	FBAO	FBAO	10	15	5793	Tree (Baobab)	树木 (猴面包树)	Tree (Baobab)	树木 (猴面包树)	1634			32		16793	16793	0	0	1	0
+1053	BUSH2	BUSH2	10	15	5794	Bush B	灌木丛 B	Bush B	灌木丛 B	415			32		16794	16794	0	0	1	0
+1054	BUSH3	BUSH3	10	15	5795	Bush C	灌木丛 C	Bush C	灌木丛 C	415			32		16795	16795	0	0	1	0
+1055	Projectile KNIFE	Projectile KNIFE	60	11	0			[Proj] (Throwing Knife)	抛射物 (飞刀)	-1	-1		-1	-1	16067	16067	1	1	0	0
+1056	FALCO	FALCO	70	11	5062	Falcon	隼鹰	Falcon	隼鹰	-1	-1	-1	5		16058	16058	0	0	1	0
+1057	Projectile CVB	Projectile CVB	60	11	0			[Proj] (Caravel)	抛射物 (卡拉维尔)	-1	-1		-1	-1	16524	16524	1	1	0	0
+1058	Projectile CVB (Fire)	Projectile CVB (Fire)	60	11	0			[Proj] (Caravel Chemical)	抛射物 (卡拉维尔 化学)	-1	-1		-1	-1	16525	16525	1	1	0	0
+1059	FORAGM	FORAGM	10	7	5796	Fruit Bush	果树丛	Fruit Bush	果树丛	-1			199		16401	16401	0	0	1	0
+1060	GOAT	GOAT	70	58	5061	Goat	山羊	Goat	山羊	1061	-1	-1	200	200	16061	16061	0	0	0	0
+1061	GOAT_D	GOAT_D	30	11	0			[Corp]--Goat	尸体--山羊	-1			200	200	16000	16000	1	1	0	0
+1062	FENCE	FENCE	80	27	5797	Fence	篱笆	Fence	篱笆	1065	-1	-1	30	30	16797	16797	0	0	0	0
+1063	FACA	FACA	10	15	5798	Tree (Acacia)	树木 (刺槐)	Tree (Acacia)	树木 (刺槐)	415			32		16798	16798	0	0	1	0
+1064	HSHOTEL	HSHOTEL	70	6	5799	Yekuno Amlak	耶库诺·阿姆拉克	Yekuno Amlak	耶库诺·阿姆拉克	1017	-1	-1	208	208	16799	16799	0	0	0	0
+1065	Fence (Rubble)	Fence (Rubble)	10	14	0			[Rubb]--Fence	废墟--篱笆	-1			-1	-1	16001	16001	1	1	0	0
+1066	HYODIT	HYODIT	70	6	5220	Yodit	游娣特	Yodit	游娣特	1625	1055	-1	216	216	16220	16220	0	0	0	0
+1067	HITZCOATL	HITZCOATL	70	6	5206	Itzcoatl	伊兹科阿图	Itzcoatl	伊兹科阿图	1221	-1	-1	317	317	16206	16206	0	0	0	0
+1068	HPASHA	HPASHA	70	44	5207	Mustafa Pasha	穆斯塔法帕夏	Mustafa Pasha	穆斯塔法帕夏	107	380	-1	318	318	16207	16207	0	0	0	0
+1069	HPACAL	HPACAL	70	0	5208	Pacal II	帕柯二世	Pacal II	帕柯二世	764	511	-1	314	314	16208	16208	0	0	0	0
+1070	HBABUR	HBABUR	70	12	5209	Babur	巴布尔	Babur	巴布尔	300	-1	-1	316	316	16209	16209	0	0	0	0
+1071	HABRAHA	HABRAHA	70	12	5210	Abraha Elephant	阿伯哈拉战象	Abraha Elephant	阿伯哈拉战象	136	-1	-1	310	310	16210	16210	0	0	0	0
+1072	HGUGLIE	HGUGLIE	70	0	5211	Guglielmo Embriaco	古列尔莫·安布里科	Guglielmo Embriaco	古列尔莫·安布里科	867	364	-1	312	312	16211	16211	0	0	0	0
+1073	HSUDING	HSUDING	70	0	5212	Su Dingfang	苏定方	Su Dingfang	苏定方	28	510	510	303	303	16212	16212	0	0	0	0
+1074	HPACHAC	HPACHAC	70	6	5213	Pachacuti	帕查库提	Pachacuti	帕查库提	1633	-1	-1	319	319	16213	16213	0	0	0	0
+1075	HHUAYNA	HHUAYNA	70	0	5214	Huayna Capac	瓦伊纳·卡帕克	Huayna Capac	瓦伊纳·卡帕克	186	187	-1	308	308	16214	16214	0	0	0	0
+1076	HMIKLOS	HMIKLOS	70	12	5215	Miklos Toldi	米克罗斯·陶笛	Miklos Toldi	米克罗斯·陶笛	870	-1	-1	322	322	16215	16215	0	0	0	0
+1077	HLJOHN	HLJOHN	70	6	5216	Little John	小约翰	Little John	小约翰	140	-1	-1	309	309	16216	16216	0	0	0	0
+1078	HZAWISZA	HZAWISZA	70	12	5217	Zawisza the Black	兹瓦斯艾黑骑士	Zawisza the Black	兹瓦斯艾黑骑士	480	-1	-1	315	315	16217	16217	0	0	0	0
+1079	GENITOPLACEHOLDER	GENITOPLACEHOLDER	70	36	0			Genitour (Ally)	标枪骑兵 (盟友)	1011	366	-1	201	201	16417	16417	1	1	0	0
+1080	HSUMANGURU	HSUMANGURU	70	12	5218	Sumanguru	苏曼古鲁	Sumanguru	苏曼古鲁	1621	-1	-1	205	205	16218	16218	0	0	0	0
+1081	STORAGE	STORAGE	80	3	5219	Storage	仓库	Storage	仓库	1484	-1	-1	59	59	16219	16219	0	0	0	0
+1082	AHUTA	AHUTA	80	3	21014	Hut A	棚屋 A	Hut A	棚屋 A	1455	-1	-1	75	75	16221	16221	0	0	0	0
+1083	AHUTB	AHUTB	80	3	21015	Hut B	棚屋 B	Hut B	棚屋 B	1456	-1	-1	75	75	16221	16221	0	0	0	0
+1084	AHUTC	AHUTC	80	3	21016	Hut C	棚屋 C	Hut C	棚屋 C	1457	-1	-1	74	74	16221	16221	0	0	0	0
+1085	AHUTD	AHUTD	80	3	21017	Hut D	棚屋 D	Hut D	棚屋 D	1458	-1	-1	75	75	16221	16221	0	0	0	0
+1086	AHUTE	AHUTE	80	3	21018	Hut E	棚屋 E	Hut E	棚屋 E	1459	-1	-1	75	75	16221	16221	0	0	0	0
+1087	AHUTF	AHUTF	80	3	21019	Hut F	棚屋 F	Hut F	棚屋 F	1460	-1	-1	75	75	16221	16221	0	0	0	0
+1088	AHUTG	AHUTG	80	3	21020	Hut G	棚屋 G	Hut G	棚屋 G	1461	-1	-1	75	75	16221	16221	0	0	0	0
+1089	GRANARY	GRANARY	10	14	5222	Granary	谷仓	Granary	谷仓	1499			60	60	16222	16222	0	0	0	0
+1090	BARRICADE	BARRICADE	80	3	21010	Barricade A	路障 A	Barricade A (－)	路障 A (－)	1472	-1	-1	54	54	16223	16223	0	0	0	0
+1091	SKELA	SKELA	10	14	5224	Animal Skeleton	动物骨骸	Animal Skeleton	动物骨骸	-1			-1		16224	16224	0	0	1	0
+1092	STELAEA	STELAEA	10	14	5225	Stelae A	石碑A	Stelae A	石碑 A	-1			-1	-1	16225	16225	0	0	0	0
+1093	STELAEB	STELAEB	10	14	5226	Stelae B	石碑B	Stelae B	石碑 B	-1			-1	-1	16226	16226	0	0	0	0
+1094	STELAEC	STELAEC	10	14	5227	Stelae C	石碑C	Stelae C	石碑 C	-1			-1	-1	16227	16227	0	0	0	0
+1095	GALLOW	GALLOW	10	14	5228	Gallow	绞架	Gallow	绞架	-1			-1		16228	16228	0	0	1	0
+1096	WNDR	WNDR	80	3	5229	Palace	宫殿	Palace	宫殿	148	-1	-1	37	37	16182	16182	1	1	0	0
+1097	TENTA	TENTA	80	3	21000	Tent A	帐篷 A	Tent A	帐篷 A	1462	-1	-1	78	78	16230	16230	0	0	0	0
+1098	TENTB	TENTB	80	3	21001	Tent B	帐篷 B	Tent B	帐篷 B	1463	-1	-1	83	83	16230	16230	0	0	0	0
+1099	TENTC	TENTC	80	3	21002	Tent C	帐篷 C	Tent C	帐篷 C	1464	-1	-1	83	83	16230	16230	0	0	0	0
+1100	TENTD	TENTD	80	3	21003	Tent D	帐篷 D	Tent D	帐篷 D	1465	-1	-1	83	83	16230	16230	0	0	0	0
+1101	TENTE	TENTE	80	3	21004	Tent E	帐篷 E	Tent E	帐篷 E	1466	-1	-1	83	83	16230	16230	0	0	0	0
+1102	SEAFORF	SEAFORF	80	52	5231	Fortified Tower	增强防御塔	Fortified Tower	增强防御塔	1444	505	505	45	45	16231	16231	0	0	0	0
+1103	SFRGAL	SFRGAL	70	22	5160	Fire Galley	火艨艟	Fire Galley	火艨艟	-1	676	676	203	203	16426	16426	0	0	0	0
+1104	SDGAL	SDGAL	70	22	5162	Demolition Raft	爆破筏	Demolition Raft	爆破筏	-1	-1	-1	202	202	16424	16424	0	0	0	0
+1105	SIEGTWR	SIEGTWR	70	13	5445	Siege Tower	攻城塔	Siege Tower	攻城塔	1107	-1	-1	212	212	16445	16445	0	0	0	0
+1106	HDAGNA	HDAGNA	70	36	5232	Dagnajan	达纳罕	Dagnajan	达纳罕	1108	364	-1	209	209	16232	16232	0	0	0	0
+1107	SIEGTWR_D	SIEGTWR_D	30	11	0			[Corp]--Siege Tower	尸体--攻城塔	-1			-1	-1	16728	16728	1	1	0	0
+1108	HDAGNA_D	HDAGNA_D	30	11	0			[Corp]--Dagnajan	尸体--达纳罕	-1			-1	-1	16728	16728	1	1	0	0
+1109	HGIDAJ	HGIDAJ	70	6	5233	Gidajan	极大汗	Gidajan	极大汗	1110	-1	-1	245	245	16101	16101	0	0	0	0
+1110	HGIDAJ_D	HGIDAJ_D	30	11	0			[Corp]--Gidajan	尸体--极大汗	-1			-1	-1	16028	16028	1	1	0	0
+1111	Projectile LBOL	Projectile LBOL	60	11	0			[Proj] (Striped Scorpion)	抛射物 (环节弩炮)	-1	-1		-1	-1	16313	16313	1	1	0	0
+1112	Projectile LBOL (Fire)	Projectile LBOL (Fire)	60	11	0			[Proj] (Striped Scorpion Chemical)	抛射物 (环节弩炮 化学)	-1	-1		-1	-1	16312	16312	1	1	0	0
+1113	Projectile Heavy Scorpion	Projectile Heavy Scorpion	60	11	0			[Proj] (Striped Scorpion)	抛射物 (环节弩炮)	-1	-1		-1	-1	16524	16524	1	1	0	0
+1114	Projectile Heavy Scorpion (Fire)	Projectile Heavy Scorpion (Fire)	60	11	0			[Proj] (Striped Scorpion Chemical)	抛射物 (环节弩炮 化学)	-1	-1		-1	-1	16525	16525	1	1	0	0
+1115	FACAHOLE	FACAHOLE	30	16	0			FACAHOLE (Invisible Stump)	FACAHOLE (隐形树桩)	-1			32		16798	16798	1	1	1	0
+1116	HEAGLE_D	HEAGLE_D	30	11	0			[Corp]--Eagle Warrior	尸体--鹰勇士	-1			-1	-1	16672	16672	1	1	0	0
+1117	EEAGLE_D	EEAGLE_D	30	11	0			[Corp]--Elite Eagle Warrior	尸体--精锐鹰勇士	-1			-1	-1	16672	16672	1	1	0	0
+1118	Inca llama annex	Inca llama annex	80	27	0			Inca Llama Bonus	印加羊驼奖励	888	-1	-1	40	40	16464	16464	1	1	0	0
+1119	Projectile Gunpowder (Secondary)	Projectile Gunpowder (Secondary)	60	11	0			[Proj] (Organ Gun Aux.)	抛射物 (风琴炮 副)	-1	-1		-1	-1	16315	16315	1	1	0	0
+1120	ELEBALI	ELEBALI	70	12	5146	Ballista Elephant	重弩战象	Ballista Elephant	重弩战象	1121	1167	1167	231	231	16101	16101	0	0	0	0
+1121	ELEBALI_D	ELEBALI_D	30	11	0			[Corp]--Ballista Elephant	尸体--重弩战象	-1			-1	-1	16728	16728	1	1	0	0
+1122	EELEBALI	EELEBALI	70	12	5147	Elite Ballista Elephant	精锐重弩战象	Elite Ballista Elephant	精锐重弩战象	1121	1167	1167	231	231	16101	16101	0	0	0	0
+1123	KARAM	KARAM	70	6	5148	Karambit Warrior	爪刀勇士	Karambit Warrior	爪刀勇士	1124	-1	-1	233	233	16101	16101	0	0	0	0
+1124	KARAM_D	KARAM_D	30	11	0			[Corp]--Karambit Warrior	尸体--爪刀勇士	-1			-1	-1	16028	16028	1	1	0	0
+1125	EKARAM	EKARAM	70	6	5150	Elite Karambit Warrior	精锐爪刀勇士	Elite Karambit Warrior	精锐爪刀勇士	1124	-1	-1	233	233	16101	16101	0	0	0	0
+1126	ARAMBAI	ARAMBAI	70	23	5151	Arambai	飞镖骑兵	Arambai	飞镖骑兵	1127	1169	-1	230	230	16101	16101	0	0	0	0
+1127	ARAMBAI_D	ARAMBAI_D	30	11	0			[Corp]--Arambai	尸体--飞镖骑兵	-1			-1	-1	16028	16028	1	1	0	0
+1128	EARAMBAI	EARAMBAI	70	23	5152	Elite Arambai	精锐飞镖骑兵	Elite Arambai	精锐飞镖骑兵	1127	1169	-1	230	230	16101	16101	0	0	0	0
+1129	RATAN	RATAN	70	0	5165	Rattan Archer	藤甲弓兵	Rattan Archer	藤甲弓兵	1130	511	-1	232	232	16101	16101	0	0	0	0
+1130	RATAN_D	RATAN_D	30	11	0			[Corp]--Rattan Archer	尸体--藤甲弓兵	-1			-1	-1	16684	16684	1	1	0	0
+1131	ERATAN	ERATAN	70	0	5166	Elite Rattan Archer	精锐藤甲弓兵	Elite Rattan Archer	精锐藤甲弓兵	1130	511	-1	232	232	16101	16101	0	0	0	0
+1132	BATELE	BATELE	70	12	5167	Battle Elephant	象兵	Battle Elephant	象兵	1133	-1	-1	228	228	16733	16733	0	0	0	0
+1133	BATELE_D	BATELE_D	30	11	0			[Corp]--Battle Elephant	尸体--象兵	-1			-1	-1	16037	16037	1	1	0	0
+1134	EBATELE	EBATELE	70	12	5168	Elite Battle Elephant	精锐象兵	Elite Battle Elephant	精锐象兵	1154	-1	-1	246	246	16733	16733	0	0	0	0
+1135	KOMODO	KOMODO	70	10	5163	Komodo Dragon	科莫多巨蜥	Komodo Dragon	科莫多巨蜥	1136	-1	-1	226		16163	16163	0	0	1	0
+1136	KOMODO_D	KOMODO_D	30	11	0			[Corp]--Komodo Dragon	尸体--科莫多巨蜥	-1			7		16065	16065	1	1	1	0
+1137	TIGER	TIGER	70	10	5170	Tiger	老虎	Tiger	老虎	1138	-1	-1	227		16170	16170	0	0	1	0
+1138	TIGER_D	TIGER_D	30	11	0			[Corp]--Tiger	尸体--老虎	-1			7		16065	16065	1	1	1	0
+1139	RHINO	RHINO	70	10	5172	Rhinoceros	犀牛	Rhinoceros	犀牛	1140	-1	-1	225		16172	16172	0	0	1	0
+1140	RHINO_D	RHINO_D	30	11	0			[Corp]--Rhinoceros	尸体--犀牛	-1			98		16017	16017	1	1	1	0
+1141	TURTLES	TURTLES	30	33	5173	Box Turtles	箱龟	Box Turtles	箱龟	-1			282		16173	16173	0	0	1	0
+1142	BUFFALO	BUFFALO	70	58	5175	Water Buffalo	水牛	Water Buffalo	水牛	1143	-1	-1	224	224	16175	16175	0	0	0	0
+1143	BUFFALO_D	BUFFALO_D	30	11	0			[Corp]--Water Buffalo	尸体--水牛	-1			200	200	16000	16000	1	1	0	0
+1144	FMANGRO	FMANGRO	10	15	5177	Tree (Mangrove)	树木 (红树林)	Tree (Mangrove)	树木 (红树林)	415			32		16177	16177	0	0	1	0
+1145	NINJA	NINJA	70	6	5016	Ninja	忍者	Ninja	忍者	1147	-1	-1	299	299	16110	16110	0	0	0	0
+1146	FRAIN	FRAIN	10	15	5179	Tree (Rainforest)	树木 (雨林)	Tree (Rainforest)	树木 (雨林)	415			32		16179	16179	0	0	1	0
+1147	NINJA_D	NINJA_D	30	11	0			[Corp]--Ninja	尸体--忍者	-1			-1	-1	16042	16042	1	1	0	0
+1148	ROCKB1	ROCKB1	10	14	5180	Rock (Beach)	石头 (沙滩)	Rock (Beach)	石头 (沙滩)	-1			-1		16180	16180	0	0	1	0
+1149	ROCKJ1	ROCKJ1	10	14	5181	Rock (Jungle)	岩石 (丛林)	Rock (Jungle)	岩石 (丛林)	-1			-1		16181	16181	0	0	1	0
+1150	FLAGG	FLAGG	20	30	5183	Flag G	旗帜 G	Flag G	旗帜 G	-1			-1	-1	16183	16183	0	0	0	0
+1151	FLAGH	FLAGH	20	30	5184	Flag H	旗帜 H	Flag H	旗帜 H	-1			-1	-1	16184	16184	0	0	0	0
+1152	FLAGI	FLAGI	20	30	5188	Flag I	旗帜 I	Flag I	旗帜 I	-1			-1	-1	16188	16188	0	0	0	0
+1153	FLAGJ	FLAGJ	20	30	5189	Flag J	旗帜 J	Flag J	旗帜 J	-1			-1	-1	16189	16189	0	0	0	0
+1154	EBATELE_D	EBATELE_D	30	11	0			[Corp]--Elite Battle Elephant	尸体--精锐象兵	-1			-1	-1	16037	16037	1	1	0	0
+1155	IHXBOW	IHXBOW	70	0	5190	Imperial Skirmisher	帝王掷矛手	Imperial Skirmisher	帝王掷矛手	1156	366	366	229	229	16087	16087	0	0	0	0
+1156	IHXBOW_D	IHXBOW_D	30	11	0			[Corp]--Imperial Skirmisher	尸体--帝王掷矛手	-1			-1	-1	16026	16026	1	1	0	0
+1157	HGADJAH	HGADJAH	70	6	5191	Gajah Mada	加扎·玛达	Gajah Mada	加扎·玛达	1190	-1	-1	220	220	16469	16469	0	0	0	0
+1158	HJAYANEGARA	HJAYANEGARA	70	59	5192	Jayanegara	贾亚纳加拉	Jayanegara	贾亚纳加拉	732	-1	-1	342	342	16301	16301	0	0	0	0
+1159	HRADEN	HRADEN	70	12	5193	Raden Wijaya	拉登甲亮	Raden Wijaya	拉登甲亮	139	-1	-1	222	222	16070	16070	0	0	0	0
+1160	HSUNDA	HSUNDA	70	6	5194	Sunda Royal Fighter	巽他皇家斗士	Sunda Royal Fighter	巽他皇家斗士	1161	-1	-1	234	234	16101	16101	0	0	0	0
+1161	HSUNDA_D	HSUNDA_D	30	11	0			[Corp]--Sunda Royal Fighter	尸体--巽他皇家斗士	-1			-1	-1	16028	16028	1	1	0	0
+1162	HSURYA	HSURYA	70	12	5195	Suryavarman I	苏耶跋摩一世	Suryavarman I	苏耶跋摩一世	1154	-1	-1	239	239	16459	16459	0	0	0	0
+1163	HUDAYA	HUDAYA	70	59	5196	Udayadityavarman I	乌达雅迭耶跋摩一世	Udayadityavarman I	乌达雅迭耶跋摩一世	732	-1	-1	241	241	16301	16301	0	0	0	0
+1164	HJAYA	HJAYA	70	6	5197	Jayaviravarman	阇耶毗罗跋摩	Jayaviravarman	阇耶毗罗跋摩	1124	-1	-1	221	221	16101	16101	0	0	0	0
+1165	HBAYIN	HBAYIN	70	12	5198	Bayinnaung	莽应龙	Bayinnaung	莽应龙	1637	-1	-1	219	219	16459	16459	0	0	0	0
+1166	UELEA	UELEA	70	36	5199	Tabinshwehti	莽瑞体	Tabinshwehti	莽瑞体	874	364	-1	223	223	16101	16101	0	0	0	0
+1167	Projectile Ballista Elephant	Projectile Ballista Elephant	60	11	0			[Proj] (Ballista Elephant)	抛射物 (重弩战象)	1614	-1		-1	-1	16313	16313	1	1	0	0
+1168	Projectile Ballista Elephant (Fire)	Projectile Ballista Elephant (Fire)	60	11	0			[Proj] (Ballista Elephant Chemical)	抛射物 (重弩战象 化学)	1614	-1		-1	-1	16312	16312	1	1	0	0
+1169	Projectile Arambai	Projectile Arambai	60	11	0			[Proj] (Darts)	抛射物 (飞镖)	-1	-1		-1	-1	16067	16067	1	1	0	0
+1170	Projectile Arambai (Fire)	Projectile Arambai (Fire)	60	11	0			[Proj] (Darts Chemical)	抛射物 (飞镖 化学)	-1	-1		-1	-1	16067	16067	1	1	0	0
+1171	BSTATUE1	BSTATUE1	10	14	5201	Buddha Statue A	佛像 A	Buddha Statue A	佛像 A	-1			-1		16756	16756	0	0	1	0
+1172	BSTATUE2	BSTATUE2	10	14	5234	Buddha Statue B	佛像 B	Buddha Statue B	佛像 B	-1			-1		16756	16756	0	0	1	0
+1173	BSTATUE3	BSTATUE3	10	14	5235	Buddha Statue C	佛像 C	Buddha Statue C	佛像 C	-1			-1		16756	16756	0	0	1	0
+1174	BSTATUE4	BSTATUE4	10	14	5236	Buddha Statue D	佛像 D	Buddha Statue D	佛像 D	-1			-1		16756	16756	0	0	1	0
+1175	GRSSP3	GRSSP3	10	14	5200	Fern Patch	羊齿植物丛	Fern Patch	羊齿植物丛	-1			-1		16385	16385	0	0	1	0
+1176	TROWUG	TROWUG	10	14	5237	Trowulan Gate	特鲁乌兰门	Trowulan Gate	特鲁乌兰门	-1			-1		16756	16756	0	0	1	0
+1177	VASES	VASES	10	14	5238	Vases	陶瓷花瓶	Vases	陶瓷花瓶	-1			-1		16385	16385	0	0	1	0
+1178	HLELOI	HLELOI	70	6	5239	Le Loi	黎利	Le Loi	黎利	1623	-1	-1	243	243	16299	16299	0	0	0	0
+1179	HLELAIDISGUISED	HLELAIDISGUISED	70	6	5240	Le Lai	黎来	Le Lai (Disguise)	黎来 (乔装)	568	-1	-1	242	242	16299	16299	1	1	0	0
+1180	HLELAI	HLELAI	70	12	5240	Le Lai	黎来	Le Lai	黎来	1224	-1	-1	242	242	16633	16633	0	0	0	0
+1181	HLETRIEN	HLETRIEN	70	6	5241	Le Trien	李篆	Le Trien	李篆	568	-1	-1	237	237	16299	16299	0	0	0	0
+1182	HLUUNHANCHU	HLUUNHANCHU	70	0	5242	Luu Nhan Chu	刘仁澍	Luu Nhan Chu	刘仁澍	687	507	-1	238	238	16568	16568	0	0	0	0
+1183	HBUIBI	HBUIBI	70	18	5243	Bui Bi	裴备	Bui Bi	裴备	1329	-1	-1	235	235	16742	16742	0	0	0	0
+1184	HDINHLE	HDINHLE	70	12	5244	Dinh Le	丁礼	Dinh Le	丁礼	1224	-1	-1	236	236	16633	16633	0	0	0	0
+1185	HTRANTRI	HTRANTRI	70	12	5245	Wang Tong	王通	Wang Tong	王通	1224	-1	-1	240	240	16218	16218	0	0	0	0
+1186	HENVOY	HENVOY	70	12	5246	Envoy	使者	Envoy	使者	1636	-1	-1	244	244	16777	16777	0	0	0	0
+1187	RFARM	RFARM	80	49	5247	Rice Farm	水稻田	Rice Farm	水稻田	1188	-1	-1	35	35	16149	16149	0	0	0	0
+1188	RFARM_D	RFARM_D	80	11	5248	Dead Rice Farm	枯萎的水稻田	Dead Rice Farm	枯萎的水稻田	-1	-1	-1	35	35	16248	16248	1	1	0	0
+1189	HARBOR	HARBOR	80	3	5249	Harbor	巨港	Harbor	巨港	-1	512	512	56	56	16144	16144	0	0	0	0
+1190	HGADJAH_D	HGADJAH_D	30	11	0			[Corp]--Gajah Mada	尸体--加扎·玛达	-1			-1	-1	16028	16028	1	1	0	0
+1191	STUPAA	STUPAA	10	14	5250	Stupa	浮屠佛塔	Stupa	浮屠佛塔	-1			-1		16756	16756	0	0	1	0
+1192	GTAC2	GTAC2	80	39	5185	Gate	城门	Gate (／) (Gate Post Invisible)	城门 (／) (旗柱 隐形)	1508	-1	-1	36	36	16185	16185	1	1	0	0
+1193	FARMDROP	FARMDROP	80	49	0			FARMDROP	FARMDROP	-1	-1	-1	35	35	16149	16149	1	1	0	0
+1194	FARMSTACK	FARMSTACK	80	49	0			FARMSTACK	FARMSTACK	-1	-1	-1	35	35	16149	16149	1	1	0	0
+1195	RFARMDROP	RFARMDROP	80	49	0			RFARMDROP	RFARMDROP	-1	-1	-1	35	35	16149	16149	1	1	0	0
+1196	ARMTENT1	ARMTENT1	80	3	21005	Army Tent A	军帐 A	Army Tent A	军帐 A	1467	-1	-1	76	76	16521	16521	0	0	0	0
+1197	ARMTENT2	ARMTENT2	80	3	21006	Army Tent B	军帐 B	Army Tent B	军帐 B	1468	-1	-1	76	76	16521	16521	0	0	0	0
+1198	ARMTENT3	ARMTENT3	80	3	21007	Army Tent C	军帐 C	Army Tent C	军帐 C	1469	-1	-1	77	77	16522	16522	0	0	0	0
+1199	ARMTENT4	ARMTENT4	80	3	21008	Army Tent D	军帐 D	Army Tent D	军帐 D	1470	-1	-1	77	77	16523	16523	0	0	0	0
+1200	ARMTENT5	ARMTENT5	80	3	21009	Army Tent E	军帐 E	Army Tent E	军帐 E	1471	-1	-1	77	77	16522	16522	0	0	0	0
+1201	PAGODA1	PAGODA1	10	14	5254	Pagoda A	宝塔 A	Pagoda A	宝塔 A	-1			-1		16756	16756	0	0	1	0
+1202	PAGODA2	PAGODA2	10	14	5481	Pagoda B	宝塔 B	Pagoda B	宝塔 B	-1			-1		16756	16756	0	0	1	0
+1203	PAGODA3	PAGODA3	10	14	5483	Pagoda C	宝塔 C	Pagoda C	宝塔 C	-1			-1		16756	16756	0	0	1	0
+1204	BGCA	BGCA	80	14	5255	Bridge C--Top	桥 C--顶部	Bridge C--Top	桥 C--顶部	144	-1	-1	-1	-1	16511	16511	0	0	0	0
+1205	BGCB	BGCB	80	14	5256	Bridge C--Middle	桥 C--中部	Bridge C--Middle	桥 C--中部	144	-1	-1	-1	-1	16512	16512	0	0	0	0
+1206	BGCC	BGCC	80	14	5257	Bridge C--Bottom	桥 C--底部	Bridge C--Bottom	桥 C--底部	144	-1	-1	-1	-1	16513	16513	0	0	0	0
+1207	BGDA	BGDA	80	14	5258	Bridge D--Top	桥 D--顶部	Bridge D--Top	桥 D--顶部	144	-1	-1	-1	-1	16514	16514	0	0	0	0
+1208	BGDB	BGDB	80	14	5260	Bridge D--Middle	桥 D--中部	Bridge D--Middle	桥 D--中部	144	-1	-1	-1	-1	16515	16515	0	0	0	0
+1209	BGDC	BGDC	80	14	5261	Bridge D--Bottom	桥 D--底部	Bridge D--Bottom	桥 D--底部	144	-1	-1	-1	-1	16516	16516	0	0	0	0
+1210	BGCD	BGCD	80	14	5278	Bridge C--Cracked	桥 C--裂开	Bridge C--Cracked	桥 C--破裂	144	-1	-1	-1	-1	16641	16641	0	0	0	0
+1211	BGCE	BGCE	80	14	5279	Bridge C--Broken Top	桥 C--顶部损坏	Bridge C--Broken Top	桥 C--破损的顶部	144	-1	-1	-1	-1	16642	16642	0	0	0	0
+1212	BGCF	BGCF	80	14	5280	Bridge C--Broken Bottom	桥 C--底部损坏	Bridge C--Broken Bottom	桥 C--破损的底部	144	-1	-1	-1	-1	16643	16643	0	0	0	0
+1213	BGDD	BGDD	80	14	5282	Bridge D--Cracked	桥 D--裂开	Bridge D--Cracked	桥 D--破裂	144	-1	-1	-1	-1	16644	16644	0	0	0	0
+1214	BGDE	BGDE	80	14	5283	Bridge D--Broken Top	桥 D--顶部损坏	Bridge D--Broken Top	桥 D--破损的顶部	144	-1	-1	-1	-1	16645	16645	0	0	0	0
+1215	BGDF	BGDF	80	14	5284	Bridge D--Broken Bottom	桥 D--底部损坏	Bridge D--Broken Bottom	桥 D--破损的底部	144	-1	-1	-1	-1	16646	16646	0	0	0	0
+1216	SASTUPA	SASTUPA	80	3	5263	Sanchi Stupa	桑奇佛塔	Sanchi Stupa	桑奇佛塔	1490	-1	-1	37	37	16578	16578	0	0	0	0
+1217	GULGOM	GULGOM	80	3	5264	Gol Gumbaz	古尔墓庙	Gol Gumbaz	古尔墓庙	1487	-1	-1	37	37	16578	16578	0	0	0	0
+1218	BARRICADE	BARRICADE	80	3	21011	Barricade B	路障 B	Barricade B (／)	路障 B (／)	1473	-1	-1	54	54	16223	16223	0	0	0	0
+1219	BARRICADE	BARRICADE	80	3	21012	Barricade C	路障 C	Barricade C (｜)	路障 C (｜)	1474	-1	-1	54	54	16223	16223	0	0	0	0
+1220	BARRICADE	BARRICADE	80	3	21013	Barricade D	路障 D	Barricade D (＼)	路障 D (＼)	1475	-1	-1	54	54	16223	16223	0	0	0	0
+1221	HITZCOATL_D	HITZCOATL_D	30	11	0			[Corp]--Itzcoatl	尸体--伊兹科阿图	-1			-1	-1	16668	16668	1	1	0	0
+1222	SHARKATZOR	SHARKATZOR	70	13	5285	Sharkatzor	骑鲨圣猫	Sharkatzor	骑鲨圣猫	-1	1595	-1	352	352	16458	16458	0	0	0	0
+1223	SHCOW	SHCOW	60	11	0			[Proj] (Cow)	抛射物 (奶牛)	-1	-1		-1	-1	16067	16067	1	1	0	0
+1224	HDINHLE_D	HDINHLE_D	30	11	0			[Corp]--Dinh Le	尸体--丁礼	-1			-1	-1	16472	16472	1	1	0	0
+1225	KONNIK	KONNIK	70	12	5288	Konnik	龙骑兵	Konnik	龙骑兵	1252	-1	-1	249	249	16101	16101	0	0	0	0
+1226	KONNIK_D	KONNIK_D	30	11	0			[Corp]--Konnik	尸体--龙骑兵	-1			-1	-1	16447	16447	1	1	0	0
+1227	EKONNIK	EKONNIK	70	12	5290	Elite Konnik	精锐龙骑兵	Elite Konnik	精锐龙骑兵	1253	-1	-1	249	249	16101	16101	0	0	0	0
+1228	KESHIK	KESHIK	70	12	5313	Keshik	怯薛	Keshik	怯薛	1229	-1	-1	251	251	16101	16101	0	0	0	0
+1229	KESHIK_D	KESHIK_D	30	11	0			[Corp]--Keshik	尸体--怯薛	-1			-1	-1	16447	16447	1	1	0	0
+1230	EKESHIK	EKESHIK	70	12	5314	Elite Keshik	精锐怯薛	Elite Keshik	精锐怯薛	1229	-1	-1	251	251	16101	16101	0	0	0	0
+1231	KIPCHAK	KIPCHAK	70	36	5315	Kipchak	钦察骑射手	Kipchak	钦察骑射手	1232	477	510	252	252	16108	16108	0	0	0	0
+1232	KIPCHAK_D	KIPCHAK_D	30	11	0			[Corp]--Kipchak	尸体--钦察骑射手	-1			-1	-1	16447	16447	1	1	0	0
+1233	EKIPCHAK	EKIPCHAK	70	36	5327	Elite Kipchak	精锐钦察骑射手	Elite Kipchak	精锐钦察骑射手	1232	477	510	252	252	16108	16108	0	0	0	0
+1234	LEITIS	LEITIS	70	12	5328	Leitis	皇家骑士	Leitis	皇家骑士	1235	-1	-1	253	253	16101	16101	0	0	0	0
+1235	LEITIS_D	LEITIS_D	30	11	0			[Corp]--Leitis	尸体--皇家骑士	-1			-1	-1	16447	16447	1	1	0	0
+1236	ELEITIS	ELEITIS	70	12	5329	Elite Leitis	精锐皇家骑士	Elite Leitis	精锐皇家骑士	1235	-1	-1	253	253	16101	16101	0	0	0	0
+1237	DROME	DROME	70	61	5333	Bactrian Camel	双峰骆驼	Bactrian Camel	双峰骆驼	1238	-1	-1	266	266	16714	16714	0	0	0	0
+1238	DROME_D	DROME_D	30	11	0			[Corp]--Bactrian Camel	尸体--双峰骆驼	-1			-1	-1	16715	16715	1	1	0	0
+1239	IBEX	IBEX	70	9	5340	Ibex	羱羊	Ibex	羱羊	1240	-1	-1	267		16071	16071	0	0	1	0
+1240	IBEX_D	IBEX_D	30	11	0			[Corp]--Ibex	尸体--羱羊	-1			3		16017	16017	1	1	1	0
+1241	SLEOPA	SLEOPA	70	10	5341	Snow Leopard	雪豹	Snow Leopard	雪豹	1242	-1	-1	268		16060	16060	0	0	1	0
+1242	SLEOPA_D	SLEOPA_D	30	11	0			[Corp]--Snow Leopard	尸体--雪豹	-1			7		16065	16065	1	1	1	0
+1243	GOOSE	GOOSE	70	58	5345	Goose	鹅	Goose	鹅	1244	-1	-1	265	265	16061	16061	0	0	0	0
+1244	GOOSE_D	GOOSE_D	30	11	0			[Corp]--Goose	尸体--鹅	-1			200	200	16000	16000	1	1	0	0
+1245	PIG	PIG	70	58	5346	Pig	猪	Pig	猪	1246	-1	-1	269	269	16061	16061	0	0	0	0
+1246	PIG_D	PIG_D	30	11	0			[Corp]--Pig	尸体--猪	-1			200	200	16000	16000	1	1	0	0
+1247	HORSW	HORSW	70	9	5334	Wild Bactrian Camel	野双峰骆驼	Wild Bactrian Camel	野双峰骆驼	1238	-1	-1	266		16735	16735	0	0	1	0
+1248	FAUTUM	FAUTUM	10	15	5371	Tree (Oak Autumn)	树木 (秋季橡树)	Tree (Oak Autumn)	树木 (秋季橡树)	415			32		16277	16277	0	0	1	0
+1249	FAUTUMS	FAUTUMS	10	15	5372	Tree (Oak Autumn Snow)	树木 (雪中的秋季橡树)	Tree (Oak Autumn Snow)	树木 (雪中的秋季橡树)	415			32		16694	16694	0	0	1	0
+1250	FDEAD	FDEAD	10	15	5373	Tree (Dead)	树木 (枯树)	Tree (Dead)	树木 (枯树)	415			32		16694	16694	0	0	1	0
+1251	KREPOST	KREPOST	80	3	5349	Krepost	营垒	Krepost	营垒	1479	746	746	55	55	16349	16349	0	0	0	0
+1252	KONNIK_INF	KONNIK_INF	70	6	21057	Konnik (Dismounted)	保加利亚骑兵 (下马)	Konnik (Dismounted)	保加利亚骑兵 (下马)	1257	-1	-1	250	250	16411	16411	0	0	0	0
+1253	EKONNIK_INF	EKONNIK_INF	70	6	21058	Elite Konnik (Dismounted)	精锐保加利亚骑兵 (下马)	Elite Konnik (Dismounted)	精锐保加利亚骑兵 (下马)	1257	-1	-1	250	250	16411	16411	0	0	0	0
+1254	KONNIK	KONNIK	70	12	5288	Konnik	龙骑兵	Konnik	龙骑兵	1252	-1	-1	249	249	16101	16101	1	1	0	0
+1255	EKONNIK	EKONNIK	70	12	5290	Elite Konnik	精锐龙骑兵	Elite Konnik	精锐龙骑兵	1253	-1	-1	249	249	16101	16101	1	1	0	0
+1256	EKONNIK_D	EKONNIK_D	30	11	0			[Corp]--Elite Konnik (Unused)	尸体--精锐保加利亚骑兵 (未用)	-1			-1	-1	16447	16447	1	1	0	0
+1257	KONNIK_INF_D	KONNIK_INF_D	30	11	0			[Corp]--Konnik (Dismounted)	尸体--保加利亚骑兵 (下马)	-1			-1	-1	16447	16447	1	1	0	0
+1258	BTRAM	BTRAM	70	13	5094	Battering Ram	轻型冲车	Battering Ram	轻型冲车	23	-1	-1	74	74	16094	16094	0	0	0	0
+1259	CUMANPLACEHOLDER	CUMANPLACEHOLDER	70	36	0			Elite Kipchak (Hire) (True)	精锐钦察骑射手 (雇佣) (真)	1232	477	-1	114	114	16730	16730	1	1	0	0
+1260	MKIPCHAK	MKIPCHAK	70	36	5327	Elite Kipchak	精锐钦察骑射手	Elite Kipchak (Hire) (Surface)	精锐钦察骑射手 (雇佣) (皮)	1232	477	510	252	252	16730	16730	1	1	0	0
+1261	CUMANDISABLED	CUMANDISABLED	70	36	0			Elite Kipchak (After disabled)	精锐钦察骑射手 (禁用后)	1232	477	-1	114	114	16108	16108	0	0	0	0
+1262	EKESHIK	EKESHIK	70	12	5374	Tokhtamysh Khan	脱脱迷失汗	Tokhtamysh Khan	脱脱迷失汗	1229	-1	-1	152	152	16101	16101	0	0	0	0
+1263	FCAMEL	FCAMEL	70	35	5375	Flaming Camel	火焰骆驼	Flaming Camel	火焰骆驼	-1	-1	-1	270	270	16734	16734	0	0	0	0
+1264	SHRINE	SHRINE	80	3	5422	Shrine	祭坛	Shrine	祭坛	1483	-1	-1	12	12	16138	16138	0	0	0	0
+1265	HIVAYLO	HIVAYLO	70	12	5377	Ivaylo	伊瓦依洛	Ivaylo	伊瓦依洛	1290	-1	-1	257	257	16101	16101	0	0	0	0
+1266	HTSARKON	HTSARKON	70	12	5378	Tsar Konstantin	康斯坦丁沙皇	Tsar Konstantin	康斯坦丁沙皇	1286	-1	-1	254	254	16101	16101	0	0	0	0
+1267	HKOTYAN	HKOTYAN	70	36	5379	Kotyan Khan	可泰安汗	Kotyan Khan	可泰安汗	1287	478	-1	259	259	16580	16580	0	0	0	0
+1268	HCUMANCHIEF	HCUMANCHIEF	70	12	5390	Cuman Chief	库曼首领	Cuman Chief	库曼首领	1288	-1	-1	255	255	16533	16533	0	0	0	0
+1269	HGKHAN	HGKHAN	70	36	5391	Girgen Khan	吉艮汗	Girgen Khan	吉艮汗	1289	477	-1	256	256	16085	16085	0	0	0	0
+1270	CCARTDIS	CCARTDIS	20	30	5392	Dismantled Cart	已拆卸的推车	Dismantled Cart	已拆卸的推车	-1			271	271	16189	16189	0	0	0	0
+1271	OXCART	OXCART	70	59	5395	Ox Cart	牛推车	Ox Cart	牛推车	1272	-1	-1	263	263	16100	16100	0	0	0	0
+1272	OXCART_D	OXCART_D	30	11	0			[Corp]--Ox Cart	尸体--牛推车	-1			-1	-1	16046	16046	1	1	0	0
+1273	OXWAGON	OXWAGON	70	59	5394	Ox Wagon	牛战车	Ox Wagon	牛战车	1274	-1	-1	264	264	16100	16100	0	0	0	0
+1274	OXWAGON_D	OXWAGON_D	30	11	0			[Corp]--Ox Wagon	尸体--牛战车	-1			-1	-1	16046	16046	1	1	0	0
+1275	HKHAN	HKHAN	70	36	5404	Khan	可汗	Khan	可汗	1277	477	-1	258	258	16458	16458	0	0	0	0
+1276	HURUSK	HURUSK	70	36	5376	Urus Khan	兀鲁思汗	Urus Khan	兀鲁思汗	1232	477	-1	262	262	16108	16108	0	0	0	0
+1277	HKHAN_D	HKHAN_D	30	11	0			[Corp]--Khan	尸体--可汗	-1			-1	-1	16447	16447	1	1	0	0
+1278	HVYTAU_D	HVYTAU_D	30	11	0			[Corp]--Vytautas the Great	尸体--维陶塔斯大帝	-1			-1	-1	16447	16447	1	1	0	0
+1279	STATUE	STATUE	10	14	5403	Statue (Civilization)	雕像 (文明)	Statue (Civilization)	雕像 (文明)	-1			-1	-1	16403	16403	0	0	0	0
+1280	Statue B	Statue B	10	14	0			Statue B	雕像 B	-1			-1		16717	16717	1	1	1	0
+1281	HVYTAU	HVYTAU	70	12	5405	Vytautas the Great	维陶塔斯大帝	Vytautas the Great	维陶塔斯大帝	1278	-1	-1	260	260	16405	16405	0	0	0	0
+1282	FLAGK	FLAGK	20	30	5428	Flag K	旗帜 K	Flag K	旗帜 K	-1			-1	-1	16183	16183	0	0	0	0
+1283	FLAGL	FLAGL	20	30	5430	Flag L	旗帜 L	Flag L	旗帜 L	-1			-1	-1	16183	16183	0	0	0	0
+1284	FLAGM	FLAGM	20	30	5431	Flag M	旗帜 M	Flag M	旗帜 M	-1			-1	-1	16183	16183	0	0	0	0
+1285	FEFLAG	FEFLAG	20	30	5432	FE Flag	FE 旗帜	FE Flag	FE 旗帜	-1			-1	-1	16183	16183	0	0	0	0
+1286	HTSARKON_D	HTSARKON_D	30	11	0			[Corp]--Tsar Konstantin	尸体--康斯坦丁沙皇	-1			-1	-1	16447	16447	1	1	0	0
+1287	HKOTYAN_D	HKOTYAN_D	30	11	0			[Corp]--Kotyan Khan	尸体--可泰安汗	-1			-1	-1	16447	16447	1	1	0	0
+1288	HCUMANCHIEF_D	HCUMANCHIEF_D	30	11	0			[Corp]--Cuman Chief	尸体--库曼首领	-1			-1	-1	16447	16447	1	1	0	0
+1289	HGKHAN_D	HGKHAN_D	30	11	0			[Corp]--Girgen Khan	尸体--吉艮汗	-1			-1	-1	16447	16447	1	1	0	0
+1290	HIVAYLO_INF	HIVAYLO_INF	70	6	5377	Ivaylo	伊瓦依洛	Ivaylo (Dismounted)	伊瓦依洛 (下马)	1630	-1	-1	257	257	16101	16101	0	0	0	0
+1291	Invisible object that keeps player alive	Invisible object that keeps player alive	70	38	5441	Invisible Object	不可见的物体	Invisible Object (Living unit)	不可见的物体 (隐形续命单位)	-1	-1	-1	-1	-1	16000	16000	0	0	0	0
+1292	QUEEN	QUEEN	70	59	5302	Queen	皇后	Queen	皇后	1328	-1	-1	168	168	16302	16302	0	0	0	0
+1293	HQUEEN	HQUEEN	70	59	5307	Sanyogita	姗悦姬妲	Sanyogita	姗悦姬妲	1328	-1	-1	170	170	16307	16307	0	0	0	0
+1294	HPRIT	HPRIT	70	0	5308	Prithvi	布里陀毗	Prithvi	布里陀毗	26	364	-1	304	304	16308	16308	0	0	0	0
+1295	HCHAND	HCHAND	70	18	5310	Chand Bardai	昌德·菩达一	Chand Bardai	昌德·菩达一	1329	-1	-1	171	171	16742	16742	0	0	0	0
+1296	HSALAD	HSALAD	70	12	4561	Saladin	萨拉丁	Saladin	萨拉丁	44	736	-1	175	175	16453	16453	0	0	0	0
+1297	HKOSHRAU	HKOSHRAU	70	36	5311	Khosrau	霍斯劳	Khosrau	霍斯劳	874	364	-1	172	172	16311	16311	0	0	0	0
+1298	JARL	JARL	70	12	5702	Jarl	首领	Jarl	首领	1628	515	-1	188	188	16416	16416	0	0	0	0
+1299	SAVARAN	SAVARAN	70	12	5703	Savar	萨瓦尔	Savar	萨瓦尔	1401	-1	-1	181	181	16451	16451	0	0	0	0
+1300	ALFRED	ALFRED	70	12	5741	Alfred the Alpaca	羊驼阿弗瑞德	Alfred the Alpaca	羊驼阿弗瑞德	1331	-1	-1	177	177	16469	16469	0	0	0	0
+1301	WELEF	WELEF	70	10	5743	Elephant	野象	Elephant	野象	1332	-1	-1	179		16722	16722	0	0	1	0
+1302	DRAGS	DRAGS	70	22	5739	Dragon Ship	龙舟	Dragon Ship	龙舟	-1	676	676	178	178	16739	16739	0	0	0	0
+1303	HOSMAN	HOSMAN	70	36	5312	Osman	奥斯曼	Osman	奥斯曼	1632	478	478	180	180	16412	16412	0	0	0	0
+1304	ARTCT	ARTCT	70	1	5082	Relic Cart	圣物推车	Relic Cart	圣物推车	285	-1	-1	295	295	16082	16082	0	0	0	0
+1305	VULTURE	VULTURE	70	11	5715	Vulture	秃鹫	Vulture	秃鹫	-1	-1	-1	286		16716	16716	0	0	1	0
+1306	RAIN	RAIN	20	14	5518	Rain	雨	Rain	雨	-1			-1		16501	16501	1	1	1	0
+1307	FLAGF	FLAGF	20	30	5517	Flag F	旗帜 F	Flag F	旗帜 F	-1			-1	-1	16517	16517	0	0	0	0
+1308	SMOKE	SMOKE	20	14	5519	Smoke	烟	Smoke (Blacksmith)	烟 (铁匠铺)	-1			-1	-1	16517	16517	0	0	0	0
+1309	BGAA	BGAA	80	14	5488	Wooden Bridge A--Top	木桥 A--上	Wooden Bridge A--Top	木桥 A--顶部	144	-1	-1	-1	-1	16511	16511	0	0	0	0
+1310	BGAB	BGAB	80	14	5489	Wooden Bridge A--Middle	木桥 A--中	Wooden Bridge A--Middle	木桥 A--中部	144	-1	-1	-1	-1	16512	16512	0	0	0	0
+1311	BGAC	BGAC	80	14	5490	Wooden Bridge A--Bottom	木桥 A--下	Wooden Bridge A--Bottom	木桥 A--底部	144	-1	-1	-1	-1	16513	16513	0	0	0	0
+1312	BGBA	BGBA	80	14	5491	Wooden Bridge B--Top	木桥 B--上	Wooden Bridge B--Top	木桥 B--顶部	144	-1	-1	-1	-1	16514	16514	0	0	0	0
+1313	BGBB	BGBB	80	14	5494	Wooden Bridge B--Middle	木桥 B--中	Wooden Bridge B--Middle	木桥 B--中部	144	-1	-1	-1	-1	16515	16515	0	0	0	0
+1314	BGBC	BGBC	80	14	5497	Wooden Bridge B--Bottom	木桥 B--下	Wooden Bridge B--Bottom	木桥 B--底部	144	-1	-1	-1	-1	16516	16516	0	0	0	0
+1315	IMPALED	IMPALED	10	14	5500	Impaled Corpse	悬钉的尸体	Impaled Corpse	悬钉的尸体	-1			-1	-1	16721	16000	0	0	0	0
+1316	BGAA	BGAA	80	14	0			Wooden Bridge A--Top (Repeat)	木桥 A--顶部 (重复)	144	-1	-1	-1	-1	16511	16511	1	1	0	0
+1317	BGAB	BGAB	80	14	0			Wooden Bridge A--Middle (Repeat)	木桥 A--中部 (重复)	144	-1	-1	-1	-1	16512	16512	1	1	0	0
+1318	BGAC	BGAC	80	14	0			Wooden Bridge A--Bottom (Repeat)	木桥 A--底部 (重复)	144	-1	-1	-1	-1	16513	16513	1	1	0	0
+1319	QUARRY	QUARRY	10	14	5709	Quarry	采石场	Quarry	采石场	-1			-1	-1	16717	16717	0	1	1	0
+1320	LUMBER	LUMBER	10	14	5706	Lumber	木料	Lumber	木料	-1			-1	-1	16717	16717	0	1	1	0
+1321	GOODS	GOODS	10	14	5705	Goods	货物	Goods	货物	-1			-1	-1	16717	16717	0	1	1	0
+1322	Statue Left	Statue Left	10	14	5014	Statue (Column)	雕像 (柱)	Statue (Column)	雕像 (柱)	-1			-1		16717	16717	0	0	1	0
+1323	ROCKX2	ROCKX2	10	14	5527	Rock 2	岩石2	Rock 2	岩石2	-1			-1		16520	16520	0	0	1	0
+1324	AAGUAR_D	AAGUAR_D	30	11	0			[Corp]--Amazon Warrior	尸体--亚马逊勇士	-1			-1	-1	16668	16668	1	1	0	0
+1325	AARCH_D	AARCH_D	30	11	0			[Corp]--Amazon Archer	尸体--亚马逊步弓手	-1			-1	-1	16668	16668	1	1	0	0
+1326	MONKM_D	MONKM_D	30	11	0			[Corp]--Monk (Arab)	尸体--僧侣 (阿拉伯)	-1			-1	-1	16035	16035	1	1	0	0
+1327	RMONKM	RMONKM	70	43	5380	Monk with Relic	带着圣物的僧侣	Monk with Relic	带着圣物的僧侣	134	-1	-1	33	33	16380	16380	1	1	0	0
+1328	QUEEN_D	QUEEN_D	30	11	0			[Corp]--Queen	尸体--皇后	-1			-1	-1	16302	16302	1	1	0	0
+1329	MONKF_D	MONKF_D	30	11	0			[Corp]--Monk (Asia)	尸体--僧侣 (亚洲)	-1			-1	-1	16035	16035	1	1	0	0
+1330	BARRELS	BARRELS	10	14	5305	Barrels	木桶	Barrels	木桶	-1			-1		16757	16757	0	0	1	0
+1331	ALFRED_D	ALFRED_D	30	11	0			[Corp]--Alfred the Alpaca	尸体--羊驼阿弗瑞德	-1			96	96	16000	16000	1	1	0	0
+1332	WELEF_D	WELEF_D	30	11	0			[Corp]--Elephant	尸体--野象	-1			98		16017	16017	1	1	1	0
+1333	FLAME1	FLAME1	20	14	5770	Flame 1	火焰 1	Flame 1	火焰 1	-1			-1	-1	16517	16517	0	1	1	0
+1334	FLAME2	FLAME2	20	14	5771	Flame 2	火焰 2	Flame 2	火焰 2	-1			-1	-1	16517	16517	0	1	1	0
+1335	FLAME3	FLAME3	20	14	5772	Flame 3	火焰 3	Flame 3	火焰 3	-1			-1	-1	16517	16517	0	1	1	0
+1336	FLAME4	FLAME4	20	14	5773	Flame 4	火焰 4	Flame 4	火焰 4	-1			-1	-1	16517	16517	0	1	1	0
+1337	SHAHX_D	SHAHX_D	30	11	0			[Corp]--Shah	尸体--沙阿王	-1			-1	-1	16302	16302	1	1	0	0
+1338	CARTF	CARTF	70	59	5466	Cart	推车	Cart	推车	205	-1	-1	34	34	16100	16100	0	0	0	0
+1339	CLF01	CLF01	10	34	0			Cliff 1 (3 x 3) (Repeat)	悬崖1 (大方) (重复)	-1			-1		16249	16249	1	1	1	0
+1340	CLF02	CLF02	10	34	0			Cliff 2 (＼) (Repeat)	悬崖2 (＼) (重复)	-1			-1		16249	16249	1	1	1	0
+1341	CLF03	CLF03	10	34	0			Cliff 3 (／) (Repeat)	悬崖3 (／) (重复)	-1			-1		16249	16249	1	1	1	0
+1342	CLF04	CLF04	10	34	0			Cliff 4 (＼＼) (Repeat)	悬崖4 (＼＼) (重复)	-1			-1		16249	16249	1	1	1	0
+1343	Statue Left	Statue Left	10	14	5717	Statue (Left)	雕像 (面朝左)	Statue (Left)	雕像 (面朝左)	-1			-1		16717	16717	0	0	1	0
+1344	CLF06	CLF06	10	34	0			Cliff 6 (／／) (Repeat)	悬崖6 (／／) (重复)	-1			-1		16249	16249	1	1	1	0
+1345	Statue Right	Statue Right	10	14	5486	Statue (Right)	雕像 (面朝右)	Statue (Right)	雕像 (面朝右)	-1			-1		16717	16717	0	0	1	0
+1346	CLF08	CLF08	10	34	0			Cliff 8 (1.5 x 1.5) (Repeat)	悬崖8 (小方) (重复)	-1			-1		16249	16249	1	1	1	0
+1347	CYPRESS	CYPRESS	10	15	5435	Tree (Cypress)	树木 (柏树)	Tree (Cypress)	树木 (柏树)	415			32		16399	16399	0	0	1	0
+1348	ITPINE	ITPINE	10	15	5437	Tree (Italian Pine)	树木 (意大利松)	Tree (Italian Pine)	树木 (意大利松)	415			32		16399	16399	0	0	1	0
+1349	OLIVE	OLIVE	10	15	5438	Tree (Olive)	树木 (橄榄树)	Tree (Olive)	树木 (橄榄树)	415			32		16399	16399	0	0	1	0
+1350	FBAM	FBAM	10	15	5664	Tree (Reeds)	树木 (芦苇)	Tree (Reeds)	树木 (芦苇)	737			32		16396	16396	0	0	1	0
+1351	PLANT JUNGLE	PLANT JUNGLE	10	14	5440	Plant (Jungle)	植物 (丛林)	Plant (Jungle)	植物 (丛林)	-1			-1		16718	16718	0	0	1	0
+1352	PLANT UNDERBRUSH JUNGLE	PLANT UNDERBRUSH JUNGLE	10	14	21033	Plant (Underbrush Tropical)	植物 (热带矮树丛)	Plant (Underbrush Tropical)	植物 (热带矮树丛)	-1			-1		16718	16718	0	0	1	0
+1353	PLANT UNDERBRUSH	PLANT UNDERBRUSH	10	14	21034	Plant (Underbrush)	植物 (矮树丛)	Plant (Underbrush)	植物 (矮树丛)	-1			-1		16718	16718	0	0	1	0
+1354	PLANT RAINFOREST	PLANT RAINFOREST	10	14	21035	Plant (Rainforest)	植物 (雨林)	Plant (Rainforest)	植物 (雨林)	-1			-1		16718	16718	0	0	1	0
+1355	PLANT UNDERBRUSH RAINFOREST	PLANT UNDERBRUSH RAINFOREST	10	14	21036	Plant (Underbrush Rainforest)	植物 (雨林矮树丛)	Plant (Underbrush Rainforest)	植物 (雨林矮树丛)	-1			-1		16718	16718	1	1	1	0
+1356	HORSEHVY	HORSEHVY	70	61	21053	Horse B	马 B	Horse B	马 B	1357	-1	-1	112	112	16714	16714	0	0	0	0
+1357	HORSEHVY_D	HORSEHVY_D	30	11	0			[Corp]--Horse B	尸体--马 B	-1			3	3	16715	16715	1	1	0	0
+1358	Grass Green	Grass Green	10	14	21044	Grass, Green	草地，绿	Grass, Green (Small)	草地，绿 (小)	-1			-1		16718	16718	0	0	1	0
+1359	Grass Dry	Grass Dry	10	14	21045	Grass, Dry	草地，干枯	Grass, Dry (Small)	草地，干枯 (小)	-1			-1		16718	16718	0	0	1	0
+1360	Plan Bush Green	Plan Bush Green	10	14	21037	Plant (Bush, Green)	植物 (灌木丛，绿)	Plant (Bush, Green)	植物 (灌木丛，绿)	-1			-1		16718	16718	0	0	1	0
+1361	Plan Bush Dry	Plan Bush Dry	10	14	21038	Plant (Bush, Dry)	植物 (灌木丛，干枯)	Plant (Bush, Dry)	植物 (灌木丛，干枯)	-1			-1		16718	16718	1	1	1	0
+1362	Plan Shrub Green	Plan Shrub Green	10	14	21039	Plant (Shrub, Green)	植物 (灌木，绿)	Plant (Shrub, Green)	植物 (灌木，绿)	-1			-1		16718	16718	0	0	1	0
+1363	Plant Shrub Dry	Plant Shrub Dry	10	14	21040	Plant (Shrub, Dry)	植物 (灌木，干枯)	Plant (Shrub, Dry)	植物 (灌木，干枯)	-1			-1		16718	16718	1	1	1	0
+1364	Plan Weed Green	Plan Weed Green	10	14	21041	Plant (Weeds)	植物 (野草)	Plant (Weeds)	植物 (野草)	-1			-1		16718	16718	0	0	1	0
+1365	Plant Dead	Plant Dead	10	14	21042	Plant (Dead)	植物 (枯死)	Plant (Dead)	植物 (枯死)	-1			-1		16718	16718	0	0	1	0
+1366	Plant (Flower)	Plant (Flower)	10	14	21043	Plant (Flowers)	植物 (鲜花)	Plant (Flowers)	植物 (鲜花)	-1			-1		16718	16718	0	0	1	0
+1367	WNDR	WNDR	80	3	5434	Sankore Madrasah	桑科雷清真学堂	Sankore Madrasah	桑科雷清真学堂	1491	-1	-1	37	37	16182	16182	0	0	0	0
+1368	WNDR	WNDR	80	3	5007	Tower of London	伦敦塔	Tower of London	伦敦塔	1492	-1	-1	37	37	16182	16182	0	0	0	0
+1369	WNDR	WNDR	80	3	5008	Dormition Cathedral	圣母升天大教堂	Dormition Cathedral	圣母升天大教堂	1493	-1	-1	37	37	16182	16182	0	0	0	0
+1370	SLANCER	SLANCER	70	12	5009	Steppe Lancer	草原突骑	Steppe Lancer	草原突骑	1371	-1	-1	273	273	16746	16746	0	0	0	0
+1371	SLANCER_D	SLANCER_D	30	11	0			[Corp]--Steppe Lancer	尸体--草原突骑	-1			-1	-1	16662	16662	1	1	0	0
+1372	ESLANCER	ESLANCER	70	12	5010	Elite Steppe Lancer	精锐草原突骑	Elite Steppe Lancer	精锐草原突骑	1373	-1	-1	274	274	16746	16746	0	0	0	0
+1373	ESLANCER_D	ESLANCER_D	30	11	0			[Corp]--Elite Steppe Lancer	尸体--精锐草原突骑	-1			-1	-1	16662	16662	1	1	0	0
+1374	IRWAR	IRWAR	70	6	5011	Iroquois Warrior	易洛魁战士	Iroquois Warrior	易洛魁战士	1375	-1	-1	297	297	16113	16113	0	0	0	0
+1375	IRWAR_D	IRWAR_D	30	11	0			[Corp]--Iroquois Warrior	尸体--易洛魁战士	-1			-1	-1	16064	16064	1	1	0	0
+1376	TORCHB	TORCHB	20	14	5590	Torch B	火炬 B	Torch B	火炬 B	-1			-1	-1	16423	16423	0	0	0	0
+1377	TORCHB2	TORCHB2	70	1	5055	Torch B (Convertable)	火炬 B (可招降)	Torch B (Convertable)	火炬 B (可招降)	-1	-1	-1	-1	-1	16753	16753	0	0	0	0
+1378	RCHURCH	RCHURCH	80	1	5012	Rock Church	磐石教堂	Rock Church	磐石教堂	-1	-1	-1	341	341	16182	16182	0	0	0	0
+1379	SGTAA	SGTAA	80	39	5708	Sea Gate	海门	Sea Gate (／)	海门 (／)	-1	-1	-1	71	71	16186	16186	0	0	0	0
+1380	SGTAB	SGTAB	80	39	5708	Sea Gate	海门	Sea Gate (／) (ON)	海门 (／) (开)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1381	SGTAC	SGTAC	80	39	5708	Sea Gate	海门	Sea Gate (／) (Gate Post)	海门 (／) (旗柱)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1382	SGTAX	SGTAX	80	39	5708	Sea Gate	海门	Sea Gate (／) (OFF)	海门 (／) (闭)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1383	SGTBA	SGTBA	80	39	5708	Sea Gate	海门	Sea Gate (＼)	海门 (＼)	-1	-1	-1	71	71	16186	16186	0	0	0	0
+1384	SGTBB	SGTBB	80	39	5708	Sea Gate	海门	Sea Gate (＼) (ON)	海门 (＼) (开)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1385	SGTBC	SGTBC	80	39	5708	Sea Gate	海门	Sea Gate (＼) (Gate Post)	海门 (＼) (旗柱)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1386	SGTBX	SGTBX	80	39	5708	Sea Gate	海门	Sea Gate (＼) (OFF)	海门 (＼) (闭)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1387	SGTCA	SGTCA	80	39	5708	Sea Gate	海门	Sea Gate (－)	海门 (－)	-1	-1	-1	71	71	16186	16186	0	0	0	0
+1388	SGTCB	SGTCB	80	39	5708	Sea Gate	海门	Sea Gate (－) (ON)	海门 (－) (开)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1389	SGTCC	SGTCC	80	39	5708	Sea Gate	海门	Sea Gate (－) (Gate Post)	海门 (－) (旗柱)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1390	SGTCX	SGTCX	80	39	5708	Sea Gate	海门	Sea Gate (－) (OFF)	海门 (－) (闭)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1391	SGTDA	SGTDA	80	39	5708	Sea Gate	海门	Sea Gate (｜)	海门 (｜)	-1	-1	-1	71	71	16186	16186	0	0	0	0
+1392	SGTDB	SGTDB	80	39	5708	Sea Gate	海门	Sea Gate (｜) (ON)	海门 (｜) (开)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1393	SGTDC	SGTDC	80	39	5708	Sea Gate	海门	Sea Gate (｜) (Gate Post)	海门 (｜) (旗柱)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1394	SGTDX	SGTDX	80	39	5708	Sea Gate	海门	Sea Gate (｜) (OFF)	海门 (｜) (闭)	-1	-1	-1	71	71	16186	16186	1	1	0	0
+1395	SUNDJ_D	SUNDJ_D	30	11	0			[Corp]--Sundjata	尸体--松迪亚塔	-1			-1	-1	16445	16445	0	0	0	0
+1396	CHAIN	CHAIN	80	3	5013	Chain	锁链	Chain (／)	锁链 (／)	144	-1	-1	72	72	16186	16186	0	0	0	0
+1397	CHAIN	CHAIN	80	3	5013	Chain	锁链	Chain (＼)	锁链 (＼)	144	-1	-1	72	72	16186	16186	0	0	0	0
+1398	CHAIN	CHAIN	80	3	5013	Chain	锁链	Chain (－)	锁链 (－)	144	-1	-1	72	72	16186	16186	0	0	0	0
+1399	CHAIN	CHAIN	80	3	5013	Chain	锁链	Chain (｜)	锁链 (｜)	144	-1	-1	72	72	16186	16186	0	0	0	0
+1400	RPRIEST	RPRIEST	70	43	5015	Priest with Relic	圣物祭司	Priest with Relic	圣物祭司	1024	-1	-1	33	33	16380	16380	0	0	0	0
+1401	SAVAR_D	SAVAR_D	30	11	0			[Corp]--Savar	尸体--萨瓦尔	-1			-1	-1	16013	16013	1	1	0	0
+1402	Barracks DARK (Rubble)	Barracks DARK (Rubble)	10	11	0			[Rubb]--Barracks 1	废墟--兵营 1	-1			-1	-1	16003	16003	1	1	0	0
+1403	House DARK (Rubble)	House DARK (Rubble)	10	14	0			[Rubb]--House 1	废墟--房屋 1	-1			-1	-1	16003	16003	1	1	0	0
+1404	Mill DARK (Rubble)	Mill DARK (Rubble)	10	14	0			[Rubb]--Mill 1	废墟--磨坊 1	-1			-1	-1	16003	16003	1	1	0	0
+1405	Outpost DARK (Rubble)	Outpost DARK (Rubble)	10	14	0			[Rubb]--Outpost	废墟--哨站	-1			-1	-1	16003	16003	1	1	0	0
+1406	Gate Foundation (Rubble)	Gate Foundation (Rubble)	10	14	0			[Rubb]--Gate Foundation	废墟--城门地基	-1			-1	-1	16003	16003	1	1	0	0
+1407	PalisadeWall DARK (Rubble)	PalisadeWall DARK (Rubble)	10	14	0			[Rubb]--Palisade Wall	废墟--木栅栏	-1			-1	-1	16003	16003	1	1	0	0
+1408	TownCenter DARK (Rubble)	TownCenter DARK (Rubble)	10	11	0			[Rubb]--Town Center 1	废墟--城镇中心 1	-1			-1	-1	16003	16003	1	1	0	0
+1409	LumberCamp (Rubble)	LumberCamp (Rubble)	10	14	0			[Rubb]--Lumber Camp	废墟--伐木场	-1			-1	-1	16003	16003	1	1	0	0
+1410	MiningCamp (Rubble)	MiningCamp (Rubble)	10	14	0			[Rubb]--Mining Camp	废墟--采矿场	-1			-1	-1	16003	16003	1	1	0	0
+1411	Mill Age2 (Rubble)	Mill Age2 (Rubble)	10	14	0			[Rubb]--Mill 2	废墟--磨坊 2	-1			-1	-1	16003	16003	1	1	0	0
+1412	Mill Age3 (Rubble)	Mill Age3 (Rubble)	10	14	0			[Rubb]--Mill 3	废墟--磨坊 3	-1			-1	-1	16003	16003	1	1	0	0
+1413	Barracks Age2 (Rubble)	Barracks Age2 (Rubble)	10	14	0			[Rubb]--Barracks 2	废墟--兵营 2	-1			-1	-1	16003	16003	1	1	0	0
+1414	Barracks Age3 (Rubble)	Barracks Age3 (Rubble)	10	14	0			[Rubb]--Barracks 3	废墟--兵营 3	-1			-1	-1	16003	16003	1	1	0	0
+1415	ArcheryRange Age2 (Rubble)	ArcheryRange Age2 (Rubble)	10	14	0			[Rubb]--Archery Range 2	废墟--靶场 2	-1			-1	-1	16003	16003	1	1	0	0
+1416	ArcheryRange Age3 (Rubble)	ArcheryRange Age3 (Rubble)	10	14	0			[Rubb]--Archery Range 3	废墟--靶场 3	-1			-1	-1	16003	16003	1	1	0	0
+1417	Stable Age2 (Rubble)	Stable Age2 (Rubble)	10	14	0			[Rubb]--Stable 2	废墟--马厩 2	-1			-1	-1	16003	16003	1	1	0	0
+1418	Stable Age3 (Rubble)	Stable Age3 (Rubble)	10	14	0			[Rubb]--Stable 3	废墟--马厩 3	-1			-1	-1	16003	16003	1	1	0	0
+1419	Blacksmith Age2 (Rubble)	Blacksmith Age2 (Rubble)	10	14	0			[Rubb]--Blacksmith 2	废墟--铁匠铺 2	-1			-1	-1	16003	16003	1	1	0	0
+1420	Blacksmith Age3 (Rubble)	Blacksmith Age3 (Rubble)	10	14	0			[Rubb]--Blacksmith 3	废墟--铁匠铺 3	-1			-1	-1	16003	16003	1	1	0	0
+1421	Monastery Age3 (Rubble)	Monastery Age3 (Rubble)	10	14	0			[Rubb]--Monastery	废墟--修道院	-1			-1	-1	16003	16003	1	1	0	0
+1422	Market Age2 (Rubble)	Market Age2 (Rubble)	10	14	0			[Rubb]--Market 2	废墟--市场 2	-1			-1	-1	16003	16003	1	1	0	0
+1423	Market Age3 (Rubble)	Market Age3 (Rubble)	10	14	0			[Rubb]--Market 3	废墟--市场 3	-1			-1	-1	16003	16003	1	1	0	0
+1424	Market Age4 (Rubble)	Market Age4 (Rubble)	10	14	0			[Rubb]--Market 4	废墟--市场 4	-1			-1	-1	16003	16003	1	1	0	0
+1425	SiegeWorkshop Age2 (Rubble)	SiegeWorkshop Age2 (Rubble)	10	14	0			[Rubb]--Siege Workshop 2	废墟--攻城武器厂 2	-1			-1	-1	16003	16003	1	1	0	0
+1426	SiegeWorkshop Age3 (Rubble)	SiegeWorkshop Age3 (Rubble)	10	14	0			[Rubb]--Siege Workshop 3	废墟--攻城武器厂 3	-1			-1	-1	16003	16003	1	1	0	0
+1427	University Age3 (Rubble)	University Age3 (Rubble)	10	14	0			[Rubb]--University 3	废墟--大学 3	-1			-1	-1	16003	16003	1	1	0	0
+1428	University Age4 (Rubble)	University Age4 (Rubble)	10	14	0			[Rubb]--University 4	废墟--大学 4	-1			-1	-1	16003	16003	1	1	0	0
+1429	TradeWorkshop Age3 (Rubble)	TradeWorkshop Age3 (Rubble)	10	14	0			[Rubb]--Trade Workshop	废墟--贸易工厂	-1			-1	-1	16003	16003	1	1	0	0
+1430	Castle Age3 (Rubble)	Castle Age3 (Rubble)	10	14	0			[Rubb]--Castle	废墟--城堡	-1			-1	-1	16003	16003	1	1	0	0
+1431	TownCenter Age2 (Rubble)	TownCenter Age2 (Rubble)	10	14	0			[Rubb]--Town Center 2	废墟--城镇中心 2	-1			-1	-1	16003	16003	1	1	0	0
+1432	TownCenter Age3 (Rubble)	TownCenter Age3 (Rubble)	10	14	0			[Rubb]--Town Center 3	废墟--城镇中心 3	-1			-1	-1	16003	16003	1	1	0	0
+1433	TownCenter Age4 (Rubble)	TownCenter Age4 (Rubble)	10	14	0			[Rubb]--Town Center 4	废墟--城镇中心 4	-1			-1	-1	16003	16003	1	1	0	0
+1434	House Age2 (Rubble)	House Age2 (Rubble)	10	14	0			[Rubb]--House 2	废墟--房屋 2	-1			-1	-1	16003	16003	1	1	0	0
+1435	House Age3 (Rubble)	House Age3 (Rubble)	10	14	0			[Rubb]--House 3	废墟--房屋 3	-1			-1	-1	16003	16003	1	1	0	0
+1436	Tower Age2 (Rubble)	Tower Age2 (Rubble)	10	14	0			[Rubb]--Watch Tower	废墟--瞭望箭塔	-1			-1	-1	16003	16003	1	1	0	0
+1437	Tower Age3 (Rubble)	Tower Age3 (Rubble)	10	14	0			[Rubb]--Guard Tower	废墟--警戒箭塔	-1			-1	-1	16003	16003	1	1	0	0
+1438	Tower Age4 (Rubble)	Tower Age4 (Rubble)	10	14	0			[Rubb]--Keep	废墟--大型箭塔	-1			-1	-1	16003	16003	1	1	0	0
+1439	Tower Bombard (Rubble)	Tower Bombard (Rubble)	10	14	0			[Rubb]--Bombard Tower	废墟--炮塔	-1			-1	-1	16003	16003	1	1	0	0
+1440	PalisadeGate DARK NE (Rubble)	PalisadeGate DARK NE (Rubble)	10	14	0			[Rubb]--Palisade Gate (／)	废墟--木城门 (／)	-1			-1	-1	16003	16003	1	1	0	0
+1441	PalisadeGate DARK SE (Rubble)	PalisadeGate DARK SE (Rubble)	10	14	0			[Rubb]--Palisade Gate (＼)	废墟--木城门 (＼)	-1			-1	-1	16003	16003	1	1	0	0
+1442	PalisadeGate DARK E (Rubble)	PalisadeGate DARK E (Rubble)	10	14	0			[Rubb]--Palisade Gate (－)	废墟--木城门 (－)	-1			-1	-1	16003	16003	1	1	0	0
+1443	PalisadeGate DARK N (Rubble)	PalisadeGate DARK N (Rubble)	10	14	0			[Rubb]--Palisade Gate (｜)	废墟--木城门 (｜)	-1			-1	-1	16003	16003	1	1	0	0
+1444	FortifiedTower (Rubble)	FortifiedTower (Rubble)	10	14	0			[Rubb]--Fortified Tower	废墟--增强防御塔	-1			-1	-1	16003	16003	1	1	0	0
+1445	Wonder (Rubble)	Wonder (Rubble)	10	14	0			[Rubb]--Wonder	废墟--世界奇观	-1			-1	-1	16006	16006	1	1	0	0
+1446	Feitoria (Rubble)	Feitoria (Rubble)	10	14	0			[Rubb]--Feitoria	废墟--大商站	-1			-1	-1	16006	16006	1	1	0	0
+1447	Yurt A (Rubble)	Yurt A (Rubble)	10	14	0			[Rubb]--Yurt A	废墟--蒙古包 A	-1			-1	-1	16003	16003	1	1	0	0
+1448	Yurt B (Rubble)	Yurt B (Rubble)	10	14	0			[Rubb]--Yurt B	废墟--蒙古包 B	-1			-1	-1	16003	16003	1	1	0	0
+1449	Yurt C (Rubble)	Yurt C (Rubble)	10	14	0			[Rubb]--Yurt C	废墟--蒙古包 C	-1			-1	-1	16003	16003	1	1	0	0
+1450	Yurt D (Rubble)	Yurt D (Rubble)	10	14	0			[Rubb]--Yurt D	废墟--蒙古包 D	-1			-1	-1	16003	16003	1	1	0	0
+1451	Yurt E (Rubble)	Yurt E (Rubble)	10	14	0			[Rubb]--Yurt E	废墟--蒙古包 E	-1			-1	-1	16003	16003	1	1	0	0
+1452	Yurt F (Rubble)	Yurt F (Rubble)	10	14	0			[Rubb]--Yurt F	废墟--蒙古包 F	-1			-1	-1	16003	16003	1	1	0	0
+1453	Yurt G (Rubble)	Yurt G (Rubble)	10	14	0			[Rubb]--Yurt G	废墟--蒙古包 G	-1			-1	-1	16003	16003	1	1	0	0
+1454	Yurt H (Rubble)	Yurt H (Rubble)	10	14	0			[Rubb]--Yurt H	废墟--蒙古包 H	-1			-1	-1	16003	16003	1	1	0	0
+1455	Hut A (Rubble)	Hut A (Rubble)	10	14	0			[Rubb]--Hut A	废墟--棚屋 A	-1			-1	-1	16003	16003	1	1	0	0
+1456	Hut B (Rubble)	Hut B (Rubble)	10	14	0			[Rubb]--Hut B	废墟--棚屋 B	-1			-1	-1	16003	16003	1	1	0	0
+1457	Hut C (Rubble)	Hut C (Rubble)	10	14	0			[Rubb]--Hut C	废墟--棚屋 C	-1			-1	-1	16003	16003	1	1	0	0
+1458	Hut D (Rubble)	Hut D (Rubble)	10	14	0			[Rubb]--Hut D	废墟--棚屋 D	-1			-1	-1	16003	16003	1	1	0	0
+1459	Hut E (Rubble)	Hut E (Rubble)	10	14	0			[Rubb]--Hut E	废墟--棚屋 E	-1			-1	-1	16003	16003	1	1	0	0
+1460	Hut F (Rubble)	Hut F (Rubble)	10	14	0			[Rubb]--Hut F	废墟--棚屋 F	-1			-1	-1	16003	16003	1	1	0	0
+1461	Hut G (Rubble)	Hut G (Rubble)	10	14	0			[Rubb]--Hut G	废墟--棚屋 G	-1			-1	-1	16003	16003	1	1	0	0
+1462	Tent A (Rubble)	Tent A (Rubble)	10	14	0			[Rubb]--Tent A	废墟--帐篷 A	-1			-1	-1	16003	16003	1	1	0	0
+1463	Tent B (Rubble)	Tent B (Rubble)	10	14	0			[Rubb]--Tent B	废墟--帐篷 B	-1			-1	-1	16003	16003	1	1	0	0
+1464	Tent C (Rubble)	Tent C (Rubble)	10	14	0			[Rubb]--Tent C	废墟--帐篷 C	-1			-1	-1	16003	16003	1	1	0	0
+1465	Tent D (Rubble)	Tent D (Rubble)	10	14	0			[Rubb]--Tent D	废墟--帐篷 D	-1			-1	-1	16003	16003	1	1	0	0
+1466	Tent E (Rubble)	Tent E (Rubble)	10	14	0			[Rubb]--Tent E	废墟--帐篷 E	-1			-1	-1	16003	16003	1	1	0	0
+1467	ArmyTent A (Rubble)	ArmyTent A (Rubble)	10	14	0			[Rubb]--Army Tent A	废墟--军帐 A	-1			-1	-1	16003	16003	1	1	0	0
+1468	ArmyTent B (Rubble)	ArmyTent B (Rubble)	10	14	0			[Rubb]--Army Tent B	废墟--军帐 B	-1			-1	-1	16003	16003	1	1	0	0
+1469	ArmyTent C (Rubble)	ArmyTent C (Rubble)	10	14	0			[Rubb]--Army Tent C	废墟--军帐 C	-1			-1	-1	16003	16003	1	1	0	0
+1470	ArmyTent D (Rubble)	ArmyTent D (Rubble)	10	14	0			[Rubb]--Army Tent D	废墟--军帐 D	-1			-1	-1	16003	16003	1	1	0	0
+1471	ArmyTent E (Rubble)	ArmyTent E (Rubble)	10	14	0			[Rubb]--Army Tent E	废墟--军帐 E	-1			-1	-1	16003	16003	1	1	0	0
+1472	Barricade A (Rubble)	Barricade A (Rubble)	10	14	0			[Rubb]--Barricade A	废墟--路障 A	-1			-1	-1	16003	16003	1	1	0	0
+1473	Barricade B (Rubble)	Barricade B (Rubble)	10	14	0			[Rubb]--Barricade B	废墟--路障 B	-1			-1	-1	16003	16003	1	1	0	0
+1474	Barricade C (Rubble)	Barricade C (Rubble)	10	14	0			[Rubb]--Barricade C	废墟--路障 C	-1			-1	-1	16003	16003	1	1	0	0
+1475	Barricade D (Rubble)	Barricade D (Rubble)	10	14	0			[Rubb]--Barricade D	废墟--路障 D	-1			-1	-1	16003	16003	1	1	0	0
+1476	Pavilion A (Rubble)	Pavilion A (Rubble)	10	14	0			[Rubb]--Pavilion A	废墟--大帐篷 A	-1			-1	-1	16003	16003	1	1	0	0
+1477	Pavilion B (Rubble)	Pavilion B (Rubble)	10	14	0			[Rubb]--Pavilion B	废墟--大帐篷 B	-1			-1	-1	16003	16003	1	1	0	0
+1478	Pavilion C (Rubble)	Pavilion C (Rubble)	10	14	0			[Rubb]--Pavilion C	废墟--大帐篷 C	-1			-1	-1	16003	16003	1	1	0	0
+1479	Krepost (Rubble)	Krepost (Rubble)	10	14	0			[Rubb]--Krepost	废墟--营垒	-1			-1	-1	16003	16003	1	1	0	0
+1480	Cathedral (Rubble)	Cathedral (Rubble)	10	14	0			[Rubb]--Cathedral	废墟--大教堂	-1			-1	-1	16006	16006	1	1	0	0
+1481	Temple of Heaven (Rubble)	Temple of Heaven (Rubble)	10	14	0			[Rubb]--Temple of Heaven	废墟--天坛	-1			-1	-1	16006	16006	1	1	0	0
+1482	DomeOfRock (Rubble)	DomeOfRock (Rubble)	10	14	0			[Rubb]--Dome of the Rock	废墟--圆顶清真寺	-1			-1	-1	16006	16006	1	1	0	0
+1483	Shrine (Rubble)	Shrine (Rubble)	10	14	0			[Rubb]--Shrine	废墟--祭坛	-1			-1	-1	16003	16003	1	1	0	0
+1484	Storage (Rubble)	Storage (Rubble)	10	14	0			[Rubb]--Storage	废墟--仓库	-1			-1	-1	16003	16003	1	1	0	0
+1485	ArchOfConstantine (Rubble)	ArchOfConstantine (Rubble)	10	14	0			[Rubb]--Arch of Constantine	废墟--君士坦丁凯旋门	-1			-1	-1	16006	16006	1	1	0	0
+1486	Fortress (Rubble)	Fortress (Rubble)	10	14	0			[Rubb]--Fortress	废墟--堡垒	-1			-1	-1	16003	16003	1	1	0	0
+1487	GolGumbaz (Rubble)	GolGumbaz (Rubble)	10	14	0			[Rubb]--Gol Gumbaz	废墟--古尔墓庙	-1			-1	-1	16006	16006	1	1	0	0
+1488	PoenariCastle (Rubble)	PoenariCastle (Rubble)	10	14	0			[Rubb]--Poenari Castle	废墟--伯恩纳里城堡	-1			-1	-1	16003	16003	1	1	0	0
+1489	QuimperCathedral (Rubble)	QuimperCathedral (Rubble)	10	14	0			[Rubb]--Quimper Cathedral	废墟--坎佩尔大教堂	-1			-1	-1	16006	16006	1	1	0	0
+1490	SanchiStupa (Rubble)	SanchiStupa (Rubble)	10	14	0			[Rubb]--Sanchi Stupa	废墟--桑奇佛塔	-1			-1	-1	16006	16006	1	1	0	0
+1491	SankoreMadrasah (Rubble)	SankoreMadrasah (Rubble)	10	14	0			[Rubb]--Sankore Madrasah	废墟--桑科雷清真学堂	-1			-1	-1	16006	16006	1	1	0	0
+1492	TowerOfLondon (Rubble)	TowerOfLondon (Rubble)	10	14	0			[Rubb]--Tower of London	废墟--伦敦塔	-1			-1	-1	16006	16006	1	1	0	0
+1493	DormitionCathedral (Rubble)	DormitionCathedral (Rubble)	10	14	0			[Rubb]--Dormition Cathedral	废墟--圣母升天大教堂	-1			-1	-1	16006	16006	1	1	0	0
+1494	TheAccursedTower (Rubble)	TheAccursedTower (Rubble)	10	14	0			[Rubb]--The Accursed Tower	废墟--诅咒之塔	-1			-1	-1	16003	16003	1	1	0	0
+1495	TheTowerOfFlies (Rubble)	TheTowerOfFlies (Rubble)	10	14	0			[Rubb]--The Tower of Flies	废墟--腐败之塔	-1			-1	-1	16003	16003	1	1	0	0
+1496	Mosque (Rubble)	Mosque (Rubble)	10	14	0			[Rubb]--Mosque	废墟--清真寺	-1			-1	-1	16006	16006	1	1	0	0
+1497	RUBL3V	RUBL3V	10	14	5004	Rubble 4 x 4	碎石 4 x 4	Rubble 4 x 4 (Never fade)	碎石 4 x 4 (不消失)	-1			-1	-1	16004	16004	0	0	0	0
+1498	RUBL3V	RUBL3V	10	14	5006	Rubble 8 x 8	碎石 8 x 8	Rubble 8 x 8 (Never fade)	碎石 8 x 8 (不消失)	-1			-1	-1	16006	16006	0	0	0	0
+1499	Granary (Rubble)	Granary (Rubble)	10	14	0			[Rubb]--Granary	废墟--谷仓	-1			-1	-1	16003	16003	1	1	0	0
+1500	StoneGate NE (Rubble)	StoneGate NE (Rubble)	10	14	0			[Rubb]--Gate (／)	废墟--城门 (／)	-1			-1	-1	16003	16003	1	1	0	0
+1501	StoneGate SE (Rubble)	StoneGate SE (Rubble)	10	14	0			[Rubb]--Gate (＼)	废墟--城门 (＼)	-1			-1	-1	16003	16003	1	1	0	0
+1502	StoneGate E (Rubble)	StoneGate E (Rubble)	10	14	0			[Rubb]--Gate (－)	废墟--城门 (－)	-1			-1	-1	16003	16003	1	1	0	0
+1503	StoneGate N (Rubble)	StoneGate N (Rubble)	10	14	0			[Rubb]--Gate (｜)	废墟--城门 (｜)	-1			-1	-1	16003	16003	1	1	0	0
+1504	FortifiedGate NE (Rubble)	FortifiedGate NE (Rubble)	10	14	0			[Rubb]--Fortified Gate (／)	废墟--增强城门 (／)	-1			-1	-1	16003	16003	1	1	0	0
+1505	FortifiedGate SE (Rubble)	FortifiedGate SE (Rubble)	10	14	0			[Rubb]--Fortified Gate (＼)	废墟--增强城门 (＼)	-1			-1	-1	16003	16003	1	1	0	0
+1506	FortifiedGate E (Rubble)	FortifiedGate E (Rubble)	10	14	0			[Rubb]--Fortified Gate (－)	废墟--增强城门 (－)	-1			-1	-1	16003	16003	1	1	0	0
+1507	FortifiedGate N (Rubble)	FortifiedGate N (Rubble)	10	14	0			[Rubb]--Fortified Gate (｜)	废墟--增强城门 (｜)	-1			-1	-1	16003	16003	1	1	0	0
+1508	StoneWall (Rubble)	StoneWall (Rubble)	10	14	0			[Rubb]--Stone Wall	废墟--石墙	-1			-1	-1	16003	16003	1	1	0	0
+1509	FortifiedWall (Rubble)	FortifiedWall (Rubble)	10	14	0			[Rubb]--Fortified Wall	废墟--垛墙	-1			-1	-1	16003	16003	1	1	0	0
+1510	CityGate NE (Rubble)	CityGate NE (Rubble)	10	14	0			[Rubb]--CityGate (／)	废墟--城墙门 (／)	-1			-1	-1	16003	16003	1	1	0	0
+1511	CityGate SE (Rubble)	CityGate SE (Rubble)	10	14	0			[Rubb]--CityGate (＼)	废墟--城墙门 (＼)	-1			-1	-1	16003	16003	1	1	0	0
+1512	CityGate E (Rubble)	CityGate E (Rubble)	10	14	0			[Rubb]--CityGate (－)	废墟--城墙门 (－)	-1			-1	-1	16003	16003	1	1	0	0
+1513	CityGate N (Rubble)	CityGate N (Rubble)	10	14	0			[Rubb]--CityGate (｜)	废墟--城墙门 (｜)	-1			-1	-1	16003	16003	1	1	0	0
+1514	Amphitheatre (Rubble)	Amphitheatre (Rubble)	10	14	0			[Rubb]--Amphitheatre	废墟--罗马圆形竞技场	-1			-1	-1	16006	16006	1	1	0	0
+1515	Pyramid (Rubble)	Pyramid (Rubble)	10	14	0			[Rubb]--Pyramid	废墟--金字塔	-1			-1	-1	16006	16006	1	1	0	0
+1516	GreatPyramid (Rubble)	GreatPyramid (Rubble)	10	14	0			[Rubb]--Great Pyramid	废墟--大金字塔	-1			-1	-1	16006	16006	1	1	0	0
+1517	AachenCathedral (Rubble)	AachenCathedral (Rubble)	10	14	0			[Rubb]--AachenCathedral	废墟--亚琛大教堂	-1			-1	-1	16006	16006	1	1	0	0
+1518	StoneGate Corner (Rubble)	StoneGate Corner (Rubble)	10	14	0			[Rubb]--Gate (Gate Post)	废墟--城门 (旗柱)	-1			-1	-1	16003	16003	1	1	0	0
+1519	FortifiedGate Corner (Rubble)	FortifiedGate Corner (Rubble)	10	14	0			[Rubb]--Fortified Gate (Gate Post)	废墟--增强城门 (旗柱)	-1			-1	-1	16003	16003	1	1	0	0
+1520	Colosseum (Rubble)	Colosseum (Rubble)	10	14	0			[Rubb]--Colosseum	废墟--罗马斗兽场	-1			-1	-1	16006	16006	1	1	0	0
+1521	PalisadeGate Corner (Rubble)	PalisadeGate Corner (Rubble)	10	14	0			[Rubb]--Palisade Gate (Gate Post)	废墟--木城门 (旗柱)	-1			-1	-1	16003	16003	1	1	0	0
+1522	Aqueduct (Rubble)	Aqueduct (Rubble)	10	14	0			[Rubb]--Aqueduct	废墟--水渠	-1			-1	-1	16003	16003	1	1	0	0
+1523	CityGate Corner (Rubble)	CityGate Corner (Rubble)	10	14	0			[Rubb]--CityGate (Gate Post) (No Graphic)	废墟--城墙门 (旗柱) (无图像)	-1			-1	-1	16003	16003	1	1	0	0
+1524	Donjon Age2 (Rubble)	Donjon Age2 (Rubble)	10	14	0			[Rubb]--Donjon	废墟--城楼	-1			-1	-1	16003	16003	1	1	0	0
+1525			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1526			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1527			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1528			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1529			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1530			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1531			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1532			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1533			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1534			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1535			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1536			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1537			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1538			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1539			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1540			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1541			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1542			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1543			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1544			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1545			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1546			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1547			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1548			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1549			10	-1	0					-1			-1	-1	16000	16000	0	0	0	1
+1550	BGEA	BGEA	80	14	5021	Bridge E--Top	桥 E--顶部	Bridge E--Top	桥 E--顶部	144	-1	-1	-1	-1	16511	16511	0	0	0	0
+1551	BGEB	BGEB	80	14	5022	Bridge E--Middle	桥 E--中部	Bridge E--Middle	桥 E--中部	144	-1	-1	-1	-1	16512	16512	0	0	0	0
+1552	BGEC	BGEC	80	14	5023	Bridge E--Bottom	桥 E--底部	Bridge E--Bottom	桥 E--底部	144	-1	-1	-1	-1	16513	16513	0	0	0	0
+1553	BGFA	BGFA	80	14	5024	Bridge F--Top	桥 F--顶部	Bridge F--Top	桥 F--顶部	144	-1	-1	-1	-1	16514	16514	0	0	0	0
+1554	BGFB	BGFB	80	14	5025	Bridge F--Middle	桥 F--中部	Bridge F--Middle	桥 F--中部	144	-1	-1	-1	-1	16515	16515	0	0	0	0
+1555	BGFC	BGFC	80	14	5026	Bridge F--Bottom	桥 F--底部	Bridge F--Bottom	桥 F--底部	144	-1	-1	-1	-1	16516	16516	0	0	0	0
+1556	BGED	BGED	80	14	5027	Bridge E--Cracked	桥 E--破裂	Bridge E--Cracked	桥 E--破裂	144	-1	-1	-1	-1	16641	16641	0	0	0	0
+1557	BGEE	BGEE	80	14	5028	Bridge E--Broken Top	桥 E--破损的顶部	Bridge E--Broken Top	桥 E--破损的顶部	144	-1	-1	-1	-1	16642	16642	0	0	0	0
+1558	BGEF	BGEF	80	14	5029	Bridge E--Broken Bottom	桥 E--破损的底部	Bridge E--Broken Bottom	桥 E--破损的底部	144	-1	-1	-1	-1	16643	16643	0	0	0	0
+1559	BGFD	BGFD	80	14	5030	Bridge F--Cracked	桥 F--破裂	Bridge F--Cracked	桥 F--破裂	144	-1	-1	-1	-1	16644	16644	0	0	0	0
+1560	BGFE	BGFE	80	14	5031	Bridge F--Broken Top	桥 F--破损的顶部	Bridge F--Broken Top	桥 F--破损的顶部	144	-1	-1	-1	-1	16645	16645	0	0	0	0
+1561	BGFF	BGFF	80	14	5032	Bridge F--Broken Bottom	桥 F--破损的底部	Bridge F--Broken Bottom	桥 F--破损的底部	144	-1	-1	-1	-1	16646	16646	0	0	0	0
+1562	PAGODA1	PAGODA1	10	14	5033	Paifang Gate	牌坊	Paifang Gate	牌坊	-1			-1		16756	16756	0	0	1	0
+1563	PAGODA1	PAGODA1	10	14	5036	Nubian Pyramid	努比亚金字塔	Nubian Pyramid	努比亚金字塔	-1			-1		16756	16756	0	0	1	0
+1564	TARGETA	TARGETA	10	14	5034	Target A	箭靶 A	Target A	箭靶 A	-1			-1	-1	16721	16000	0	0	0	0
+1565	TARGETB	TARGETB	10	14	5035	Target B	箭靶 B	Target B	箭靶 B	-1			-1	-1	16721	16000	0	0	0	0
+1566	RUINS	RUINS	10	14	5038	Temple Ruin	神庙遗迹	Temple Ruin	神庙遗迹	-1			-1		16757	16757	0	0	1	0
+1567	PAGODA1	PAGODA1	10	14	5037	Well	井	Well	井	-1			-1		16756	16756	0	0	1	0
+1568	MSAMUR	MSAMUR	70	12	5039	Mounted Samurai	马上日本武士	Mounted Samurai	马上日本武士	1569	-1	-1	103	103	16661	16661	0	0	0	0
+1569	MSAMUR_D	MSAMUR_D	30	11	0			[Corp]--Mounted Samurai	尸体--马上日本武士	-1			-1	-1	16662	16662	1	1	0	0
+1570	AZTRAIDER	AZTRAIDER	70	12	5040	Xolotl Warrior	索洛托勇士	Xolotl Warrior	索洛托勇士	1571	-1	-1	351	351	16326	16326	0	0	0	0
+1571	AZTRAIDER_D	AZTRAIDER_D	30	11	0			[Corp]--Xolotl Warrior	尸体--索洛托勇士	-1			-1	-1	16676	16676	1	1	0	0
+1572	MERCHANT	MERCHANT	70	59	5041	Merchant	商人	Merchant	商人	1573	-1	-1	346	346	16301	16301	0	0	0	0
+1573	MERCHANT_D	MERCHANT_D	30	11	0			[Corp]--Merchant	尸体--商人	-1			-1	-1	16302	16302	1	1	0	0
+1574	HSOSSO	HSOSSO	70	6	5042	Sosso Guard	索索人护卫	Sosso Guard	索索人护卫	1575	-1	-1	350	350	16101	16101	0	0	0	0
+1575	HSOSSO_D	HSOSSO_D	30	11	0			[Corp]--Sosso Guard	尸体--索索人护卫	-1			-1	-1	16028	16028	1	1	0	0
+1576	RJANNI_D	RJANNI_D	30	11	0			[Corp]--Royal Janissary	尸体--皇家苏丹亲兵	-1			-1	-1	16028	16028	1	1	0	0
+1577	PHOTON	PHOTON	70	44	5043	Photonman	装备激光武器的人	Photonman	装备激光武器的人	1578	1595	-1	300	300	16043	16043	0	0	0	0
+1578	PHOTON_D	PHOTON_D	30	11	0			[Corp]--Photonman	尸体--装备激光武器的人	-1			-1	-1	16028	16028	1	1	0	0
+1579	CGTAA	CGTAA	80	39	5044	City Gate	城门	City Gate (／)	城墙门 (／)	1510	-1	-1	36	36	16044	16044	0	0	0	0
+1580	CGTAB	CGTAB	80	39	5044	City Gate	城门	City Gate (／) (ON)	城墙门 (／) (开)	1510	-1	-1	36	36	16044	16044	1	1	0	0
+1581	CGTAC	CGTAC	80	39	5044	City Gate	城门	City Gate (／) (Gate Post)	城墙门 (／) (旗柱)	1509	-1	-1	36	36	16044	16044	1	1	0	0
+1582	CGTAX	CGTAX	80	39	5044	City Gate	城门	City Gate (／) (OFF)	城墙门 (／) (闭)	1406	-1	-1	36	36	16044	16044	1	1	0	0
+1583	CGTBA	CGTBA	80	39	5044	City Gate	城门	City Gate (＼)	城墙门 (＼)	1511	-1	-1	36	36	16044	16044	0	0	0	0
+1584	CGTBB	CGTBB	80	39	5044	City Gate	城门	City Gate (＼) (ON)	城墙门 (＼) (开)	1511	-1	-1	36	36	16044	16044	1	1	0	0
+1585	CGTBC	CGTBC	80	39	5044	City Gate	城门	City Gate (＼) (Gate Post)	城墙门 (＼) (旗柱)	1509	-1	-1	36	36	16044	16044	1	1	0	0
+1586	CGTBX	CGTBX	80	39	5044	City Gate	城门	City Gate (＼) (OFF)	城墙门 (＼) (闭)	1406	-1	-1	36	36	16044	16044	1	1	0	0
+1587	CGTCA	CGTCA	80	39	5044	City Gate	城门	City Gate (－)	城墙门 (－)	1512	-1	-1	36	36	16044	16044	0	0	0	0
+1588	CGTCB	CGTCB	80	39	5044	City Gate	城门	City Gate (－) (ON)	城墙门 (－) (开)	1512	-1	-1	36	36	16044	16044	1	1	0	0
+1589	CGTCC	CGTCC	80	39	5044	City Gate	城门	City Gate (－) (Gate Post)	城墙门 (－) (旗柱)	1509	-1	-1	36	36	16044	16044	1	1	0	0
+1590	CGTCX	CGTCX	80	39	5044	City Gate	城门	City Gate (－) (OFF)	城墙门 (－) (闭)	1406	-1	-1	36	36	16044	16044	1	1	0	0
+1591	CGTDA	CGTDA	80	39	5044	City Gate	城门	City Gate (｜)	城墙门 (｜)	1513	-1	-1	36	36	16044	16044	0	0	0	0
+1592	CGTDB	CGTDB	80	39	5044	City Gate	城门	City Gate (｜) (ON)	城墙门 (｜) (开)	1513	-1	-1	36	36	16044	16044	1	1	0	0
+1593	CGTDC	CGTDC	80	39	5044	City Gate	城门	City Gate (｜) (Gate Post)	城墙门 (｜) (旗柱)	1509	-1	-1	36	36	16044	16044	1	1	0	0
+1594	CGTDX	CGTDX	80	39	5044	City Gate	城门	City Gate (｜) (OFF)	城墙门 (｜) (闭)	1406	-1	-1	36	36	16044	16044	1	1	0	0
+1595	Projectile Laser	Projectile Laser	60	11	0			[Proj] (Laser)	抛射物 (激光)	-1	-1		-1	-1	16315	16315	1	1	0	0
+1596	Cow Black	Cow Black	70	58	21049	Cow B	奶牛 B	Cow B	奶牛 B	1597	-1	-1	150	150	16498	16498	0	0	0	0
+1597	COWBK_D	COWBK_D	30	11	0			[Corp]--Cow B	尸体--奶牛 B	-1			150		16017	16017	1	1	1	0
+1598	Cow Brown and White	Cow Brown and White	70	58	21050	Cow C	奶牛 C	Cow C	奶牛 C	1599	-1	-1	150	150	16498	16498	0	0	0	0
+1599	COWBNE_D	COWBNE_D	30	11	0			[Corp]--Cow C	尸体--奶牛 C	-1			150		16017	16017	1	1	1	0
+1600	Cow Brown	Cow Brown	70	58	21051	Cow D	奶牛 D	Cow D	奶牛 D	1601	-1	-1	150	150	16498	16498	0	0	0	0
+1601	COWBN_D	COWBN_D	30	11	0			[Corp]--Cow D	尸体--奶牛 D	-1			150		16017	16017	1	1	1	0
+1602	HORSEGBL	HORSEGBL	70	61	21054	Horse C	马 C	Horse C	马 C	1603	-1	-1	112	112	16714	16714	0	0	0	0
+1603	HORSEGBL_D	HORSEGBL_D	30	11	0			[Corp]--Horse C	尸体--马 C	-1			3	3	16715	16715	1	1	0	0
+1604	HORSEGBR	HORSEGBR	70	61	21055	Horse D	马 D	Horse D	马 D	1605	-1	-1	112	112	16714	16714	0	0	0	0
+1605	HORSEGBR_D	HORSEGBR_D	30	11	0			[Corp]--Horse D	尸体--马 D	-1			3	3	16715	16715	1	1	0	0
+1606	HORSEWBR	HORSEWBR	70	61	21056	Horse E	马 E	Horse E	马 E	1607	-1	-1	112	112	16714	16714	0	0	0	0
+1607	HORSEWBR_D	HORSEWBR_D	30	11	0			[Corp]--Horse E	尸体--马 E	-1			3	3	16715	16715	1	1	0	0
+1608	BUTTERFL1	BUTTERFL1	70	11	5045	Butterflies	蝴蝶	Butterflies 1	蝴蝶 1	-1	-1	-1	-1		16716	16716	0	0	1	0
+1609	BUTTERFL2	BUTTERFL2	70	11	5045	Butterflies	蝴蝶	Butterflies 2	蝴蝶 2	-1	-1	-1	-1		16716	16716	0	0	1	0
+1610	BUTTERFL3	BUTTERFL3	70	11	5045	Butterflies	蝴蝶	Butterflies 3	蝴蝶 3	-1	-1	-1	-1		16716	16716	0	0	1	0
+1611	Animal Blood Small	Animal Blood Small	30	11	0			Animal Blood Small	动物血迹 小	-1			96	96	16000	16000	1	1	0	0
+1612	Animal Blood Large	Animal Blood Large	30	11	0			Animal Blood Large	动物血迹 大	-1			96	96	16000	16000	1	1	0	0
+1613	Terrain blocker	Terrain blocker	10	14	0			Terrain blocker	Terrain blocker (地形障碍块)	-1			14		16400	16400	1	1	1	0
+1614	Bolt explosion	Bolt explosion	70	35	0			Ballista Elephant's Tree cutter	Bolt explosion (象弩炮溅射器)	-1	-1	-1	-1	-1	16777	16777	1	1	0	0
+1615	SFORZA_D	SFORZA_D	30	11	0			[Corp]--Francesco Sforza	尸体--弗朗切斯科·斯福尔扎	-1			-1	-1	16042	16042	1	1	0	0
+1616	TARIQ_D	TARIQ_D	30	11	0			[Corp]--Tariq ibn Ziyad	尸体--塔里克·伊本·齐亚德	-1			-1	-1	16028	16028	1	1	0	0
+1617	DRACULA_D	DRACULA_D	30	11	0			[Corp]--Vlad Dracula	尸体--弗拉德·德古拉	-1			-1	-1	16028	16028	1	1	0	0
+1618	SUBOTAI_D	SUBOTAI_D	30	11	0			[Corp]--Subotai	尸体--速不台	-1			-1	-1	16528	16528	1	1	0	0
+1619	ATTILA_D	ATTILA_D	30	11	0			[Corp]--Attila the Hun	尸体--匈奴王阿提拉	-1			-1	-1	16013	16013	1	1	0	0
+1620	ALARIC_D	ALARIC_D	30	11	0			[Corp]--Alaric the Goth	尸体--哥特国王阿拉里克	-1			-1	-1	16528	16528	1	1	0	0
+1621	SUMANGURU_D	SUMANGURU_D	30	11	0			[Corp]--Sumanguru	尸体--苏曼古鲁	-1			-1	-1	16013	16013	1	1	0	0
+1622	WNDR	WNDR	80	3	5339	Aachen Cathedral	牦牛	Aachen Cathedral	亚琛大教堂 (原 牦牛)	1517	-1	-1	37	37	16182	16182	0	0	0	0
+1623	LELOI_D	LELOI_D	30	11	0			[Corp]--Le Loi	尸体--黎利	-1			-1	-1	16300	16300	1	1	0	0
+1624	ATAULF_D	ATAULF_D	30	11	0			[Corp]--Ataulf	尸体--阿陶尔夫	-1			-1	-1	16022	16022	1	1	0	0
+1625	YODIT_D	YODIT_D	30	11	0			[Corp]--Yodit	尸体--游娣特	-1			-1	-1	16028	16028	1	1	0	0
+1626	CUSI_D	CUSI_D	30	11	0			[Corp]--Cusi Yupanqui	尸体--库西·尤潘基	-1			-1	-1	16672	16672	1	1	0	0
+1627	PRITH_D	PRITH_D	30	11	0			[Corp]--Prithviraj	尸体--布里陀毗罗阇	-1			-1	-1	16028	16028	1	1	0	0
+1628	JARL_D	JARL_D	30	11	0			[Corp]--Jarl	尸体--首领	-1			-1	-1	16028	16028	1	1	0	0
+1629	IVAYLO_D	IVAYLO_D	30	11	0			[Corp]--Ivaylo (Unused)	尸体--伊瓦依洛 (未用)	-1			-1	-1	16447	16447	1	1	0	0
+1630	IVAYLO_INF_D	IVAYLO_INF_D	30	11	0			[Corp]--Ivaylo (Dismounted)	尸体--伊瓦依洛 (下马)	-1			-1	-1	16447	16447	1	1	0	0
+1631	HMBRK	HMBRK	70	22	5347	The Middlebrook	爆破推车	The Middlebrook (Hero Demolition Ship)	爆破推车 (英雄爆破船)	-1	767	-1	353	353	16457	16457	0	0	0	0
+1632	OSMAN_D	OSMAN_D	30	11	0			[Corp]--Osman	尸体--奥斯曼	-1			-1	-1	16528	16528	1	1	0	0
+1633	HPACHAC_D	HPACHAC_D	30	11	0			[Corp]--Pachacuti	尸体--帕查库提	-1			-1	-1	16728	16728	1	1	0	0
+1634	STUMBAO	STUMBAO	10	14	0			Stump (Baobab)	树桩 (猴面包树)	-1			-1		16618	16618	1	1	1	0
+1635	WFALL	WFALL	20	14	5063	Waterfall (Background)	瀑布 (背景)	Waterfall (Background)	瀑布 (背景)	-1			-1	-1	16756	16756	0	1	1	0
+1636	ENVOY_D	ENVOY_D	30	11	0			[Corp]--Envoy	尸体--使者	-1			-1	-1	16528	16528	1	1	0	0
+1637	HBAYIN_D	HBAYIN_D	30	11	0			[Corp]--Bayinnaung	尸体--莽应龙	-1			-1	-1	16037	16037	1	1	0	0
+1638	KUSHLUK_D	KUSHLUK_D	30	11	0			[Corp]--Kushluk	尸体--屈出律	-1			-1	-1	16528	16528	1	1	0	0
+1639	Monument resources enabler	Monument resources enabler	80	3	0			Monument resources producing enabler	纪念碑产资源启用器	-1	-1	-1	-1	-1	16464	16464	1	1	0	0
+1640	Villager building (Male)	Villager building (Male)	80	27	0			Villager bonus device (Disused) (Step 2) (male) (China/Maya)	村民奖励器 (已弃用) (步骤2) (男) (中国/玛雅)	1643	-1	-1	40	40	16464	16464	1	1	0	0
+1641	Villager building (Female)	Villager building (Female)	80	27	0			Villager bonus device (Disused) (Step 2) (female) (China/Maya)	村民奖励器 (已弃用) (步骤2) (女) (中国/玛雅)	1645	-1	-1	40	40	16464	16464	1	1	0	0
+1642	Villager annex (Chinese)	Villager annex (Chinese)	80	27	0			Villager bonus device (Disused) (Step 1) (China)	村民奖励器 (已弃用) (步骤1) (中国)	-1	-1	-1	40	40	16464	16464	1	1	0	0
+1643	Villager building2 (Male)	Villager building2 (Male)	80	27	0			Villager bonus device (Disused) (Step 3) (male) (China/Maya)	村民奖励器 (已弃用) (步骤3) (男) (中国/玛雅)	83	-1	-1	40	40	16464	16464	1	1	0	0
+1644	Villager annex (Mayan)	Villager annex (Mayan)	80	27	0			Villager bonus device (Disused) (Step 1) (Maya)	村民奖励器 (已弃用) (步骤1) (玛雅)	-1	-1	-1	40	40	16464	16464	1	1	0	0
+1645	Villager building2 (Female)	Villager building2 (Female)	80	27	0			Villager bonus device (Disused) (Step 3) (female) (China/Maya)	村民奖励器 (已弃用) (步骤3) (女) (中国/玛雅)	293	-1	-1	40	40	16464	16464	1	1	0	0
+1646	MRKT	MRKT	10	14	5161	Market	市场	Market (Terrain object)	市场 (地形物)	1422			16	16	16161	16161	1	1	0	0
+1647	TDWS4	TDWS4	80	3	5174	Trade Workshop	贸易工厂	Trade Workshop 4 (Produce Food+Wood+Gold)	贸易工厂 4 (可产木食金)	1429	-1	-1	17	17	16174	16174	1	1	0	0
+1648	Trail Smoke (Gunpowder)	Trail Smoke (Gunpowder)	20	11	0			Wake smoke (Gun bullet)	尾迹烟雾 (火枪弹)	-1			-1	-1	16551	16551	1	1	0	0
+1649	Trophy None	Trophy None	80	3	0			TC Trophy Annex (None)	TC附加奖杯 (空白)	-1	-1	-1	-1	-1	16225	16225	1	1	0	0
+1650	Trophy Bronze	Trophy Bronze	80	3	0			TC Trophy Annex (Bronze)	TC附加奖杯 (铜)	-1	-1	-1	-1	-1	16225	16225	1	1	0	0
+1651	Trophy Silver	Trophy Silver	80	3	0			TC Trophy Annex (Silver)	TC附加奖杯 (银)	-1	-1	-1	-1	-1	16225	16225	1	1	0	0
+1652	Trophy Gold	Trophy Gold	80	3	0			TC Trophy Annex (Gold)	TC附加奖杯 (金)	-1	-1	-1	-1	-1	16225	16225	1	1	0	0
+1653	Trophy Platinum	Trophy Platinum	80	3	0			TC Trophy Annex (Platinum)	TC附加奖杯 (铂)	-1	-1	-1	-1	-1	16225	16225	1	1	0	0
+1654	Resources	Resources	80	27	0			Resources (Invisible Produce Food+Wood+Gold)	Resources (隐形 可产木食金)	-1	-1	-1	-1	-1	16737	16737	1	1	0	0
+1655	COUSTILLIER	COUSTILLIER	70	12	5534	Coustillier	马上轻装兵	Coustillier	马上轻装兵	1656	-1	-1	355	355	16101	16101	0	0	0	0
+1656	COUSTILLIER_D	COUSTILLIER_D	30	11	0			[Corp]--Coustillier	尸体--马上轻装兵	-1			-1	-1	16447	16447	1	1	0	0
+1657	ECOUSTILLIER	ECOUSTILLIER	70	12	5536	Elite Coustillier	精锐马上轻装兵	Elite Coustillier	精锐马上轻装兵	1656	-1	-1	355	355	16101	16101	0	0	0	0
+1658	SERJEANT	SERJEANT	70	6	5538	Serjeant	萨金特卫兵	Serjeant	萨金特卫兵	1662	-1	-1	356	356	16104	16104	0	0	0	0
+1659	ESERJEANT	ESERJEANT	70	6	5540	Elite Serjeant	精锐萨金特卫兵	Elite Serjeant	精锐萨金特卫兵	1662	-1	-1	356	356	16454	16454	0	0	0	0
+1660	DSERJEANT	DSERJEANT	70	6	5538	Serjeant	萨金特卫兵	Serjeant	萨金特卫兵	1662	-1	-1	356	356	16101	16101	1	1	0	0
+1661	EDSERJEANT	EDSERJEANT	70	6	5540	Elite Serjeant	精锐萨金特卫兵	Elite Serjeant	精锐萨金特卫兵	1662	-1	-1	356	356	16101	16101	1	1	0	0
+1662	SERJEANT_D	SERJEANT_D	30	11	0			[Corp]--Serjeant	尸体--萨金特卫兵	-1			-1	-1	16022	16022	1	1	0	0
+1663	FLEMISHPIKEMAN	FLEMISHPIKEMAN	70	6	5542	Flemish Militia	弗拉芒民兵	Flemish Militia (male)	弗拉芒民兵 (男)	1664	-1	-1	354	354	16469	16469	0	0	0	0
+1664	FLEMISHPIKEMAN_D	FLEMISHPIKEMAN_D	30	11	0			[Corp]--Flemish Militia (male)	尸体--弗拉芒民兵 (男)	-1			-1	-1	16022	16022	1	1	0	0
+1665	DONJON	DONJON	80	52	5544	Donjon	城楼	Donjon	城楼	1524	504	505	84	84	16350	16350	0	0	0	0
+1666	BURKNGHT_D	BURKNGHT_D	30	11	0			[Corp]--Knight (Give gold with born)	尸体--骑士 (产生送金)	-1			-1	-1	16030	16030	0	0	0	0
+1667	BURPALDN_D	BURPALDN_D	30	11	0			[Corp]--Cavalier (Give gold with born)	尸体--重装骑士 (产生送金)	-1			-1	-1	16039	16039	1	1	0	0
+1668	BURHEROC_D	BURHEROC_D	30	11	0			[Corp]--Paladin (Give gold with born)	尸体--游侠 (产生送金)	-1			-1	-1	16472	16472	1	1	0	0
+1669	EDWARD	EDWARD	70	12	5470	Edward Longshanks	长腿爱德华	Edward Longshanks	长腿爱德华	1670	-1	-1	358	358	16724	16724	0	0	0	0
+1670	EDWARD_D	EDWARD_D	30	11	0			[Corp]--Edward Longshanks	尸体--长腿爱德华	-1			-1	-1	16472	16472	1	1	0	0
+1671	GILBERT	GILBERT	70	12	5477	Gilbert de Clare	吉尔伯特·德·克莱尔	Gilbert de Clare	吉尔伯特·德·克莱尔	1672	-1	-1	364	364	16724	16724	0	0	0	0
+1672	GILBERT_D	GILBERT_D	30	11	0			[Corp]--Gilbert de Clare	尸体--吉尔伯特·德·克莱尔	-1			-1	-1	16472	16472	1	1	0	0
+1673	JOHN	JOHN	70	12	5478	John the Fearless	无畏的约翰	John the Fearless	无畏的约翰	1674	-1	-1	359	359	16724	16724	0	0	0	0
+1674	JOHN_D	JOHN_D	30	11	0			[Corp]--John the Fearless	尸体--无畏的约翰	-1			-1	-1	16472	16472	1	1	0	0
+1675	PHILIP	PHILIP	70	12	5479	Philip the Good	好人腓力	Philip the Good	好人腓力	1676	-1	-1	360	360	16724	16724	0	0	0	0
+1676	PHILIP_D	PHILIP_D	30	11	0			[Corp]--Philip the Good	尸体--好人腓力	-1			-1	-1	16472	16472	1	1	0	0
+1677	ROBERT	ROBERT	70	12	5480	Robert Guiscard	罗伯特·吉斯卡尔	Robert Guiscard	罗伯特·吉斯卡尔	1678	-1	-1	361	361	16724	16724	0	0	0	0
+1678	ROBERT_D	ROBERT_D	30	11	0			[Corp]--Robert Guiscard	尸体--罗伯特·吉斯卡尔	-1			-1	-1	16472	16472	1	1	0	0
+1679	ROGER	ROGER	70	12	5546	Roger Bosso	罗杰·博索	Roger Bosso	罗杰·博索	1680	-1	-1	362	362	16724	16724	0	0	0	0
+1680	ROGER_D	ROGER_D	30	11	0			[Corp]--Roger Bosso	尸体--罗杰·博索	-1			-1	-1	16472	16472	1	1	0	0
+1681	BOHEMOND	BOHEMOND	70	12	5548	Bohemond	博希蒙德	Bohemond	博希蒙德	1682	-1	-1	357	357	16724	16724	0	0	0	0
+1682	BOHEMOND_D	BOHEMOND_D	30	11	0			[Corp]--Bohemond	尸体--博希蒙德	-1			-1	-1	16472	16472	1	1	0	0
+1683	LLYWELYN	LLYWELYN	70	6	5550	Llywelyn ap Gruffydd	卢埃林·阿颇·格鲁菲德	Llywelyn ap Gruffydd	卢埃林·阿颇·格鲁菲德	1684	-1	-1	368	368	16619	16619	0	0	0	0
+1684	LLYWELYN_D	LLYWELYN_D	30	11	0			[Corp]--Llywelyn ap Gruffydd	尸体--卢埃林·阿颇·格鲁菲德	-1			-1	-1	16064	16064	1	1	0	0
+1685	DAFYDD	DAFYDD	70	6	5551	Dafydd ap Gruffydd	达菲德·阿颇·格鲁菲德	Dafydd ap Gruffydd	达菲德·阿颇·格鲁菲德	1686	-1	-1	366	366	16619	16619	0	0	0	0
+1686	DAFYDD_D	DAFYDD_D	30	11	0			[Corp]--Dafydd ap Gruffydd	尸体--达菲德·阿颇·格鲁菲德	-1			-1	-1	16064	16064	1	1	0	0
+1687	BERNARD	BERNARD	70	12	5554	Bernard d’Armagnac	阿马尼亚克的伯纳德	Bernard d'Armagnac	阿马尼亚克的伯纳德	1688	-1	-1	365	365	16724	16724	0	0	0	0
+1688	BERNARD_D	BERNARD_D	30	11	0			[Corp]--Bernard d'Armagnac	尸体--阿马尼亚克的伯纳德	-1			-1	-1	16472	16472	1	1	0	0
+1689	FLARE5	FLARE5	10	11	21059	Flare (Permanent)	闪烁 (永久)	Flare 5 (Map signal 0 Tile Permanent)	闪烁 5 (地图信号 0格永久)	-1			-1	-1	16316	16316	0	0	0	0
+1690	TREBU	TREBU	80	54	5555	Warwolf Trebuchet	战狼号巨型投石机	Warwolf Trebuchet (Unfolded)	战狼号巨型投石机 (展开)	194	371	-1	94	94	16097	16097	0	0	0	0
+1691	PTREB	PTREB	80	51	5556	Warwolf Trebuchet (Packed)	战狼号巨型投石机 (组装)	Warwolf Trebuchet (Movable)	战狼号巨型投石机 (可移动)	735	-1	-1	313	313	16381	16381	0	0	0	0
+1692	JACQUELINE	JACQUELINE	70	59	5557	Jacqueline of Hainaut	埃诺的杰奎琳	Jacqueline of Hainaut	埃诺的杰奎琳	1328	-1	-1	367	367	16307	16307	0	0	0	0
+1693	Sheep building1	Sheep building1	80	27	0			Tartar sheep bonus device (Step 3)	鞑靼绵羊奖励器 (步骤3)	1700	-1	-1	40	40	16464	16464	1	1	0	0
+1694	Sheep annex1	Sheep annex1	80	27	0			Tartar sheep bonus device (Step 1)	鞑靼绵羊奖励器 (步骤1)	1696	-1	-1	40	40	16464	16464	1	1	0	0
+1695	Sheep building2	Sheep building2	80	27	0			Tartar sheep bonus device (Step 5)	鞑靼绵羊奖励器 (步骤5)	594	-1	-1	40	40	16464	16464	1	1	0	0
+1696	Sheep annex2	Sheep annex2	80	27	0			Tartar sheep bonus device (Step 2)	鞑靼绵羊奖励器 (步骤2)	-1	-1	-1	40	40	16464	16464	1	1	0	0
+1697	FLEMISHPIKEMANF	FLEMISHPIKEMANF	70	6	5542	Flemish Militia	弗拉芒民兵	Flemish Militia (female)	弗拉芒民兵 (女)	1698	-1	-1	354	354	16469	16469	0	0	0	0
+1698	FLEMISHPIKEMANF_D	FLEMISHPIKEMANF_D	30	11	0			[Corp]--Flemish Militia (female)	尸体--弗拉芒民兵 (女)	-1			-1	-1	16022	16022	1	1	0	0
+1699	FLEMISHPIKEMAN2	FLEMISHPIKEMAN2	70	6	5542	Flemish Militia	弗拉芒民兵	Flemish Militia (train)	弗拉芒民兵 (训练)	1664	-1	-1	354	354	16735	16735	1	1	0	0
+1700	Sheep building3	Sheep building3	80	27	0			Tartar sheep bonus device (Step 4)	鞑靼绵羊奖励器 (步骤4)	-1	-1	-1	40	40	16464	16464	1	1	0	0
